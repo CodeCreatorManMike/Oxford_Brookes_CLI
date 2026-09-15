@@ -1,0 +1,487 @@
+--- Page 1 ---
+Formula Booklet — MATH4004
+1 Algebra 2
+Laws of indices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Quadratic equations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Laws of logarithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2 Sets 3
+Common sets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Set operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Laws of the algebra of sets . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Cardinality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Ordered pairs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3 Probability 5
+Sets and probability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Conditional probability . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4 Relations 6
+Properties of binary relations . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equivalence relations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Partial orders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Inverse and composite relations . . . . . . . . . . . . . . . . . . . . . . . 7
+5 Combinatorics 8
+Addition and multiplication principles . . . . . . . . . . . . . . . . . . . . . 8
+Samples, permutations, selections and combinations . . . . . . . . . . . . . 8
+Binomial expansion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Rearrangement theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+6 Graphs 10
+Basic terminology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Connectivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Hamiltonian cycles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+7 Digraphs 12
+Consistent labelling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Reachability matrices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+8 Matrices 13
+The algebra of matrices . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Determinants and inverses . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Elementary row operations . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Gaussian elimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+--- Page 2 ---
+MATH4004
+1 Algebra
+Laws of indices
+For any number a:
+• a 0 = 1 −n 1 • (a m ) n = a mn
+• a =
+an
+m
+√
+• a 1 = a • an = n am
+m
+a
+m−n
+• a m ×a n = a m+n • an = a
+Quadratic equations
+2
+The solutions to the quadratic equation ax +bx+c = 0 are given by the quadratic
+formula
+(cid:112)
+−b± b2−4ac
+x = .
+2a
+Laws of logarithms
+For any numbers a,x,y:
+• log (1) = 0. • log (xy) = log (x)+log (y).
+a a a a
+(cid:18) (cid:19)
+x
+• log (a) = 1. • log = log (x)−log (y).
+a a a a
+y
+x n
+• log (a ) = x. • log (x ) = nlog (x).
+a a a
+Page 2 of 16
+©OxfordBrookesUniversity
+
+--- Page 3 ---
+MATH4004
+2 Sets
+Common sets
+• 0/ denotes the EMPTY SET, sometimes the notation {} is used instead.
+• N = {1,2,3,···}, the NATURAL NUMBERS.
+• N = {0,1,2,3,···}, the NATURAL NUMBERS with 0.
+0
+• Z = {0,±1,±2,±3,···}, the INTEGERS.
+(cid:110) (cid:111)
+• Q = p : p ∈ Z and q ∈ Z and q ̸= 0 , the RATIONAL NUMBERS.
+q
+R
+• denotes the set of REAL NUMBERS.
+Set operations
+• A set A is a subset of a set S, denoted as A ⊆ S, if for every x ∈ A then x ∈ S.
+• Two sets are equal if and only if each is a subset of the other.
+• The union of two sets A and B is the set
+A∪B = {x : x ∈ A or x ∈ B}.
+• The intersection of two sets A and B is the set
+A∩B = {x : x ∈ A and x ∈ B}.
+• The complement of a set B relative to a set A is the set
+A\B = {x : x ∈ A and x ̸∈ B}.
+• The complement of a set A relative to the universal setU is the set
+∼ A = {x : x ̸∈ A}.
+• The symmetric difference of two sets A and B is the set
+A∆B = {x : (x ∈ A and x ̸∈ B) or (x ̸∈ A and x ∈ B)}.
+Page 3 of 16
+©OxfordBrookesUniversity
+
+--- Page 4 ---
+MATH4004
+Laws of the algebra of sets
+Associative laws
+A∪(B∪C) = (A∪B)∪C A∩(B∩C) = (A∩B)∩C
+Commutative laws
+A∪B = B∪A A∩B = B∩A
+Identity laws
+A∪0/ = A A∩U = A
+A∪U =U A∩0/ = 0/
+Idempotent laws
+A∪A = A A∩A = A
+Distributive laws
+A∩(B∪C) = (A∩B)∪(A∩C) A∪(B∩C) = (A∪B)∩(A∪C)
+Complement laws
+A∪(∼ A) =U A∩(∼ A) = 0/
+∼U = 0/ ∼ 0/ =U
+∼ (∼ A) = A
+De Morgan’s laws
+∼ (A∪B) = (∼ A)∩(∼ B) ∼ (A∩B) = (∼ A)∪(∼ B)
+Cardinality
+The cardinality of a set S is the number of elements in S and is denoted by |S|.
+The principle of inclusion and exclusion states that |A∪B| = |A|+|B|−|A∩B|.
+Ordered pairs
+The Cartesian product of sets A and B is the set
+A×B = {(a,b) : a ∈ A and b ∈ B}.
+Elements of A×B are called ordered pairs.
+Page 4 of 16
+©OxfordBrookesUniversity
+
+--- Page 5 ---
+MATH4004
+3 Probability
+Sets and probability
+Useful equations:
+• If A ,A ,··· are disjoint events, then P(A ∪A ∪···)=P(A )+P(A )+···.
+1 2 1 2 1 2
+• P(∼ A) = 1−P(A).
+• P(A\B) = P(A)−P(A∩B).
+Addition rule:
+P(A∪B) = P(A)+P(B)−P(A∩B).
+Conditional probability
+The conditional probability of the event A given event B is
+P(A∩B)
+P(A|B) = .
+P(B)
+The following three statements are equivalent. If one (and hence all) of them hold,
+then we say that the events A and B are statistically independent:
+• P(A|B) = P(A);
+• P(B|A) = P(B);
+• P(A∩B) = P(A)P(B).
+Multiplication rule:
+P(A∩B) = P(A|B)P(B).
+Bayes’ Theorem: Suppose that A and B are some events. We have
+P(B|A)P(A)
+P(A|B) = .
+P(B)
+Page 5 of 16
+©OxfordBrookesUniversity
+
+--- Page 6 ---
+MATH4004
+4 Relations
+Properties of binary relations
+A binary relation between sets A and B is a subset R of A×B.
+If A = B, then R is called a relation on A.
+A relation R on a set A is:
+• reflexive when xRx for all x in A;
+• symmetric when xRy ⇒ yRx for all x and y in A;
+• antisymmetric when xRy and yRx ⇒ x = y for all x and y in A;
+• transitive when xRy and yRz ⇒ xRz for all x, y, and z in A.
+Equivalence relations
+A relation R on a set A which is reflexive, symmetric, and transitive is called an
+equivalence relation. The equivalence class of x ∈ A is the set
+E = {z ∈ A : zRx}.
+x
+Distinct equivalences classes have no elements in common and their union forms a
+partition of the set A.
+Partial orders
+A relation R on a set A which is reflexive, antisymmetric, and transitive is called a
+partial order. Sets on which a partial order is defined are called posets. A total
+ordering on a set is a partial order in which every pair of elements are related.
+If R is a partial order on a set A and xRy, x ̸= y, then x is called a predecessor of y.
+If x is a predecessor of y and there is no z for which xRz and zRy, then x is called an
+immediate predecessor of y. Immediate predecesssors can be represented on a
+graph known as a Hasse diagram.
+Page 6 of 16
+©OxfordBrookesUniversity
+
+--- Page 7 ---
+MATH4004
+Inverse and composite relations
+The inverse of a relation R is the relation
+−1
+R = {(b,a) : (a,b) ∈ R}.
+If R is a binary relation between sets A and B and S is a binary relation between sets
+B andC, then the composite relation S◦R is given by
+S◦R = {(a,c) ∈ A×C : aRb and bSc for some b ∈ B}.
+Page 7 of 16
+©OxfordBrookesUniversity
+
+--- Page 8 ---
+MATH4004
+5 Combinatorics
+Addition and multiplication principles
+Addition principle: if A and B are disjoint events and there are n possible outcomes
+1
+for A and n possible outcomes for B, then there are n +n possible outcomes for
+2 1 2
+the event ‘A or B’.
+Multiplication principle: if there is a sequence of k events with n possible
+1
+outcomes for the first event, n possible outcomes for the second event, up to
+2
+possible n outcomes for the kth event, then there are n ×n ×···×n possible
+k 1 2 k
+outcomes for the sequence of k events.
+Samples, permutations, selections and combinations
+We can select k elements from a set S with or without repetition, and where the order
+of selection matters or does not matter. The number of possible k-samples,
+k-permutations, k-selections and k-combinations from a set with elements are given in
+the following table:
+Order matters Order does not matter
+Elements repeated k-sample k-selection
+(n+k−1)!
+k
+n
+k!(n−1)!
+Elements not repeated k-permutation k-combination
+n! n!
+P(n,k) = C(n,k) =
+(n−k)! k!(n−k)!
+Binomial expansion
+For n ∈ N , the binomial expansion is given by
+n n n−1 n−2 2 n
+(a+b) =C(n,0)a +C(n,1)a b+C(n,2)a b +···+C(n,n)b .
+Page 8 of 16
+©OxfordBrookesUniversity
+
+--- Page 9 ---
+MATH4004
+Rearrangement theorem
+The rearrangement theorem states that there are
+n!
+n !n !···n !
+1 2 r
+different rearrangements of n objects of which n are of type 1, n are of type 2, and
+1 2
+so on up to n r of type r.
+Page 9 of 16
+©OxfordBrookesUniversity
+
+--- Page 10 ---
+MATH4004
+6 Graphs
+Basic terminology
+An Eulerian cycle is a cycle in a graph that passes through each edge exactly once.
+A graph containing such cycle is called an Eulerian graph. A connected graph with at
+least two vertices is Eulerian if and only if there are no vertices of odd degree.
+The handshaking lemma: In any graph, the sum of all the vertex degrees equals
+twice the number of edges.
+A simple graph is a pair G = (V,E) whereV is a finite set of vertices and E is a
+finite set of edges such that G contains no loops and no multiple edges.
+The matrix representing the edge relation E of a simple graph is called the adjacency
+matrix of G.
+′ ′ ′ ′ ′
+A subgraph of a graph G=(V,E) is a graph G =(V ,E ) with E ⊆E andV ⊆V.
+Connectivity
+A connected graph is one in which there exists a path between every pair of vertices
+in the graph. The number of connected components in a graph can be determined by
+using the connectivity algorithm.
+Hamiltonian cycles
+A Hamiltonian cycle is a cycle in a graph that passes through each vertex exactly
+once. A graph containing such a cycle is called a Hamiltonian graph.
+The travelling salesperson problem is to find a Hamiltonian cycle of minimal total
+weight in a weighted graph. The nearest neighbour algorithm may be used to find a
+suboptimal solution to the travelling salesperson problem.
+Page 10 of 16
+©OxfordBrookesUniversity
+
+--- Page 11 ---
+MATH4004
+Trees
+A graph is a tree if it is connected and acyclic.
+The following statements about a graph G = (V,E) with n vertices and m edges are
+equivalent:
+1. G is a tree.
+2. There is exactly one path between any two vertices of G.
+3. G is connected and m = n−1.
+4. G is connected and the removal of a single edge disconnects G.
+5. G is acyclic and adding a new edge creates a cycle.
+A spanning tree for a graph G is a tree constructed from the edges of G which
+includes all the vertices of G.
+The minimum connector problem is to find a spanning tree for a graph with
+weighted edges of minimal total weight. The minimal spanning tree algorithm
+produces a spanning tree of minimal total weight in a weighted graph.
+A rooted tree is a tree in which one vertex is distinguished and called the root of the
+tree. Vertices immediately below a vertex v are called the children of v.
+Each vertex in a rooted tree T forms the root of another rooted tree called a subtree
+of T. In a binary rooted tree each vertex has at most two children and the two
+subtrees of a vertex v are called the left-subtree and the right-subtree of v.
+A binary search tree is a binary rooted tree in which each data item in the
+left-subtree of any vertex v is less than the data item stored at v and each data item in
+the right-subtree of any vertex v is greater than the data item stored at v.
+The search algorithm can be used to search for particular data items in a binary
+search tree and the insert algorithm can be used to insert new data.
+Page 11 of 16
+©OxfordBrookesUniversity
+
+--- Page 12 ---
+MATH4004
+7 Digraphs
+Consistent labelling
+In task-scheduling problems, an acyclic digraph is called a PERT chart.
+A consistent labelling of an acyclic digraph G = (V,E) is a labelling 1,2,··· ,n of
+the vertices such that if uv is an arc and u has label i and v has label j, then i < j.
+A digraph has a consistent labelling if and only if it is acyclic. The topological sort
+algorithm produces a consistent labelling of an acyclic digraph.
+Reachability matrices
+Let G be a digraph with n vertices and adjacency matrix M. The logical Boolean
+k
+product M records the existence of paths of length k between any pair of vertices in
+G.
+The matrix
+∗ 2 n
+M = M or M or ··· or M
+is called the reachability matrix of the digraph. It records the existence of paths of
+any length between vertices.
+Page 12 of 16
+©OxfordBrookesUniversity
+
+--- Page 13 ---
+MATH4004
+8 Matrices
+The algebra of matrices
+Let A and B be two m×n matrices. The matrix sum/difference is given by
+adding/subtracting element-wise, that is
+ 
+a ±b a ±b ··· a ±b
+11 11 12 12 1n 1n
+ 
+a ±b a ±b ··· a ±b
+ 21 21 22 22 2n 2n 
+A±B =  .
+ . . . . . . ... . . . 
+ 
+a ±b a ±b ··· a ±b
+m1 m1 m2 m1 mn mn
+Matrix addition is associative. That is, for matrices A, B, andC of the same size,
+A+(B+C) = (A+B)+C.
+Scalar multiplication of a matrix A by the number λ is defined by
+   
+a a ··· a λa λa ··· λa
+11 12 1n 11 12 1n
+   
+a a ··· a λa λa ··· λa
+ 21 22 2n  21 22 2n
+λA = λ   =  .
+ . . . . . . ... . . .   . . . . . . ... . . . 
+   
+a a ··· a λa λa ··· λa
+m1 m2 mn m1 m2 mn
+Let A = [a ij ] be an m×n matrix and let B = [b ij ] be an n×p matrix, then the
+matrix product AB is a m×p matrixC = [c ij ] whose element in the ith row and jth
+column is given
+n
+c = ∑ a b = a b +a b +···+a b .
+ij ik kj i1 1j i2 2j in nj
+k=1
+The element c ij is the result of taking the dot product (or scalar product) of the ith row
+of A with the jth column of B.
+The existence of AB does not imply the existence of BA. Moreover, even when the
+two different products AB and BA both exist, they may not be equal, i.e. matrix
+multiplication is in general not commutative.
+Matrix multiplication is associative, i.e. for appropriate matrices
+(AB)C = A(BC).
+Page 13 of 16
+©OxfordBrookesUniversity
+
+--- Page 14 ---
+MATH4004
+Distributive properties:
+A(B+C) = AB+AC, (left distribution)
+(B+C)A = BA+CA. (right distribution)
+The m×n zero matrix (often denoted 0) is the matrix whose elements are all 0:
+ 
+0 0 ··· 0
+ 
+0 0 ··· 0
+ 
+0 =  .
+ . . . . . . ... . . .
+ 
+0 0 ··· 0
+For an m×n matrix A and the zero matrix 0 of the same size, we have
+A+0 = A = 0+A.
+The n×n identity matrix (often denoted I n) is the square matrix whose elements are
+1 along the main diagonal and 0 elsewhere:
+ 
+1 0 0 ··· 0
+ 
+0 1 0 ··· 0
+ 
+I n =   0 0 1 ··· 0   .
+  . . . . . . . . . ... . . .  
+ 
+0 0 0 ··· 1
+For some n×n matrix A, we have
+AI = A = I A.
+n n
+T
+The transpose of some m×n matrix A is the n×m matrix A formed by swapping
+rows with columns.
+Determinants and inverses
+(cid:34) (cid:35)
+a b
+The determinant of A = is the number given by
+c d
+det(A) = ad−bc.
+Page 14 of 16
+©OxfordBrookesUniversity
+
+--- Page 15 ---
+MATH4004
+The determinant of a product of matrices satisfies:
+det(AB) = det(A)det(B).
+It is not the case that det(A+B) is necessarily equal to det(A)+det(B).
+(cid:34) (cid:35)
+a b
+A 2×2 matrix A = is invertible if, and only if, det(A) ̸= 0.
+c d
+Moreover, the inverse is given by
+(cid:34) (cid:35)
+1 d −b
+−1
+A = .
+det(A) −c a
+Elementary row operations
+There are three types of elementary row operation that can be applied to a matrix:
+1. Adding a multiple of one row to another row.
+2. Multiplying a row by a non-zero number.
+3. Swapping the entirety one row with another row.
+If two matrices can be obtained from one another using some sequence of
+elementary row operations, then the two matrices are said to be row equivalent.
+Gaussian elimination
+The first non-zero number of some row in a matrix is called the leading coefficient
+(or sometimes pivot) of that row.
+A matrix is in row-echelon form if
+1. all rows that are entirely zeros are grouped together at the bottom of the matrix;
+2. in any two consecutive rows that are not entirely zero the leading coefficient of
+the lower row occurs to the right of the leading coefficient in the higher row.
+The matrix is said to be in reduced row-echelon form if in addition
+1. the leading coefficient of any non-zero row is 1;
+2. any column that contains a leading 1 has zeroes everywhere else.
+Page 15 of 16
+©OxfordBrookesUniversity
+
+--- Page 16 ---
+MATH4004
+Steps of Gaussian elimination
+Step 1) Locate the leftmost nonzero column.
+Step 2) If necessary, swap the top row with another row to
+ensure the first entry of the column in Step 1 is
+nonzero.
+Step 3) Multiply the first row by the necessary real number
+to make the first entry a 1.
+Step 4) Add suitable multiples of the top row to the rows
+below it so that all elements below the leading 1
+become 0.
+Step 5) Begin at Step 1 again with the matrix obtained by
+omitting the first row.
+The additional step of Gauss-Jordan elimination is:
+Additional step of Gauss-Jordan elimination
+Step 6) Beginning with the last non-zero row and working
+upward, add suitable multiples of each row to the
+rows above it to introduce zeroes above the leading
+1s.
+End of Formula Booklet
+Page 16 of 16
+©OxfordBrookesUniversity

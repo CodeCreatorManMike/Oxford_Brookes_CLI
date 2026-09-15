@@ -1,0 +1,48 @@
+COMP4035 Computer Science Applications: Week 1 Practical
+Introduction
+In the lecture we looked at how to work out what the requirements would be for a computer system. We started from generating scenarios to think about how a system would be used then went on to consider functional requirements for what a system needs to be able to do. Have a look at the example below which shows some scenarios and functional requirements then attempt the exercises below.   
+A clothes company wants to create a website to allow it to sell its clothes to users across the web. The user should be able to browse the products that the company offers and make orders. The system database will store customer data in addition to product data so that it can speed up completing sales and use previous transactions to make recommendations to users. The system needs to allow secure logging in and entering of financial information to allow sales to be made.
+Scenarios
+Sally wants to purchase the items she has picked:
+Sally clicks the link to go to the purchasing page (basket).
+Sally confirms the items and quantities and sees the price.
+Sally has previously registered so chooses to login.
+Sally enters her username and password to the form that appears.
+Sally confirms the delivery address from the list of offered addresses.
+Sally chooses a date for delivery from those available.
+Sally chooses her previously stored visa card to make the payment.
+Sally checks the details of the transaction and confirms that she wants to buy.
+John wants to select a pair of jeans to buy before selecting other items
+	John wants to go to a list of available men’s jeans.
+John selects specific jeans to see pictures and descriptions including available sizes/colours.
+John picks the size and colour from the available options and adds one pair of jeans to his basket.
+John now wants to buy a T-shirt so goes to a page with a list of T-shirts.
+Functional Requirements
+The following functional requirements are related to the scenarios above.
+Customers shall be able to move to a page with their list of chosen items (basket).
+Items in the basket shall be listed with a one-line description, size, colour, quantity and calculated price for that quantity of the item. Other charges such as delivery will also be shown along with a grand total.
+Customers shall be able to delete items from the basket.
+Customers shall be able to modify the quantity for each item.
+Unregistered customers shall be able to register with the website to store their information or continue without registering if they prefer.
+Returning customers shall be able to login so that their name, address and payment information is automatically populated for purchases.
+Customers shall be able to enter their name and address or confirm them if logged in.
+Customers shall be able to enter the delivery address if different to their home address.
+Customers who are logged in shall be able to see a list of previous delivery addresses that they may choose from.
+Customers shall be shown a list of available delivery dates.
+Customers shall be able to pick from available delivery dates and see any difference this makes to the delivery cost.
+Customers shall be able to enter their payment-card information.
+Logged-in customers shall be able to see previously saved card information and choose to use one of those cards if they wish.
+The user shall be able to review all the information they have entered and confirm the purchase.
+Users on the homepage shall be able to see a list of categories of clothes to choose from
+Pages for clothes categories shall show a list of available items with thumbnail pictures and short descriptions including available sizes and colours. 
+Customers shall be able to click on any of the items on a clothes category page to get to a page about that item with larger pictures and any extra information held about the item.
+From any page, customers should be able to choose to go to any of the clothes category pages.
+You should be able to see that most of the requirements above are directly linked to the scenarios but not all are. Did you spot the ones that extend the functionality beyond what the scenario requires? Our two scenarios only covered a subset of the possible ways that those tasks could be carried out. A full set would cover more examples e.g. non-registered user buying versus registered user buying. As we only have a subset of scenarios, the functional requirements have been allowed to extend from what the scenarios suggest.
+A company wants to create a mobile app that will show the location on a map and link to a page of information about any business that has registered with them that is within a chosen distance of the user’s current location. By default, all businesses are shown but there should be a list of categories where users can choose which type of business to see. Customers must register with the app and need to login to be able to use the system. They are expected to provide a name and contact details. Companies must register with the system and will provide a name and contact details for the company that will be available to users. Companies will also provide private contact details for a company representative that the app owners can speak to if contact is necessary and payment details for their subscription to the system.
+Tasks
+Get into a group with two (or three) other students and spend 30 minutes coming up with scenarios for this system.
+Combine your group with another group and spend 15 minutes comparing your scenarios.
+Are there any differences in scenarios where you have tried to describe the same task? If so, agree a definitive version.
+Are there any scenarios that not everyone has?  If so discuss whether the scenario should be added or not. If it should be added would that be as? If not, agree any necessary modifications. 
+From the combined list of scenarios, choose three each to look at and generate functional requirements for. Two of your three should be looked at just by you, the other one should also be looked at by at least one other person in the group. Work individually for 40 minutes to generate a list of functional requirements.
+Get back in your group and look at each other’s lists of requirements. For shared scenarios spend 15 minutes identifying differences between the functional requirements produced and agree a final version for the requirements.

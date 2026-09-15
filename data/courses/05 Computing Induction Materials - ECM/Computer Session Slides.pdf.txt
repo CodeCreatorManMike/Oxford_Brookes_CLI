@@ -1,0 +1,388 @@
+--- Page 1 ---
+Computer Session
+Using the Brookes computer systems
+1
+
+--- Page 2 ---
+Table of Contents
+Logging In …….…….…….…….…….……….. Page 03
+Accessing and Navigating Moodle …….……. Page 05
+Objectives …….…….…….…….…….……..… Page 10
+Exploring the Brookes Webpages …….…….. Page 12
+Student Societies and Sport …………………. Page 21
+Email ……………………………………………. Page 23
+Wi-Fi ……………………………………………. Page 30
+Library ………………………………………….. Page 32
+IT Support On Site ……………………………. Page 37
+Final Words ……………………………………. Page 39
+2
+Return to contents
+
+--- Page 3 ---
+Logging In
+Return to contents 3
+
+--- Page 4 ---
+Logging In to the Pooled Computers
+The first step is to log in to one of the Brookes computers:
+● Username: your student number.
+● Password: your “usual” password.
+Many Brookes systems use these credentials — make sure you remember them!
+4
+Return to contents
+
+--- Page 5 ---
+Accessing and Navigating Moodle
+Return to contents 5
+
+--- Page 6 ---
+Accessing Moodle
+Moodle is our Learning Management System
+(LMS), where you will access most of your
+module content and submit certain
+assignments.
+To access Moodle, open a web browser and
+navigate to:
+moodle.brookes.ac.uk
+You will be greeted by the login screen (right),
+where you will use the “usual” credentials.
+6
+Return to contents
+
+--- Page 7 ---
+Navigating Moodle
+Once you log in to Moodle, you will see your “dashboard”, which contains links to
+your various module Moodle pages. On these module Moodle pages you will find,
+for example:
+● Lecture slides.
+● Practical class materials.
+● Assessment briefs.
+You can also access your module Moodle pages from the “My Courses” tab:
+7
+Return to contents
+
+--- Page 8 ---
+Searching Moodle
+In addition to the “My Courses” tab, you can navigate to various other tabs.
+Explore, in your own time, but one thing to note is the “Home” tab where you will
+find a search box to search all Moodle pages.
+Note: there are other search boxes, some search all course and some only search
+your own.
+8
+Return to contents
+
+--- Page 9 ---
+Task 1
+We will now find the materials for today.
+To access a copy of these slides, which contains the instructions for today’s
+session:
+● Navigate to the “Computing Induction Materials - ECM” Moodle page.
+● Within the page navigate to the section titled “2026/27 Induction Resources”.
+● Download the “Computer session slides”.
+Note: there are a number of similarly titled pages, so be careful!
+9
+Return to contents
+
+--- Page 10 ---
+Objectives
+Return to contents 10
+
+--- Page 11 ---
+Session Objectives
+For the remainder of this session, we will:
+● Explore parts of the Brookes website.
+● Find the details of the induction week.
+● Briefly explore the Google@Brookes suite.
+● Explain the various wireless networks at
+Oxford Brookes.
+● Understand some of the services available
+via the library.
+● Understand how and where to find IT
+support for University IT systems.
+11
+Return to contents
+
+--- Page 12 ---
+Exploring the Brookes Webpages
+Return to contents 12
+
+--- Page 13 ---
+The Student Homepage
+When you first open a browser on a pooled computer, it automatically navigates to
+the Brookes homepage: www.brookes.ac.uk
+By clicking “Menu” in the top right and then “Students” in the pop out window in the
+top right, you navigate to the Student Homepage: www.brookes.ac.uk/students
+13
+Return to contents
+
+--- Page 14 ---
+Student Homepage I
+The Student Homepage:
+● has many useful links;
+● is likely a good place to look for answers to questions not specifically related
+to your modules or degree programme.
+14
+Return to contents
+
+--- Page 15 ---
+Student Homepage II
+The Student Homepage has three columns of helpful links:
+15
+Return to contents
+
+--- Page 16 ---
+Student Homepage III
+The leftmost column links:
+● Moodle login: links to Moodle, where we have already been.
+● Student information login: links to where, for example:
+○ You will find your personal information (and where you can update it).
+○ You can access your student record and results page.
+○ You can submit request forms, such as Exceptional Circumstances requests.
+● Email login: links to Gmail.
+○ We will look at this in more detail later.
+○ Your gmail account is: student_number@brookes.ac.uk e.g. 12345678@brookes.ac.uk.
+16
+Return to contents
+
+--- Page 17 ---
+Student Homepage IV
+The central column links:
+● Library: links to the University Library web pages.
+○ We will look at this in more detail later.
+○ The library is both physical and digital.
+● IT Services: links to the University team that provides and manages the
+University’s computer facilities, for example:
+○ How to get your devices on the wireless networks — more on this later.
+○ Use of the printers around campus.
+○ Access to software.
+● Accomodation: links to Accomodation pages.
+17
+Return to contents
+
+--- Page 18 ---
+Student Homepage V
+The rightmost column links:
+● Student Hub: an on-campus and online space where you can ask questions
+and access support.
+● Information for New Students: links to enrolment and induction information.
+● Semester Dates: links to the University published semester dates at least a
+couple of years in advance.
+○ Includes semester start and end dates.
+○ Includes examination periods.
+18
+Return to contents
+
+--- Page 19 ---
+Student Homepage VI
+The homepage contains many more links, for example:
+● Student Support Coordinators.
+● Live bus departures.
+● Student Ambassadors.
+● Brookes Sport.
+● Brookes Union.
+19
+Return to contents
+
+--- Page 20 ---
+Task 2
+● Navigate to the Student Homepage.
+● Click on “Information for new students”.
+● Scroll down to “Arrivals and Induction”.
+● Find the induction timetable for your course.
+● Find the time and location for the Freshers' Fair.
+20
+Return to contents
+
+--- Page 21 ---
+Student Societies and Sport
+Return to contents 21
+
+--- Page 22 ---
+Brookes Sport and Brookes Union
+The student’s union is called Brookes Union:
+● Runs the student societies.
+● Provides independent help and advice.
+● Can be found at: www.brookesunion.org.uk/societies.
+Student sport is run through Brookes Sport:
+● Offers range of recreational and competitive sporting
+opportunities for staff and students.
+● Provides access to facilities, e.g. gym & climbing wall.
+● Can be found at: www.brookes.ac.uk/brookes-sport/.
+22
+Return to contents
+
+--- Page 23 ---
+Email
+Return to contents 23
+
+--- Page 24 ---
+Email at Oxford Brookes
+Email is the main method of communication you will have with staff at Brookes.
+To access your email, either:
+● use the link on the student homepage, or
+● navigate to mail.google.com.
+Sign in using:
+● Your email student_number@brookes.ac.uk.
+● Your “usual” password.
+Your Brookes Google account can be used like any other Google account.
+24
+Return to contents
+
+--- Page 25 ---
+Task 3
+● Access Gmail: gmail.com.
+● Log in to your emails.
+● Email a copy of these slides to yourself. Give the email a useful subject line
+and body, to help your chances of finding it via search.
+● Consider adding a label to the
+email you just sent yourself
+(and labelling future emails).
+Labels can be found in the
+Left pane of Gmail.
+25
+Return to contents
+
+--- Page 26 ---
+Sending effective emails
+When sending emails to staff please observe the following:
+● Send from your Google@Brookes account (so we know it’s really you!).
+● If asking about a module please include the module name and/or code.
+● Try to explain yourself as clearly as you can (please don’t use slang).
+● Try to keep your email short.
+○ If covering several different issues, consider whether it might be better to split these up into
+separate emails.
+● Staff are usually busy and might take up to three working days to respond.
+26
+Return to contents
+
+--- Page 27 ---
+More about Google@Brookes
+Your Google@Brookes account offers you much more than email:
+● Access to the Google suite:
+○ Calendar — your classes and other important events will appear automatically, but consider
+creating additional events.
+○ Colaboratory, Docs, Sheets, Slides — work collaboratively on group projects.
+○ Drive — to create backups of your work that you can share.
+○ Gmail.
+○ Meet — virtual meetings with others, including staff during “student drop-in hours”.
+● It may be used as a login for third-party applications (via Google OAuth).
+27
+Return to contents
+
+--- Page 28 ---
+Task 4
+● Access your Google calendar by either:
+○ Navigating to calendar.google.com.
+○ With Gmail (or another Google page) open, clicking the
+icon of nine dots arranged in a three by three grid and
+selecting “Calendar” (right).
+● Try adjusting the view to each of “day”, “week”,
+and “month”.
+● Use the search bar to view the calendar of the
+staff member running this session. Can you
+find their “drop-in hours”?
+28
+Return to contents
+
+--- Page 29 ---
+Securing and Saving Your Work
+Never save your work to the C: drive of the pooled computers, because this work
+will likely be lost when you log out.
+Consider instead of saving your work to:
+● A portable storage device.
+● The cloud (for example Google Drive).
+29
+Return to contents
+
+--- Page 30 ---
+Wi-Fi
+Return to contents 30
+
+--- Page 31 ---
+Wi-Fi at Oxford Brookes
+At Oxford Brookes, there are several networks, including:
+● eduroam — used at institutions globally and provides thousands of hotspots
+across more than 100 countries. Accessible across campus. Also used by
+University of Oxford and so is accessible across the city.
+● OBU-wireless — in-house corporate network. Accessible in many parts of
+Headington campus (including NHHB).
+● Wifinity — wired and wireless networks in managed Halls of Residences.
+31
+Return to contents
+
+--- Page 32 ---
+Library
+Return to contents 32
+
+--- Page 33 ---
+University Library
+The University Library is accessible physically in JHB and digitally:
+● Using the link on the Student Homepage.
+● Visiting www.brookes.ac.uk/library.
+On the library homepage, you can:
+● Search for books — discover availability (physical & digital in eBook format).
+● Search for module reading lists.
+● Access specific resources for your particular degree programme.
+33
+Return to contents
+
+--- Page 34 ---
+Task 5
+● Navigate to the library homepage and search for the COMP4004 reading list.
+● Find how many copies of “Starting out with Python” by Tony Gaddis the library
+has and how many are available.
+34
+Return to contents
+
+--- Page 35 ---
+Loaning an item
+● Your Student ID card is your library card and is used to make loans at the self
+service machines.
+● Most items are one week loan and undergraduates can loan up to 20 items.
+● Most loans will be automatically renewed up to 25 times:
+○ If your items have automatically renewed you will not be notified.
+○ Items that are on hold for someone else will not be automatically renewed and must be
+returned. The library will email you if an items must be returned.
+○ Library uses your email to contact you.
+35
+Return to contents
+
+--- Page 36 ---
+Placing a hold
+If an item you would like to loan is currently unavailable or you would simply like to
+reserve it, you can place a hold:
+● Navigate to the item page (for example by finding it on a reading list) and
+clicking on the “Place Hold” button on the right hand side of the page:
+36
+Return to contents
+
+--- Page 37 ---
+IT Support On Site
+Return to contents 37
+
+--- Page 38 ---
+IT Support On Site at Oxford Brookes
+● IT Services provide support and information for all University IT systems:
+○ www.brookes.ac.uk/it
+○ service.brookes.ac.uk/sp
+○ 01865 48 3311
+● Computing lecturers do not administer the University’s computer systems
+and will not be able to help with issues such as lost passwords.
+● Specialist facilities such as the robotics lab or engineering facilities have their
+own technical support.
+38
+Return to contents
+
+--- Page 39 ---
+Final Words
+Return to contents 39
+
+--- Page 40 ---
+Final Words for Today
+● As a general rule, if you have questions always ask.
+● Make sure you know your timetable and when your tutors’ drop-in hours are.
+● Work through the Health and Safety, Use of AI, and Academic Integrity
+courses on Moodle.
+● Enjoy being a student!
+40
+Return to contents

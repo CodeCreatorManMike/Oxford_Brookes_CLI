@@ -1,0 +1,168 @@
+--- Page 1 ---
+Semester 2, 2023–2024 MATH4004
+MATH4004 Mathematics for Computing
+Examination Rubric
+Examination length: 2 hours.
+Answer all questions.
+The maximum mark available for the paper is 50.
+A copy of the Mathematics for Computing Formula Booklet is provided.
+A calculator is provided.
+Page 1 of 7
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 2 ---
+Semester 2, 2023–2024 MATH4004
+Examination Questions
+1. (a) Factorise the following expressions.
+2
+i. x +5x+4
+ii. x(x−3)−4
+4 marks
+(b) Hence, or otherwise, find all values x that satisfy both
+2
+x +5x+4 = 0 and x(x−3)−4 = 0.
+1 mark
+Total: 5 marks
+2. Consider the sets
+A = {a,d,e, f},
+B = {a,c,d, f},
+C = {b,e}.
+Find the following sets.
+(a) A∩B 1 mark
+(b) A∪C 1 mark
+(c) (A∪C)∩B 1 mark
+(d) A×C 1 mark
+(e) B∆C 1 mark
+Total: 5 marks
+Page 2 of 7
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 3 ---
+Semester 2, 2023–2024 MATH4004
+3. Consider rolling a fair six-sided die. Let A be the event that the result is odd and
+B be the event that the result is a multiple of 3.
+(a) Sketch the events A and B on a Venn diagram.
+2 marks
+(b) Hence, or otherwise, determine the probability of the following events:
+i. The result of rolling the die is both odd and a multiple of 3.
+1 mark
+ii. The result of rolling the die is either odd or a multiple of 3, but not both.
+1 mark
+iii. The result of rolling the die is neither odd nor a multiple of 3.
+1 mark
+Total: 5 marks
+4. Consider a bag containing four red balls and three white balls that are otherwise
+identical. Suppose that three balls are drawn at random from the bag without
+replacement.
+(a) Draw the probability tree for this situation. Make sure to note all of the
+branching probabilities.
+3 marks
+(b) Use your tree to find the probability that exactly one red ball is drawn.
+2 marks
+Total: 5 marks
+Page 3 of 7
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 4 ---
+Semester 2, 2023–2024 MATH4004
+5. Consider the relation R on the set {a,b,c,d} represented by the digraph:
+d• •c
+a• •b
+(a) Give the matrix representing the relation R.
+2 marks
+(b) Is the relation R reflexive? Justify your answer.
+1 mark
+(c) Is the relation R symmetric? Justify your answer.
+1 mark
+(d) Is the relation transitive? Justify your answer.
+1 mark
+Total: 5 marks
+Page 4 of 7
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 5 ---
+Semester 2, 2023–2024 MATH4004
+6. Suppose that a computer password is restricted to an alphabet of 50 symbols
+and must be exactly 10 symbols long. Suppose there are no further restrictions
+to the password.
+(a) How many different passwords are there?
+2 marks
+(b) Suppose that an attacker knows the following information about a
+password:
+• the attacker knows that the symbols A, B, C, D, E each appear exactly
+once;
+• the attacker knows that the symbol F appears twice;
+• the attacker knows that the symbol G appears three times.
+How many possible passwords satisfy the criteria that the attacker knows?
+3 marks
+Total: 5 marks
+7. (a) Suppose an ultimate frisbee squad has 15 players. A grass on-field
+ultimate frisbee team consists of 7 players. How many different on-field
+teams are possible?
+2 marks
+(b) Suppose that an ultimate frisbee competition states in its rules that a team
+of 7 must comprise 4 men and 3 women. Given that the squad of 15 has 10
+men and 5 women, how many teams of 7 players are possible?
+3 marks
+Total: 5 marks
+Page 5 of 7
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 6 ---
+Semester 2, 2023–2024 MATH4004
+8. Consider the graph G below.
+c b
+• •
+d• •a
+• •
+e
+f
+(a) Determine whether or not G has an Eulerian cycle. Justify your answer.
+2 marks
+(b) For each of the graphs below, decide whether or not it is a subgraph of G.
+Justify your answer.
+i. ii.
+• •
+•
+• • •
+•
+•
+•
+3 marks
+Total: 5 marks
+Page 6 of 7
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 7 ---
+Semester 2, 2023–2024 MATH4004
+9. Consider the following digraph.
+a b
+• •
+• •
+c
+d
+(a) Find the reachability matrix of the digraph.
+4 marks
+(b) What does your reachability matrix say about paths from a to d?
+1 mark
+Total: 5 marks
+10. Simplify the following matrix expressions.
+(cid:34) (cid:35) (cid:34) (cid:35)
+1 2 2 −1
+(a) +
+−1 3 1 1
+1 mark
+(cid:34) (cid:35)(cid:34) (cid:35)
+3 1 −1 0
+(b)
+1 2 2 3
+2 marks
+(cid:34) (cid:35)
+1 2
+(c) Find the inverse of the matrix .
+0 3
+2 marks
+Total: 5 marks
+End of Examination Paper
+Page 7 of 7
+©OxfordBrookesUniversity17/5/2024

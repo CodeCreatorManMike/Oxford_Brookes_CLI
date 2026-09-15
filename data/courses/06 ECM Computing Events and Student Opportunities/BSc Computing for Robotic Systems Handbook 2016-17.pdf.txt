@@ -1,0 +1,2501 @@
+--- Page 1 ---
+Computing for Robotic Systems
+Programme Handbook 2016-2017
+Fin al Award and Exit Awards: CertHE, DipHE, BSc
+M odes of study: Full time / Part time
+Department of
+Computing and
+Com munication
+Technologies
+Faculty of Technology,
+Desig n and
+Environment
+Programme code:
+Publication date:
+February 2016
+
+--- Page 2 ---
+
+
+--- Page 3 ---
+Contents
+Contents 3
+1 Welcome 5
+1.1 Welcome from the Head of the Department of Computing
+and Communication Technologies . . . . . . . . . . . . . . 5
+1.2 Welcome from the Subject Coordinator Computing for Robotic
+Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.3 Teaching Team . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2 Curriculum 11
+2.1 Programme Structure . . . . . . . . . . . . . . . . . . . . . 11
+2.2 Module Content . . . . . . . . . . . . . . . . . . . . . . . . 14
+2.3 Professional Bodies . . . . . . . . . . . . . . . . . . . . . . 20
+3 Learning, teaching and assessment 21
+3.1 Learning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+3.2 Email . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+3.3 Work Placements . . . . . . . . . . . . . . . . . . . . . . . . 26
+3.4 Programme Calendar . . . . . . . . . . . . . . . . . . . . . 26
+3.5 Assessment Regulations . . . . . . . . . . . . . . . . . . . . 30
+3.6 Good Academic Practice . . . . . . . . . . . . . . . . . . . 32
+4 Learning resources 35
+4.1 Library . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+4.2 Upgrade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+4.3 Oxford Brookes Information Solutions . . . . . . . . . . . . 38
+4.4 Departmental IT Facilities . . . . . . . . . . . . . . . . . . . 39
+3
+
+--- Page 4 ---
+Contents
+5 Student support and guidance 43
+5.1 Sources of help and advice . . . . . . . . . . . . . . . . . . 43
+5.2 Student Support Coordinators . . . . . . . . . . . . . . . . 44
+5.3 Academic Advisers . . . . . . . . . . . . . . . . . . . . . . . 45
+5.4 Programme Leads . . . . . . . . . . . . . . . . . . . . . . . 45
+5.5 Subject Coordinators . . . . . . . . . . . . . . . . . . . . . . 45
+5.6 Personal Information Pages . . . . . . . . . . . . . . . . . . 46
+5.7 Procedures for notification of sickness or absence . . . . . 48
+5.8 Brookes Union . . . . . . . . . . . . . . . . . . . . . . . . . 49
+5.9 Intellectual Property . . . . . . . . . . . . . . . . . . . . . . 49
+5.10 Data protection and information security . . . . . . . . . . . 50
+5.11 Careers Advice . . . . . . . . . . . . . . . . . . . . . . . . . 50
+5.12 Equality and Diversity . . . . . . . . . . . . . . . . . . . . . 50
+5.13 International Student Advice Team . . . . . . . . . . . . . . 51
+5.14 Student health and wellbeing . . . . . . . . . . . . . . . . . 51
+6 Feedback on the quality of the learning experience 59
+7 Programme Specification 61
+4
+
+--- Page 5 ---
+1
+Welcome
+1.1 Welcome from the Head of the
+Department of Computing and
+Communication Technologies
+Welcome to the department of Computing and Communication Tech-
+nologies. You are joining us to study a fast moving and diverse subject
+that can form a strong foundation for a creative and exciting career in
+computing and robotics. This course is founded on the strong research
+focus on robotics within the department, which has both national and
+international collaborations in this area. For example, Prof Jochen Steil,
+Managing Director of the Research Institute for Cognition and Robotics
+at the Bielefeld University, Germany http://www.cor-lab.de/jsteil is
+a regular visitor to the department, collaborating both on research and
+teaching in robotics. We also collaborate with Prof Richard Hartley, As-
+sociate Director of Research at the Australian National University in Ade-
+laide.
+This handbook contains important information about your programme
+of study. You need to read it carefully and keep it with you through-
+out your studies. All information about modules, subjects and your per-
+sonal progress is available online on your Personal Information Portal
+(PIP)page. You can use the information in this handbook, and the online
+information on your PIP page, to plan your programme of study. During
+Enrolment Week, you will have the opportunity to meet staff and receive
+advice on your programme, by attending the programme meetings and
+seeing your Subject Coordinator. If you did not attend this meeting, it is
+particularly important that you make early contact with your Subject Co-
+5
+
+--- Page 6 ---
+1. Welcome
+ordinator and discuss your programme of study with them. You should
+read the programme regulations carefully because it is your responsibil-
+ity to ensure that your programme meets the requirements of the subject
+area. Of course, your Academic Adviser and Subject Coordinator can
+help you plan your modules as you proceed. We hope that you will en-
+joy, as well as benefit from your time with us. We shall do all we can
+to encourage and support you in your studies and to help you achieve
+success on your chosen programme of study.
+Dr Nigel T. Crook - Head of Department
+6
+
+--- Page 7 ---
+1.2. Welcome from the Subject Coordinator Computing for Robotic
+Systems
+1.2 Welcome from the Subject Coordinator
+Computing for Robotic Systems
+Welcome to the Computing for Robotic Sys-
+tems programme. As the subject coordi-
+nator for this course, I am pleased to wel-
+come you on this programme. Computing
+for Robotic Systems is designed to teach
+you about robots, in particular, how to com-
+bine the elements of a robotic system into a
+functional robot. Robotics is an integration
+science, containing elements from different
+fields,from low-level mechanical engineering
+and computer science, up to high-level de-
+sign and psychology. The programme will
+teach you how to integrate the hardware us-
+ing computer controllers, such that you will
+be able to construct a complex robot. You will be using robots and
+robotic components, starting in your first year, and throughout the pro-
+gramme. You will also be taught the fundamentals of robotics and com-
+puter science, such as programming, mathematics, robotics engineer-
+ing, and networking. You will graduate from this course with a range of
+skills that stride across the wide ranging disciplines involved in robotics,
+but with sufficient depth to specialise.
+I hope you will enjoy the programme, and look forward to seeing you
+in the robotics laboratory.
+Dr Tjeerd V. olde Scheper - Subject Coordinator
+7
+
+--- Page 8 ---
+1. Welcome
+1.3 Teaching Team
+• Dr Arantza Aldea, Senior Lecturer in Computer Science
+Research Interests: Knowledge Representation and Data Mining
+aaldea@brookes.ac.uk
+• Dr Kashinath Basu, Senior Lecturer in Computing
+Research Interests: Cloud Networking, Software Defined Network,
+Quality of Service, Energy Efficient Networks.
+kbasu@brookes.ac.uk
+• Dr Ian Bayley, Senior Lecturer in Computer Science
+Research Interests: Software Engineering,Programming Languages,
+Cloud Computing, Cybersecurity, Formal Methods
+ibayley@brookes.ac.uk
+• Dr Bob Champion, Principal Lecturer, Programme Lead for Under-
+graduate Computing and Communication Technologies
+Research Interests: Computer Assisted Learning
+rchampion@brookes.ac.uk
+• Mr. Chris Cox, Senior Lecturer in Computing
+Research Interests: Distributed and parallel systems
+ccox@brookes.ac.uk
+• Dr. Nigel Crook, Head of the Department of Computing and Com-
+munication Technologies
+Research Interests: Machine Learning, Robotics, Dialogue Sys-
+tems
+ncrook@brookes.ac.uk
+• Dr. Fabio Cuzzolin, Reader in Computer Vision
+Research Interests: Imprecise probability, belief functions, artificial
+intelligence, computer vision, machine learning
+fabio.cuzzolin@brookes.ac.uk
+• Professor David Duce, Professor of Computer Science
+Research Interests: Semantic web,web graphics,visualization and
+applications; digital forensics
+daduce@brookes.ac.uk
+• Dr. Mark Green, Senior Lecturer in Computer Science
+Research Interests: Process algebra and parallel processing, for-
+8
+
+--- Page 9 ---
+1.3. Teaching Team
+mal methods, game development, intelligent semantic systems
+mgreen@brookes.ac.uk
+• Prof. Rachel Harrison, Professor of Computer Science
+Research interests: Automated software engineering,empirical soft-
+ware engineering, software metrics, evolution, search based soft-
+ware engineering, mobile software engineering, social media col-
+laborative work
+rachel.harrison@brookes.ac.uk
+• Dr. Abusaleh Jabir, Reader
+Research Interests: Computing and Communication Technologies)
+Design, synthesis, tests, and verification of reliable advanced Very
+Large Scale Integrated (VLSI)systems,including systems over nano
+technology, bio/protein chips, Quantum Cell Automata (QCA), etc.
+Also systems and components with verifiability,testability,and fault/error
+and attack tolerance
+ajabir@brookes.ac.uk
+• Dr Samia Kamal, Principal Lecturer for Student Experience
+Research interests in digital environments for learning, tools devel-
+opment for online and mobile learning, e-learning and m-learning
+in developing countries.
+skamal@brookes.ac.uk
+• Mr. Peter Marshall, Principal Lecturer, Programme Lead for Under-
+graduate Computing and Communication Technologies
+Research interests in robotics, agent based computing, emergent
+behaviour and adaptive systems
+pmarshall@brookes.ac.uk
+• Dr Clare Martin, Principal Lecturer for Student Experience
+Research interests: Algebraic properties of programs,specification
+languages, development and evaluation of intelligent tools for the
+management of health conditions
+cemartin@brookes.ac.uk
+• Dr Faye Mitchell,Principal Lecturer,Programme Lead for Postgrad-
+uate Computing and Communication Technologies
+Research interests: Machine learning,knowledge acquisition & dis-
+covery, intelligent digital forensics. the application of AI to real
+world problems, intelligent IT systems management
+frmitchell@brookes.ac.uk
+9
+
+--- Page 10 ---
+1. Welcome
+• Dr Tjeerd olde Scheper, Senior Lecturer in Computer Science
+Research interests: Robotics,Non-linear Dynamic Systems,Emer-
+gent behaviour, Artificial intelligence, Computational Neuroscience
+tvolde-scheper@brookes.ac.uk
+• Dr Muhammad Younas, Senior Lecturer in Computing
+Research Interests: Web technologies,information searching/extraction,
+pervasive and mobile computing, cloud computing
+m.younas@brookes.ac.uk
+• Prof Hong Zhu, Professor of Computer Science
+Research interests: Software engineering and software develop-
+ment methodology,formal methods,software testing,software mod-
+elling languages and tool, agent-oriented software development,
+cloud computing and Software-as-a-Service
+hzhu@brookes.ac.uk
+10
+
+--- Page 11 ---
+2
+Curriculum
+2.1 Programme Structure
+The diagram with the programme structure is shown on the next page.
+11
+
+--- Page 12 ---
+2.
+Curriculum
+Prerequisite module Prerequisite module Prerequisite module
+Module Number Module Number Module Number
+KEY: Level Core Module Compulsory Module Optional Module You need 8 modules at level 4,
+Semester (Level) (Level) (Level) and 16 modules at level 5 and 6,
+of which at least 6 must be at level 6.
+U08008
+Se L m e e ve st l e 4 r 1 P U ro n g d r e a r m st m an in d g in ( g 4) U08007 U08500
+U08008
+U08009 U08606 Professional
+Level 4 Introduction to Discrete Software System Introductory
+Semester 2 Object Oriented Mathematics (4) Design (4) Robotics (4)
+Programming (4)
+U08008 or U08007 U08009 and U08606 U08009 U08500 U08009 U08007 and U08009
+U08055 U08025 U08026 U08028 U08868 (1)
+Se L m e e ve st l e 5 r 1 Pro a fe n s d s i R o i n s a k l s I s (5 s ) ues of C F o o m un p d u a ta ti t o io n n s (5) Fur O th r e ie r n O te b d ject U08520 De S v o e f l t o w p a m re ent Indep L e e n ve d l e 5 n t ( 5 S ) tudy
+Programming (5) with Cand C++ (5)
+U08008 or U08007 U08009 U08026 U08009 U08007 U08009 U08007 and U08009
+U08521 U08223 U08226 U08048 U08038 U08868 (2)
+Level 5 U08027 Robotic Systems Data Advanced Foundations Requirement The Human Computer Independent Study
+Semester 2 Current Research (5) Engineering (5) Structures (5) Robotics (5) of Security (5) Specification Interface (5) Level 5 (5)
+and SWDesign (5)
+U08055
+U08065
+Optional Work Placement
+Placement Experience
+U08027 U08223 U08055 U08223 U08223 U08055 and U08009 U08055 and U08009
+U08570 U08089 U08186 U08282 U08085 (1) U08088 (1)
+Se L m e e ve st l e 6 r 1 R C ob o o g t n ic it s iv e (6) Le M a a rn c i h n i g n e (6) U08599 Ob A je d c v t a O n r c ie e n d ted A A d lg v o a r n it c h e m d s D a a n t d a C a o n m d m Te u a n c ic h a in ti g ng Indep L e e n ve d l e 6 n t ( 6 S ) tudy
+Programming (6) Structures (6) Computer Science (6)
+U08223 U08521 U08025 U08223 and U08028 U08055 and U08009 U08055 and U08009
+U08781 U08571 U08074 U08079 U08085 (2) U08088 (2)
+Level 6 Machine Real-time Robotics Reasoning about Optimised Communicating Independent Study
+Semester 2 Vision (6) Embedded Robotic Project (6) Functional Programming (6) and Teaching Level 6 (6)
+Systems (6) Programs (6) Computer Science (6)
+12
+
+--- Page 13 ---
+2.1. Programme Structure
+The following programme represents a typical sample based on the avail-
+able modules for this programme:
+U08008
+Level 4 Understanding
+Semester 1 Programming (4)] U08007 U08500
+U08008
+U08009 U08606 Professional
+Level 4 Introduction to Discrete Software System Introductory
+Semester 2 Object Oriented Mathematics (4) Design (4) Robotics (4)
+Programming (4)
+U08008 or U08007 U08009 and U08606 U08009 U08500
+U08055 U08025 U08026
+Level 5 Professional Issues Foundations Further Object
+Semester 1 and Risks (5) of Computing (5) Oriented U08520
+Programming (5)
+U08008 or U08007 U08009 U08026
+U08521 U08223
+Level 5 U08027 Robotic Systems Data Advanced
+Semester 2 Current Research (5) Engineering (5) Structures (5) Robotics (5)
+U08055
+U08065
+Optional Work Placement
+Placement Experience
+U08027 U08223 U08009 U08055
+U08570 U08089 U08028
+Level 6 Cognitive Machine Software
+Semester 1 Robotics (6) Learning (6) Development U08599
+with Cand C++ (5)
+U08009 U08223 U08521
+U08226 U08781 U08571
+Level 6 Foundations Machine Real-time Robotics
+Semester 2 of Security (5) Vision (6) Embedded Robotic Project (6)
+Systems (6)
+13
+
+--- Page 14 ---
+2. Curriculum
+2.2 Module Content
+Level 4 Modules
+U08007 Professional Software System Design
+The primary aim of this course is to develop the foundations for a wide set
+of professional and academic skills through the execution of a phased
+software development project. Key skills will include team working,soft-
+ware system development, and an introduction to the use of methods
+and models. The project will focus on providing a practical solution to a
+real business opportunity.
+U08008 Understanding Programming
+This module will give students a working knowledge of the fundamental
+concepts of computer programming and will equip them with the essen-
+tial skills needed to develop elementary pieces of software. These pro-
+gramming skills and concepts will be taught within a broad information
+technology context,illustrating how they are relevant to the development
+of software that meets certain needs in industry,science and commerce.
+U08009 Introduction to Object Oriented Programming
+This module covers the fundamentals of object-oriented programming
+design, testing and implementation. The module gives the opportunity
+to apply these programming principles to software development. The
+student will acquire the skills and practices necessary to become confi-
+dent in developing.
+U08606 Discrete Mathematics
+The main aim of the module is to introduce students to those key math-
+ematical concepts that underpin computer science with applications to
+computing. This module is intended to equip students with knowledge of
+the language and structures of discrete mathematics and its relevance to
+a wide range of computing applications. The concepts discussed in the
+course underpin many of the computing topics developed in advanced
+computing modules.
+14
+
+--- Page 15 ---
+2.2. Module Content
+U08500 Introductory Robotics
+Introductory Robotics provides the core foundations needed to study
+and develop robots. The essential mathematics and its application to a
+physical robot are studied, as well as the primary electronics and mea-
+surement techniques needed for constructing small scale robotics con-
+trol circuitry. Additionally, the programming and design of robotics is
+introduced to the student with the aim of providing an initial compre-
+hension of robotics systems development. The module is taught in a
+hands-on project based manner,with two major projects to develop over
+the two semesters. Each semester is divided into blocks of three weeks
+which emphasise specific foundation skills needed to complete each ma-
+jor project. The module will include the required techniques for scientific
+under- standing,basic programming for the robots studied,professional,
+legal, ethical and society issues involved in robotics; and the required
+background for robotics systems engineering.
+Level 5 Modules
+U08055 Professional Issues and Computer Risks
+Astudy of the professional issues that surround the development of com-
+puter systems by the nature of their applications in the context of the
+society in which the system to be operated and for a recognised level of
+human safety when implemented.
+U08025 Foundations of Computation
+This module covers the logical and mathematical concepts that underlie
+theories of computation. It introduces the notion that some problems
+are intrinsically more difficult than others (in a precise sense) and some
+problems are unsolvable. The module also aims to introduce students
+to the core concepts of formal languages and automata, which play key
+roles in the study of programming languages, and to develop practical
+skills in manipulating such entities.
+U08026 Further Object Oriented Programming
+To advance the students’ knowledge and skills in programming and in
+particular, the principle concepts of object-orientation. To introduce the
+15
+
+--- Page 16 ---
+2. Curriculum
+student to concepts and language facilities for internationalisation of soft-
+ware.
+U08027 Current Research
+This module introduces students to selected areas of current research
+and development from sociological, technological and economic per-
+spectives. Students work in groups to carry out a strategic analysis of
+a topic working in the style of an industrial technical analysis task force.
+Students also carry out an individual analysis of a selected topic. Arange
+of topics will be covered in seminars led by specialist and guest lecturers,
+with practical experience in the topics. Not all seminars will be directly
+applicable to all subject areas,but there will be at least 3 relevant to each
+subject area and students will be required to attend them all in order to
+develop a broader awareness of current topics and trends.
+U08226 Foundations of Security
+A study of information, computer and network security and ways that
+computer systems can be secured. This module will look at the techno-
+logical, ethical and professional issues involved in securing and assess-
+ing the security level of a modern networked computer system.
+U08520 Advanced Robotics
+Advanced Robotics builds on the foundations established in the Intro-
+ductory Robotics module. The focus is on the understanding of inte-
+grated robotic systems. By studying existing robots, at varying levels
+of complexity, the various aspects, such as design, construction, elec-
+tronics and program- ming, can be illuminated. Addressing controllers
+and the use of sensors and effectors are discussed, not only to develop
+a robot, but also to study the requirements and methodologies of engi-
+neering systems.
+U08521 Robotic Systems Engineering
+Robotics Systems Engineering addresses the middleware aspects of robotic
+development. Middleware in robotics is more experimental and varied
+than middleware in other platforms due to the varied development plat-
+forms and hardware available. It will address different robot operating
+systems, as well as model based robotic control. These developments
+16
+
+--- Page 17 ---
+2.2. Module Content
+form the basis for further study in low and high level robotic control sys-
+tems.
+U08223 Data Structures
+This module aims to further develop students’ expertise in programming,
+to the point where they are confident in the use of recursion,testing,and
+manipulation of data structures such as graphs and trees.
+U08048 Requirement Specification and Software Design
+The module covers the principles,methods and techniques for the speci-
+fication and analysis of users’ functional and non-functional requirements
+for information systems and software design.
+U08028 Software Development with C and C++
+This module covers programming in C and C++. It covers C program-
+ming before going on to some of the most widely used features of C++
+for good program design and practice. After completing this module,the
+students are expected to able to write programs in C/C++.
+U08038 The Human Computer Interface
+This module introduces students to the process of user requirements
+capture, interface specification, design, implementation and evaluation.
+Students will analyse different aspects of user interfaces, and develop
+an interface. The emphasis of the work is on User Centred Design.
+U08868 Independent study Level 5
+Individual or exceptionally, small group work, on a level 5 topic relevant
+to the student’s study of the appropriate field. The topic, supervisor and
+assessment scheme will be agreed separately with the subject coordi-
+nator and module leader for each student registration.
+17
+
+--- Page 18 ---
+2. Curriculum
+Level 6 Modules
+U08599 Robotics Project
+An individually supervised project to investigate a chosen problem in
+Robotics to form an extended study of a topic selected from a suitable
+area, and that involves the solution of a practical problem. The project
+is intended to culminate the course giving the students an opportunity
+to present the breadth and the depth of knowledge gained in Robotics
+Systems.
+U08570 Cognitive Robotics
+The module will study the architecture and development of robotic sys-
+tems that exhibit higher level intelligent behaviour. Such robots are able
+to function in a complex world and interact with humans effectively. The
+module will link directly with the research projects of the department’s
+Cognitive Robotics Laboratory.
+U08089 Machine Learning
+The module aims to provide the students with the principles of com-
+puter learning and its applications. It covers the fundamentals of ma-
+chine learning methodologies, implementations and analysis methods
+appropriate for machine learning applications. The module will enable
+students to analyse a machine learning problem, critically evaluate the
+different approaches that are available, and create an effective solution.
+U08781 Machine Vision
+The module aims to provide the students with the principles of computer
+vision and its applications. It covers the fundamentals of human vision
+and image formation, low-level image processing, stereo vision, video
+analysis, modelling and recognition. The goal is to ensure that students
+become familiar with the fundamental problems and techniques of com-
+puter vision, and experience their implementation in practice.
+18
+
+--- Page 19 ---
+2.2. Module Content
+U08571 Real-time Embedded Robotic Systems
+Robotics Systems Engineering addresses the low-level embedded sys-
+tems aspects of robotic development. Embedded systems are based on
+small scale controller boards with a variety of input/output mechanisms.
+The integration of low-level control with actuators and sensors requires
+the specific understanding of the commonly used controllers and their
+interfaces.
+U08186 Advanced Object Oriented Programming
+This module covers the theory and practice of the advanced features of
+object-oriented languages, code quality, the practicalities of large-scale
+design, and the importance of robustness in software.
+U08074 Reasoning about Functional Programs
+This module aims to cover the principles and techniques of programming
+with functions, and of reasoning about such programs mathematically.
+U08282 Algorithms and Advanced Data Structures
+This module covers algorithm and data structure design techniques,and
+gives students an understanding of the implementation, efficiency and
+utility of a range of useful programming applications.
+U08079 Optimised Programming
+This module covers methods, techniques, and strategies for producing
+program code that runs as quickly as possible and makes the best pos-
+sible use of the computing resources available. It covers performance
+measurement, techniques for optimising program code, and methods
+for making use of multiple processors, with a focus on applications such
+as games where high performance is required.
+U08085 Communicating and Teaching Computer
+Science
+• To provide undergraduates with an opportunity to gain marketable
+and transferable key skills including the communication of their
+knowledge of the subject in a challenging educational environment.
+19
+
+--- Page 20 ---
+2. Curriculum
+• To give undergraduates a better appreciation of the level of their
+own expertise in their subject, and to build upon this through the
+process of explaining the subject’s core ideas and concepts to oth-
+ers.
+• To help undergraduates learn to address the needs of individuals
+and to think about methods of presentation which are appropriate
+to the groups they are working with.
+U08088 Independent study Level 6
+Individual or exceptionally, small group work, on a level 6 topic relevant
+to the student’s study of the appropriate field. The topic, supervisor and
+assessment scheme will be agreed separately with the subject coordi-
+nator and module leader for each student registration.
+2.3 Professional Bodies
+The intention is to submit the programme for accreditation by both the
+IET (the Institute of Engineering and Technology) and the BCS (British
+Computer Society) after the first cohort has completed, according to IET
+and BCS requirements. IET and BCS criteria have been taken into ac-
+count when designing the programme.
+20
+
+--- Page 21 ---
+3
+Learning, teaching and
+assessment
+3.1 Learning
+To ensure that you will meet the programme learning outcomes,all mod-
+ules in this programme comprise a rich mixture of theory and practice
+with a focus on integrating the computer science and robotics aspects
+of the course. The general strategy for learning and teaching is to use
+front-of-class sessions (e.g. lectures) to teach the theoretical and con-
+ceptual elements of the subject, and to use ‘hands-on’ sessions (e.g.
+practicals), and project based learning to teach the practical and skills
+based elements. Although this is the general pattern of teaching and
+learning adopted throughout the programme, where better suited a dif-
+ferent approach is used. For example, to teach programming an ap-
+prenticeship model is used. In this model, you will be introduced to a
+particular programming concept through a brief front-of-class session,
+followed immediately by a hands-on session, which gives you the op-
+portunity to put it into practice with help and feedback from staff be-
+fore the next programming concept is introduced. In addition to this, a
+project based approach to learning will be adopted in almost all of the
+specialist robotics modules. This will give you the opportunity to learn
+the theoretical and practical robotic concepts in the context of a hands-
+on project, which will require you to develop a complete robotic system.
+This is in preparation for your final year robotics project, where you will
+be developing a robotic system in the context of a research project or
+a commercially inspired project. Project based learning throughout the
+course will primarily focus on developing systems for physical robotic
+devices. Team work is featured prominently in the learning and teaching
+21
+
+--- Page 22 ---
+3. Learning, teaching and assessment
+strategy for this programme because the ability to work effectively in a
+team is an important skill for many of the career paths that graduates
+from this programme will take (e.g. robotic systems engineer, software
+developer, software project manager).
+All teaching on the programme implements the Brookes Assessment
+Compact, as given on the following pages.
+22
+
+--- Page 23 ---
+Assessment* Compact
+[* Assessment encompasses all judgements made about the work of a student and/or their skills, abilities and
+progress, and the associated provision of feedback.]
+1. There are five fundamental tenets behind this compact, namely that:
+1.1 Effective assessment is central to learning.
+1.2 To be effective the relational nature of the assessment and feedback process needs to be emphasised,
+particularly in terms of the need for active dialogue between students and staff.
+1.3 To be effective, assessment must be recognised as a joint responsibility between staff and students.
+1.4 The ability to assess, the work of both self and others, is an essential skill for all graduates.
+1.5 For the above tenets to be met in full, students and staff need to be ‘assessment literate’ and actively
+participate in disciplinary communities of assessment practice.
+2. The University will therefore ensure that:
+2.1 Assessment is central to the curriculum, and there should be no distinct boundary between assessment,
+teaching and learning. All academic staff will therefore be encouraged to regard assessment as a
+fundamental and integral part of programme design, and one that is intended to shape and develop learning,
+as much as to judge and measure it.
+2.2 Assessment is designed at programme level, to integrate module assessment and ensure that assessment
+shapes learning in a coherent and holistic fashion, consistent with the aims and learning outcomes of the
+programme so that identified knowledge, skills and qualities can be developed and recognised, and validly
+assessed, whilst recognising progressive levels of attainment and different modes of study.
+2.3 The relationship between learning outcomes and assessment tasks is made explicit. In addition, clear
+assessment criteria should be provided whenever possible, and always when the assessment contributes to
+marks, grades, or decisions about progression. Assessment judgements must focus on the achievement of
+the learning outcomes against the assessment criteria, and this achievement authenticated as the student’s
+own.
+2.4 Every effort is taken to ensure that there is no bias in the type of assessment task, or method chosen, or the
+criteria applied, that would unfairly disadvantage any student.
+2.5 Students are given supportive, constructive and timely feedback as an essential part of their learning. Such
+feedback will enable students to build on their positive achievements and have a clear sense of what they
+need to do to improve, with subsequent opportunities provided to act on the feedback and to put the advice
+given into practice.
+2.6 Programmes include activities (e.g. marking exercises, self and peer-assessment, etc.) specifically designed
+to involve students in assessment, to encourage dialogue between students and their tutors, and students
+and their peers, and to develop their abilities to make their own informed judgements (assessment literacy).
+2.7 Programmes produce assessment schedules of summative assessment, and make every effort to avoid the
+concentration of assessment deadlines.
+2.8 Academic staff are provided with staff development in assessment literacy, and awareness of new ideas and
+techniques.
+2.9 Disciplinary communities of assessment practice are developed through, for example, regular peer
+discussion and student involvement.
+2.10 Institutional values and policies consistently support this compact, and adequate resources are provided.
+OBU Assessment Compact 2009
+
+--- Page 24 ---
+3. Students will be expected to take responsibility for their own learning through:
+3.1 Actively engaging with assessment tasks, including carefully reading the guidance provided, spending
+sufficient time on the task, ensuring their work is authentic and their own (whether individual or groupwork),
+and by handing work in on time.
+3.2 Actively engaging in activities designed to develop assessment literacy, including taking the initiative when
+appropriate (e.g. asking for clarification or advice).
+3.3 Actively engaging with, and acting on, feedback provided.
+3.4 Actively engaging in the development of assessment policy at course and programme level through the
+established processes and student representative system.
+OBU Assessment Compact 2009
+
+--- Page 25 ---
+3.1. Learning
+Virtual Learning Environment
+The Brookes Virtual Learning Environment (VLE) uses Moodle. Moodle
+contains essential information about the modules you are registered for,
+or a link to this information if it is stored elsewhere. For each module this
+includes:
+• The module description, including information such as the mod-
+ule title, module number, the module leader, the module level, the
+number of credits, pre-requisites, co-requisites, any restrictions or
+requirements, learning outcomes, teaching, learning and assess-
+ment and learning hours.
+• The module reading list.
+• Links to important University-wide information including the poli-
+cies for:
+– Mitigating Circumstances
+– Dyslexia
+– Plagiarism
+– Syndication and Collusion
+– University wide regulations
+– Examination Guidance
+• Module tutor(s) and contact details.
+• Programme administrator and contact details.
+• Assessment details and arrangements.
+• Assessment Cover Sheet and Feedback Form.
+• Specimen Examination Papers (where relevant).
+• Useful web links and other resources.
+• Use of student feedback to improve the module.
+• Teaching materials such as lecture notes and practical exercises.
+The link to Moodle login, using your PIP username and password is:
+http://moodle.brookes.ac.uk
+25
+
+--- Page 26 ---
+3. Learning, teaching and assessment
+3.2 Email
+Email is the standard mode of communication between students and
+staff. You will receive a Brookes email address on enrolment, which you
+should use in all correspondence with staff. For details,see the comput-
+ing services website at http://obis.brookes.ac.uk.
+3.3 Work Placements
+Between your second and final years of study,you will have the opportu-
+nity to undertake a year’s paid placement in industry. This is something
+that our students find very valuable, and it will also improve your em-
+ployability once you graduate. The department has a mature portfolio of
+companies offering placements in a wide range of contexts from multina-
+tional industries through SMEs to public sector bodies. The department
+engages with e-skills UK and students participate in the e-skills Profes-
+sional Internship scheme during their placement. Each placed student is
+assigned an academic supervisor for their placement year who will visit
+them at their placements. Preparation for placement is provided during
+the second year, through the module U08055 Professional Issues and
+Computer Risks, and in specialist sessions. You will also be supported
+by a dedicated administrator,who manages the placements process and
+provides help in securing a place.
+3.4 Programme Calendar
+Generally, semesters at Brookes have the following structure (detailed
+semester dates can be found at the Brookes website: http://www.brookes.
+ac.uk/studying-at-brookes/learning-and-teaching/semester-dates/.
+26
+
+--- Page 27 ---
+3.4. Programme Calendar
+Week Event
+0 Enrolment and Induction
+1 Teaching
+2 Teaching
+3 Teaching
+4 Teaching
+5 Teaching & Programme Committee Meeting
+6 Teaching
+7 Teaching
+8 Teaching
+9 Teaching
+10 Teaching
+11 Teaching
+12 Teaching
+13 Examinations
+14 Marking
+15 Marking
+16
+17 Examination Committee
+18 Results published
+The assessment schedules below gives details of the assessment
+submitted and feedback provided throughout the semester for each mod-
+ule.
+27
+
+--- Page 28 ---
+BSc (Hons) Computing for Robotic Systems Semester 1
+Assessment is individual unless indicated otherwise.
+% of Week Week
+Module Name Semester Choice Assessment Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 11 Exam
+Marks 10 12
+Compulsory
+U08007 Business Computing 1 and 2 (dbl) Compulsory Business case and project plan (groupwork) 20%
+Technical specification report (groupwork) 20%
+Technical design report (2nd semester) (groupwork) 20%
+Product presentation (2nd semester) (groupwork) 20%
+Personal portfolio (2nd semester) 20%
+U08008 Modern Computing Technology 1 (dbl) Compulsory Programming Assignment 1 25%
+Programming Assignment 2 25%
+Programming Assignment 3 25%
+Class test 25%
+U08055 Professional Issues and Computer Risks 1 Compulsory Essay 50%
+Risk assessment (groupwork) 50%
+U08025 Foundations of Computation 1 Compulsory Analysis exercise 1 15%
+Analysis exercise 2 15%
+Exam 70%
+U08026 Further Object Oriented Programming 1 Compulsory Weekly programming exercises 20%
+System development & documentation (groupwork) 80%
+U08500 Introductory Robotics 1 and 2 (dbl) Compulsory Report on each sub-project 40%
+Report on the semester project 60%
+U08520 Advanced Robotics 1 and 2 (dbl) Compulsory Report on each sub-project 40%
+Report on the semester project 60%
+U08570 Cognitive Robotics 1 Compulsory Written report in the style of a research paper 100%
+U08089 Machine Learning 1 Compulsory Written report on the analysis of a machine learning task 50%
+Exam 50%
+U08599 Robotics Project 1 and 2 (dbl) Compulsory Proposal 10%
+Interim report 10%
+Final report (2nd semester) 70%
+Presentation (2nd semester) 10%
+Optional
+U08186 Advanced Object-Oriented Programming 1 Optional Individual 50%
+Exam 50%
+U08028 Software Development with C and C++ 1 Optional Software development assignment (groupwork) 50%
+Exam 50%
+U08282 Algorithms and Advanced Data Structures 1 Optional Programming assignment 1 10%
+Programming assignment 2 10%
+Programming assignment 3 30%
+Exam 50%
+U08085 Communicating and Teaching Computer Science 1 or 2 Optional Log book completion 25%
+Final report 25%
+Presentation 25%
+Teacher assessment 25%
+U08868 Independent Study Level 5 1 or 2 Optional Dependent on learning outcomes 100%
+U08088 Independent Study Level 6 1 or 2 Optional Dependent on learning outcomes 100%
+
+--- Page 29 ---
+BSc (Hons) Computing for Robotic Systems Semester 2
+Assessment is individual unless indicated otherwise.
+% of Week Week
+Module Name Semester Choice Assessment Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 11 Exam
+Marks 10 12
+Compulsory
+U08007 Business Computing 1 and 2 (dbl) Compulsory Business case and project plan (groupwork) 20%
+Technical specification report (groupwork) 20%
+Technical design report (2nd semester) (groupwork) 20%
+Product presentation (2nd semester) (groupwork) 20%
+Personal portfolio (2nd semester) 20%
+U08009 Introduction to Object Oriented Programming 2 Compulsory Weekly lab exercises 10%
+Programming assignment 1 15%
+Programming assignment 2 25%
+Exam 50%
+U08606 Discrete Mathematics Problem set 25%
+Problem set 25%
+Exam 50%
+U08027 Current Research 2 Compulsory Subject-area specific essay (group with individual reflection) 60%
+Impact essay 40%
+U08223 Data Structures 2 Compulsory Programming Exercise 1 25%
+Programming Exercise 2 25%
+Exam 50%
+U08226 Foundations of Security 2 Compulsory System analysis 30%
+Pen test 20%
+Exam 50%
+U08781 Machine Vision 2 Compulsory Report on analysis of machine vision problem 50%
+Exam 50%
+U08500 Introductory Robotics 1 and 2 (dbl) Compulsory Report on each sub-project 40%
+Report on the semester project 60%
+U08520 Advanced Robotics 1 and 2 (dbl) Compulsory Report on each sub-project 40%
+Report on the semester project 60%
+U08521 Robotic Systems Engineering 2 Compulsory Laboratory log book 40%
+Project report 60%
+U08599 Project 1 and 2 (dbl) Compulsory Proposal 10%
+Interim report 10%
+Final report (2nd semester) 70%
+Presentation (2nd semester) 10%
+Optional
+U08038 The Human Computer Interface 2 Optional Group work 50%
+Class Test 50%
+U08048 Requirements Specification and Software Design 2 Optional Requirements elicitation (groupwork) 25%
+Requirements modelling (groupwork) 45%
+Software architecture 30%
+U08074 Reasoning about Functional Programs 2 Optional Coursework assignment 30%
+Exam 70%
+U08079 Optimised Programming 2 Optional Software optimization exercise 50%
+Exam 50%
+U08085 Communicating and Teaching Computer Science 1 or 2 Optional Log book completion 25%
+Final report 25%
+Presentation 25%
+Teacher assessment 25%
+U08571 Real-time Embedded Robotic Systems 2 Optional Laboratory log book 40%
+Project report 60%
+U08868 Independent Study Level 5 1 or 2 Optional Dependent on learning outcomes 100%
+U08088 Independent Study Level 6 1 or 2 Optional Dependent on learning outcomes 100%
+
+--- Page 30 ---
+3. Learning, teaching and assessment
+3.5 Assessment Regulations
+Assessment Criteria
+Overall assessment criteria are provided in the module descriptions,spe-
+cific criteria are given in the appropriate assessment specifications for
+each module. Procedures in the department adhere to the standard uni-
+versity assessment regulations:
+http://www.brookes.ac.uk/regulations.
+Assessment Procedures
+Normally, assessed work will be submitted, and marks and accompany-
+ing feedback will be returned, through the Moodle page for the module.
+Where this is not the case,it will be explicitly indicated in the assessment
+specification.
+Grading
+The programme adheres to the university’s standard grading conven-
+tions. Details of these can be found at:
+http://www.brookes.ac.uk/regulations.
+Submission Procedures
+Extensions to the deadline to handing in assessed work can only be given
+where mitigating circumstances have been shown to have occurred. Mit-
+igating circumstances are circumstances which were beyond your con-
+trol and which could not be reasonably accommodated by you and which
+seriously impaired your performance in assessment. All three parts of
+this definition must be met for the University to agree you were affected
+by mitigating circumstances. For example, these circumstances could
+be medical or personal. In all cases you will be required to provide satis-
+factory documentary evidence to support your claim; if you fail to supply
+satisfactory documentary evidence your request will be turned down. It
+is possible to submit a mitigating circumstances claim before you can
+provide evidence, but failing to later provide this evidence means that it
+will be automatically rejected. The only exception is for very short ex-
+tensions to an assessment deadline (up to one week), where you may
+be allowed to self-certify your circumstances. These short extension are
+dealt with by the module leader and are dealt with quickly, but all other
+30
+
+--- Page 31 ---
+3.5. Assessment Regulations
+claims are dealt with by the Mitigating Circumstances Panel, which will
+take longer to process.
+In all cases,you should submit your claim and your evidence as soon
+as possible and in any case always before an assessment deadline or
+exam. If you miss a deadline you will not only need to demonstrate that
+you were affected by mitigating circumstances but you will need to pro-
+vide evidence that you were unable to submit your claim by the deadline.
+If you wish to make a mitigating circumstances claim, there is a spe-
+cific form that must be used, which you can find in PIP. Instructions for
+using the form are in PIP too. Help and advice on the procedure can be
+obtained from the Student Support Coordinators.
+If you miss an assessment deadline or an exam without approval for
+valid mitigating circumstances you will receive zero for that assessment.
+If your claim for mitigating circumstances is approved then you can
+be granted an extension to your submission deadline of up to five weeks
+where relevant, or be allowed to re-sit your examination. In certain spe-
+cific situations re-taking an entire module may be authorised. The Uni-
+versity does not increase marks on the basis of mitigating circumstances.
+Instead extensions,re-sits or re-takes are awarded to allow you to demon-
+strate your full potential in assessments.
+Further details can be found in Regulation A3.5, which can be found
+at :http://www.brookes.ac.uk/regulations.
+Moderation
+All programmes have at least one associated external examiner. This will
+be a senior academic from another university with experience teaching
+on similar programmes.
+Examination and coursework are created by the module tutors and
+checked by an internal moderator,who is an academic in the department.
+Once this internal moderation process is complete,the assessments are
+sent to the external examiner to be agreed. This process takes place at
+the start of the semester.
+Coursework specifications should state the deadline for the return of
+feedback, where this differs from the norm of the programme. Marking
+and the provision of feedback is carried out by the tutors on the module.
+Second marking of assessment is carried out in accordance to the faculty
+policy.
+All marks are provisional until they have been ratified by the exam-
+ination committee at the end of the semester. The external examiner
+participates in the meeting and will previously have reviewed the marks
+31
+
+--- Page 32 ---
+3. Learning, teaching and assessment
+and performance on the modules. Marks cannot be ratified without the
+agreement of the external examiner. After the meeting the external ex-
+aminer will deliver a report on the programme to the University. This re-
+port will be made available to you through PIP. The external examiner’s
+name and institution are given in the report, this is purely for information,
+please do not contact them directly.
+Appeals and Complaints
+Appeals
+Requests for the review of a decision of an Examination Committee must
+be received by the Academic Registrar within one month of the publica-
+tion of the result. If you are unable to lodge a request for a review within
+the month you should, within that period, lodge a written declaration of
+intent to do so with the Academic Registrar,who may impose a time limit
+for the submission of the full request. Any request submitted beyond
+these limits must include reasons and evidence showing why, through
+no fault on your part, the request could not have been made within the
+time limit. For information and advice on the procedures, please see
+the student support coordinators. Information about the procedures can
+be found at the Student Central, Student Disputes Team: http://www.
+brookes.ac.uk/students/your-studies/student-disputes.
+Complaints
+Details of the complaints procedure can be found at:
+http://www.brookes.ac.uk/students/your-studies/student-disputes/
+student-complaints
+Depending on the nature of the complaint, you should first go to the
+person concerned. If this does not resolve the matter,or if it is not appro-
+priate to follow this procedure,you may initiate a formal complaint proce-
+dure by submitting a Student Complaint Form (SCF 1). See the website
+for full details of the procedure, or ask the Faculty Student Complaints
+Officer for guidance: Laura Cooper lcooper@brookes.ac.uk.
+3.6 Good Academic Practice
+At Brookes, good academic practice permeates all our programmes.
+Staff at the department come together in weekly meetings where ex-
+32
+
+--- Page 33 ---
+3.6. Good Academic Practice
+amples of good academic practice and new developments in teaching
+are shared. These then influence the delivery of modules.
+Turnitin
+Turnitin is a web-based tool that supports students in the development
+of good academic practice when preparing written work for assessment.
+This text-matching tool allows academic staff to check students’ work for
+improper use of sources or potential plagiarism by comparing it against
+continuously up-dated databases (including web-pages and student work).
+Turnitin produces an ’Originality Report’ for each submitted piece of work
+which indicates all the matches in the student assignment to the web-
+based sources on its database,and thus can provide academic staff with
+the opportunity to help students develop proper citation methods as well
+as to safeguard students’ academic integrity. At Oxford Brookes Univer-
+sity,all students on the undergraduate modular programme will normally
+use Turnitin on a minimum of three compulsory occasions: once during a
+compulsory module in the first year, once again in a compulsory module
+in subsequent years, and finally during the dissertation. In addition, Tur-
+nitin may be used optionally on other modules. Submission to Turnitin
+takes place through Moodle as a normal part of the coursework submis-
+sion process. University regulations relating to Turnitin can be found at:
+http://www.brookes.ac.uk/regulations.
+Academic Conduct Officer
+Where potential cases of academic misconduct arise,the module leader
+will report these to the department’s Academic Conduct Officer who will
+investigate. This involves the gathering of evidence, and investigative
+interviews to determine if misconduct has occurred, and the setting of
+appropriate penalties where this is the case. Where serious misconduct
+has occurred, these cases may be referred to the University Miscon-
+duct Committee. The details of the relevant procedures can be found at:
+http://www.brookes.ac.uk/asa.
+33
+
+--- Page 34 ---
+
+
+--- Page 35 ---
+4
+Learning resources
+4.1 Library
+There are three libraries at Oxford Brookes University and all are avail-
+able for use by Brookes’ students. The Wheatley Library specialises in
+computing, communication technologies, mathematics, statistics, engi-
+neering and business. The largest, and multidisciplinary, library is the
+Headington Library on the Gipsy Lane site of the Headington campus.
+The Harcourt Hill Library specialises in education, theology, human de-
+velopment, communication, sport and performing arts. Opening times
+and other information on Library Services can be obtained at the Library
+Enquiry Desks, and from the Library website at: http://www.brookes.
+ac.uk/library
+The Library contains and subscribes to information in a wide variety
+of formats:
+• Electronic (over 100 online databases, 6,000 electronic journals,
+and 300 electronic books)
+• Printed (almost 500,000 books, over 2,000 current journals, and a
+wide range of newspapers)
+• Audio-visual (CDs, DVDs)
+Library Catalogue terminals are located throughout the Library, pro-
+viding access to the Library’s stock and enabling users to check what
+items they have on loan and renew books. Books, except for those in
+the Short Loan Collection, that are already on loan or at another Library
+site can be reserved on the Catalogue and delivered to any site. They
+35
+
+--- Page 36 ---
+4. Learning resources
+can also be returned to any site. The catalogue can be accessed 24/7
+over the Internet at: http://catalogue.brookes.ac.uk
+• Books can be borrowed for periods of one or two weeks.
+• Books in heavy demand are placed in the Short Loan Collection
+from where they may be borrowed for 4 or 24 hours.
+• Students are entitled to borrow up to 10 items plus 2 Short Loan
+items at any one time. Fines are charged for the late return of ma-
+terial.
+• Articles and books not in the Library can be obtained through the
+Interlibrary Loans service, at a charge of £2 per item.
+Subject help web pages have all the links to electronic resources and
+are available for:
+• Computing: http://www.brookes.ac.uk/library/comp.html
+• Communication Technologies: http://www.brookes.ac.uk/library/
+elec.html
+Book lists
+Almost every module has a Reading List (which are sometimes also called
+Resource Lists). A Reading List is a list of the information resources
+(books and e-books, journals and e-journals, standards, websites, tech-
+nical papers,videos,etc.) that you need to consult when taking the mod-
+ule. Reading Lists are stored electronically at http://resourcelists.
+brookes.ac.uk where you can search for lists, modules, and courses.
+You should also find a link from every module’s Moodle page to it’s read-
+ing list; look in the right hand column of any module’s Moodle page for a
+box called Resource Lists to find the link.
+Referencing
+Computing students are advised to use the Harvard referencing system.
+Communication Technologies students are advised to use the British
+Standard (numerical) system. Details should be confirmed with the mod-
+ule leader. The Library can offer advice on both systems. Citing your
+sources (also called referencing) is an essential part of your academic
+work for several reasons:
+36
+
+--- Page 37 ---
+4.2. Upgrade
+• to acknowledge the sources you have used as the basis for your
+research. Failure to do this could be regarded as plagiarism.
+• to enable other people to identify and trace the sources you have
+used.
+• to support facts and claims you have made in your assignment.
+• to show that you have read widely and used a variety of sources.
+When you use published information (including web resources) to col-
+lect ideas and data for your assignment,record the full details of the ma-
+terial as you use it. This saves time later when you are ready to complete
+your written work. Use the citing guides,prepared by the Library,so that
+you know which details you will need.
+You can use the software programme,EndNote,to create a database
+of your own references and then, when writing your assignment or dis-
+sertation, you can use this programme to produce in-text citations and
+a bibliography.
+Guidance on how to reference your work correctly, using what is
+known as the Harvard Referencing System,may be found on the Brookes
+website at: http://www.brookes.ac.uk/library/resources/harvard.
+pdf
+4.2 Upgrade
+Upgrade is a service offering study advice to students at Oxford Brookes
+University. Anyone can come to the Upgrade desk at drop-in times for
+academic advice or help. Your Module Leader or Academic Adviser is
+often the best person to help you – Upgrade is in addition to,not instead
+of, help from subject specialists.
+There is much more information on the Upgrade web site:
+http://www.brookes.ac.uk/services/upgrade
+If your query is a quick one,we will help you straight away. If a longer
+discussion is needed, you can book a 30 minute slot outside the drop-in
+times to suit you.
+What does Upgrade do?
+• We offer advice in:
+– Maths :
+* Statistics, charts, SPSS
+37
+
+--- Page 38 ---
+4. Learning resources
+* numeracy for anyone
+– Information skills:
+* finding sources, hard copy and electronic
+* referencing and bibliographies
+– Study Skills: including
+– planning, researching and writing assignments and essays
+– referencing and bibliographies
+– approaches to study (eg getting organised), exams
+• What we don’t do:
+– We don’t do your work for you! So we don’t proofread your
+work (but we will advise you on how to tackle it)
+– offer tuition in English as a Foreign Language (but we will ad-
+vise you where to go for tuition).
+• Confidentiality:
+The Upgrade service is confidential – what is said remains between
+you and your tutor,and will not be passed on to your subject tutors
+or anyone else,unless this is agreed between you and the Upgrade
+tutor. Email for an appointment: upgrade@brookes.ac.uk
+4.3 Oxford Brookes Information Solutions
+A comprehensive guide to the computer facilities available for student
+use can be found at: http://obis.brookes.ac.uk/
+IT Service Desks
+IT Service Desks operate at Wheatley, Harcourt Hill and Gipsy Lane,
+staffed all year round, with evening cover at Gipsy Lane during term-
+time. Users can telephone,email or visit to seek help with problems with
+software, faulty disks etc.
+• Email (all campuses): servicedesk@brookes.ac.uk
+• Telephone (all campuses): (01865 48)3311
+38
+
+--- Page 39 ---
+4.4. Departmental IT Facilities
+• Headington Road - John Henry Brookes Building, Forum
+The Headington Campus Service Desk Point is located in the John
+Henry Brookes Building, Level 0 in the Forum, tucked in the corner
+opposite Cafe Central.
+The Service Desk is open weekdays from 8.30am to 8pm.
+Semester time weekend opening times:
+The weekend hours are Saturday and Sunday from 11am to 4pm.
+No need to book just turn up!
+During vacation the Service Desk is open weekdays from 9am to
+5pm (4.30pm on Fridays.)
+• Wheatley: Library
+The Wheatley Service Desk is located in the Wheatley Library and
+is open weekdays from 9am to 6.15pm.
+During the vacation the Service Desk runs from N104, the Service
+Desk back office
+• Harcourt Hill, Room GLG/08
+The Harcourt Hill Service Desk is located in G block near the com-
+puter rooms and the library and is open weekdays from 9am to
+5pm.
+Pooled Computer Rooms
+For the locations of pooled computer rooms on all campuses see:
+http://www2.brookes.ac.uk/services/cs/useful_info/sitemap.html
+4.4 Departmental IT Facilities
+Specialist Robotic Facilities
+The Cognitive Robotics Laboratory (T206) houses our robots. These are
+also used for our research programmes, but you will use them through-
+out the Computing for Robotics Systems course. These robots include
+Robothespian (Engineered Arts), Baxter (Rethink Robotics), Nao (Alde-
+baran Robotics), a full-size Autonomous Vehicle (Quadbike), small scale
+Autonomous Vehicles, quadcopters, and micro-quadcopters. Simula-
+tion environments are also available for Robothespian, Baxter, and the
+39
+
+--- Page 40 ---
+4. Learning resources
+Nao robots. Additionally, the department makes available a range of
+microprocessors (ARM based), motors, controllers, communication de-
+vices (Zigbee, Wifi, Bluetooth), and electronic components for the con-
+struction of robots.
+Specialist Computing Rooms
+The Department of Computing and Communication Technologies has its
+own network which is linked to but managed separately from the main
+University network. The department’s computer rooms contain specialist
+computer and ITfacilities reserved for our students. These can be found
+in the Rbuilding and in the Cblock on the Wheatley campus and consist
+of:
+• Fabrication Laboratory (Fab-Lab, C204a): This room is setup for
+the development and construction of robotic components. In the
+course, you will not only be programming pre-existing robots, but
+also constructing your own in this lab.
+• Network labs (in rooms R217,R222 & C104): These contain a range
+of CISCOrouters and switches,network monitoring and simulation
+software,2Gand 3Gmapping equipment. These are used primarily
+by students studying networking.
+• Secure labs (in rooms C104 & C105): Part of the network in these
+labs is sectioned off from the main campus network to enable stu-
+dents to conduct experiments that might adversely impact the per-
+formance of the campus network. These are primarily used by stu-
+dents studying security and systems administration.
+• Project labs (in rooms R243 & C105): These labs contain a range
+of equipment that can be set up and configured for a range of ex-
+perimental and development tasks. These are used primarily by
+students who are undertaking a specialised project.
+• Media labs (in rooms R202, R213, R228 & R234): These contain
+equipment for producing, editing and deploying a variety of media.
+These are used primarily by students studying on one of the media
+programmes.
+• General purpose labs (in rooms R132, R146, R148, R217, R222,
+C101 & C104): In addition to their specialist roles, most of our labs
+contain high end PCs that are set up for general computer use.
+These are used by everybody.
+40
+
+--- Page 41 ---
+4.4. Departmental IT Facilities
+Other Specialist Equipment
+The department maintains a large range of specialist equipment which
+includes:
+• Robots used both for research in Cognition, Vision, Kinematics,
+Swarm Intelligence, Machine Learning, Gait generation, as well as
+teaching.
+• Two High Performance cluster computers
+• Enterprise networking equipment
+• Qube Render farm for 3D animation
+• A TV studio
+• Smartphones and tablets
+• 2G & 3G mobile phone signal analysis equipment
+• Access to a large range of Microsoft products, including Operating
+Systems, through the departments MSDN AA subscription
+• Access to VMWare virtualisation software
+• Access to Sophos Anti-virus software for your own computer.
+You will be taught how to gain access to and use this equipment
+if your module requires it’s use. It is also available for use in student
+projects.
+Out Of Hours Access
+Access to the Rbuilding outside of teaching hours is via a keycard which
+is available from the departmental office.
+Help And Support For Departmental IT Facilities
+In most cases the module leader or practical assistant is best placed to
+help with the use of specialist hardware or software. Help with special-
+ist media resources is available from the media Technical Instructors (Joe
+Carr and James Templeton) in R227. Help with communications and net-
+working equipment, server and general computing resources are avail-
+able from our computing Technical Instructor (Paul Sturgess) in C107.
+41
+
+--- Page 42 ---
+
+
+--- Page 43 ---
+5
+Student support and guidance
+5.1 Sources of help and advice
+• Advice from the Programme Lead, Subject Co-ordinators, Module
+Leaders and Academic Advisors.
+• Student Support Co-ordinators.
+• Programme and module handbooks.
+• The Postgraduate Programme Administrator.
+• Central support services.
+• Update - study skills development/support.
+• Oxford Brookes International.
+• Student forums.
+• Student representatives,who are invited to attend a variety of meet-
+ings at which programme issues and student concerns are dis-
+cussed.
+• The Brookes Union (student organisation): +44 (0)1865484770,
+http://www.brookesunion.org.uk/advice
+The University level support services are of the directorate Academic and
+Students Affairs: http://www.brookes.ac.uk/asa.
+43
+
+--- Page 44 ---
+5. Student support and guidance
+5.2 Student Support Coordinators
+The Department’s Student Support Coordinators are Fareena Salih and
+Sam Varney. Both are key points of contact should you have a personal
+or academic-related problem. They are based on the ground floor of
+the Turing building at Wheatley Campus in the ‘Student Support Office’,
+room T1.18, where they have regular office hours when you can drop in
+to see them. You can also make an appointment with them via email (see
+below).
+Fareena and Sam are here to offer knowledge, experience and ad-
+vice to those undergraduate students requiring information, guidance or
+support regarding:
+• Accommodation problems
+• Financial support
+• Personal and medical problems
+• Understanding of the Mitigating Circumstances procedures and Uni-
+versity regulations
+• Who to talk to about academic matters
+How to contact Fareena:
+By email: fsalih@brookes.ac.uk
+Or by phone: 01865 48 4509
+How to contact Sam:
+By email: svarney@brookes.ac.uk
+Or by phone: 01865 48 4512
+Fareena and Sam will aim to answer as many of your questions as
+possible but will also be able to refer you to Academic Advisers, Pro-
+gramme Leads, Subject Coordinators, Module Leaders, the Students’
+Union Advice Centre, Counselling services, Disability Service, Interna-
+tional Students’ Advisory Service, Student finance and financial Aid etc.
+Fareena and San can help you with how to go about:
+• Module addition and deletion
+• Resolving errors on your PIP
+• Changing subjects
+44
+
+--- Page 45 ---
+5.3. Academic Advisers
+• Accessing Timetables
+• Finding relevant information in handbooks
+• Problems with exam schedules
+Whatever your query or problem you can contact Fareena or Sam for
+advice. All conversations are confidential unless stated otherwise.
+5.3 Academic Advisers
+At the beginning of your programme you will be assigned one of the tutors
+as your Academic Adviser, who is available to offer you help and advice
+throughout your programme. The name and room number of your Aca-
+demic Adviser is on your PIPrecord. Time is set aside in Induction Week
+for all new students to visit their Academic Advisers. If you enrol late
+make this visit as soon as possible in week 1. Your Academic Adviser will
+receive details of your timetable and your progress throughout your stud-
+ies. For more information about the University policy on Academic Guid-
+ance, see regulation E2 at: http://www.brookes.ac.uk/regulations.
+5.4 Programme Leads
+The Programme Leads have overall responsibility for all the undergrad-
+uate programmes in the Department. The Programme Leads for the De-
+partment of Computing and Communication Technologies are Peter Mar-
+shall and Bob Champion. Their contact details are:
+Email: pmarshall@brookes.ac.uk Telephone: 01865 48 4542
+Email: rchampion@brookes.ac.uk Telephone: 01865 48 4590
+5.5 Subject Coordinators
+Subject Coordinators are responsible for how a programme is run and
+you may consult them if you have particular queries about programme
+regulations or requirements. You may also contact them concerning
+teaching and learning in the programme. They are also responsible for
+counselling students on their choice of modules and you may consult
+them about your second and final year programme. The current Subject
+45
+
+--- Page 46 ---
+5. Student support and guidance
+Coordinators are:
+Subject Area Subject Coordinator
+Computer Science (SQ, SD) Mark Green
+Computing for Robotic Systems Tjeerd olde Scheper
+Information Technology Management for Samia Kamal
+Business (IC)
+Network Computing (NK) Faye Mitchell
+Software Development for Business (WB) Clare Martin
+Software Engineering (SH) Clare Martin
+5.6 Personal Information Pages
+Your Personal Information Portal (PIP)facility is only available to you once
+you have enrolled (or registered) as a student. When you enrol, you will
+be given your own personal PIPpassword which will allow you to access
+your personal details and amend your address, emergency contact and
+mobile phone details. You will also be able to view:
+• The modules for your course.
+• Your timetable (when and where you will be attending lectures and
+seminars).
+• Your record (how you are doing, including marks and grades at the
+end of each semester).
+• Your examination timetable (when and where your exams will be
+taking place).
+• Details of your Academic Advisor (name, room, email and phone
+number).
+Your PIP password, which you collect at enrolment, will also allow
+you access to:
+• University computers.
+• Brookes email (Brookes uses Google Mail).
+46
+
+--- Page 47 ---
+5.6. Personal Information Pages
+• HallNet. Internet access from Halls’ bedrooms to academic and
+personal directories, web and email (chargeable).
+• The Brookes intranet from anywhere in the world.
+Access to PIP/email
+Access to University and email facilities will cease 50 days after your
+leaving date. PIP access (from outside the university) will continue for
+200 days from when you leave. Please make sure you update your home
+address and any relevant information before you lose PIP access.
+Registering modules
+Modules must be registered by the end of Week 0 of the semester in
+which they run. It is your responsibility to register for the modules in
+your programme of study via PIP (Personal Information Portal).
+Adding and Deleting Modules
+The deadline for students adding modules via PIP is Friday of Week 7 of
+the semester before the module starts. The deadline for students delet-
+ing modules via PIP is Friday of Week 2 of the semester in which the
+module ends.
+If modules you do not wish to take are not deleted, they will remain
+on your programme and count towards the total number of modules that
+have been taken. You will then have to pay for that module.
+Conditions for progression and awards
+The Programme Specification specifies the compulsory modules for each
+individual programme and the modules that are pre-requisites for the
+study of other modules. Students will normally be expected to follow
+the programme in the sequence specified. To qualify for the award of
+BSc (Hons), all compulsory modules for the programme, as described in
+the approved Programme Specification, must be passed. You must also
+pass a total of 24 module credits, where the optional modules are taken
+from the list of acceptable modules for the programme. Sixteen of these
+credits must be at least level 5, of which at least six must be at level 6.
+47
+
+--- Page 48 ---
+5. Student support and guidance
+Temporary Withdrawal (Intermission)
+Any request for a temporary withdrawal/intermission from a programme
+of study should initially be discussed with the Programme Lead.
+Withdrawal
+Students,who wish to withdraw from their course for economic reasons,
+or because of life changes, will leave the course with credit for modules
+passed to date. They may, when ready to commence studies again, re-
+apply for a place on the course presenting their credits to be taken into
+account in their application.
+Students should be aware that,in the intervening time,changes might
+have been made to the course such that previously credited modules,or
+elements of modules, no longer apply to the programme of study.
+Module timetable
+Information about lecture/lab rooms and the module leader can all be
+found by entering the relevant module number in the module search sec-
+tion within the ‘Course Handbook’ tab of your PIP page.
+You should also check your Brookes email account regularly, as any
+changes to the timetable or lecture venue will normally be notified by
+email.
+Semester timetable/calendar
+The semester timetable can be accessed at: http://www.brookes.ac.
+uk/studying-at-brookes/learning-and-teaching/semester-dates
+5.7 Procedures for notification of sickness or
+absence
+If due to sickness or other event you are unable to attend a laboratory
+class or submit an assessed work element, then you should notify the
+Module Leader (ML) of your intended absence. Should you be unable
+to contact the ML, then a Student Support Co-ordinator could be in-
+formed and they can communicate your absence to appropriate MLs. In
+circumstances where the assessed work is summative (counts towards
+48
+
+--- Page 49 ---
+5.8. Brookes Union
+your module assessment) then you may wish to invoke the mitigating
+circumstances procedure.
+There isn’t normally a requirement to inform a Module Leader of your
+intended absence from a lecture but it would be useful to do so.
+5.8 Brookes Union
+The Brookes Union, housed in the John Henry Brookes building, is run
+by students,for students. It provides a range of student societies,raises
+money for charities, organises the Brookes Radio Station, and coordi-
+nates the student representation on your course. It is also home to the
+Brookes Union Advice Centre.
+The Brookes Union Advice Centre has professional advisers who have
+expert knowledge in housing, academic matters, debt and money mat-
+ters, consumer issues and much more. They have a regularly updated
+information database and they write and publish many leaflets and book-
+lets on student-related issues. Interviews are confidential. They can un-
+dertake advocacy work on students’ behalf, both within the context of
+the University and outside. The Advice Centre is a registered charity,
+a member of the Federation of Independent Advice Centres (FIAC) and
+registered with the Office of Fair Trading for debt counselling and money
+advice.
+The Brookes Union Advice Centre is in the John Henry Brookes Build-
+ing. You can call in there during the semester between 08.30 - 18.00 on
+Monday to Thursday, 08.30 - 16.00 on Fridays. Outside semester times,
+they are available 09.00-16.00 Monday to Friday, except Tuesday 08.30-
+18.00. They can also be contacted by phone 01865 484770 or through
+email: su.advice@brookes.ac.uk.
+For further information: http://www.brookesunion.org.uk/advice
+5.9 Intellectual Property
+Unless exempted, students agree to be bound by the University’s Intel-
+lectual Property Policy. Details can be found at: http://www.brookes.
+ac.uk/res/policy/ip_policy.pdf
+49
+
+--- Page 50 ---
+5. Student support and guidance
+5.10 Data protection and information security
+Oxford Brookes University recognises that information, and the associ-
+ated processes, systems and networks, are valuable assets and that the
+management of personal data has important implications for individuals.
+Through its security policies, procedures and structures, the Univer-
+sity will facilitate the secure and uninterrupted flow of information, both
+within the University and in external communications.
+The University believes that security is an integral part of the informa-
+tion sharing which is essential to academic and corporate endeavour and
+the policies outlined below are intended to support information security
+measures throughout the University.
+The Information Security Policy is based on recommendations con-
+tained in British Standard 7799, “A Code of Practice for Information Se-
+curity Management”.
+Further details can be found on the Oxford Brookes website: http://
+www.brookes.ac.uk/documents/regulations/current/other/e13-data_
+protection_policy
+5.11 Careers Advice
+The Careers and Employment Centre provides advice and information
+for current students, including specific pages for International Students,
+Postgraduates and Graduates of Oxford Brookes University.
+Further information can be found at: http://www.brookes.ac.uk/
+students/careers
+5.12 Equality and Diversity
+The Faculty of Technology, Design and Environment promotes an inclu-
+sive learning environment in which individuals are valued and supported
+in achieving their full potential. The Faculty endeavours to meet its du-
+ties under the Equality Act 2010 to eliminate unfair discrimination and
+promote equality of opportunity and good relations among members of
+the university community.
+For the university statement on Equal Opportunity and Diversity please
+see: http://www.brookes.ac.uk/services/hr/eod/statement.html
+If you have a matter to raise concerning disability you should con-
+tact: disabilitysupport@brookes.ac.uk or use the telephone number:
+01865 484651.
+50
+
+--- Page 51 ---
+5.13. International Student Advice Team
+There are staff who can offer a wide range of advice and support. In
+addition, you could contact the Faculty Student Support Co-ordinators
+who will be happy to talk to you.
+Information regarding the Student Disability and Dyslexia Service can
+be found on the following website: http://www.brookes.ac.uk/students/
+wellbeing/disability-and-dyslexia-service
+If you have disclosed a disability on your application form and have
+not heard from the disability staff by the time you arrive,you should con-
+tact the disability staff or the Student Support Co-ordinators as soon as
+possible after you arrive. However, if you have not disclosed a disability
+on your application form, but wish to disclose it when you get here, or
+you develop a disability whilst at Brookes, please contact the disability
+staff, or the Student Support Co-ordinators, as soon as possible. We
+will do our best to make reasonable adjustment, but please remember
+we can only make adjustment when we know there is an issue, and the
+sooner we know, the sooner we can make any necessary adjustments.
+5.13 International Student Advice Team
+The International Student Advice Team provides information and advice
+for international students on a range of issues, including finance, visas,
+employment and general academic matters. It also provides a chance
+to talk about concerns on adjusting to life in the UK and related issues.
+For more information visit: http://www.brookes.ac.uk/students/isat
+5.14 Student health and wellbeing
+The aim of the Student Health and Wellbeing website is to keep you well
+informed about health issues. Up to date health information is available
+on a range of health topics.
+The web site address is: http://www.brookes.ac.uk/students/wellbeing
+A wealth of further advice for students can be found at: http://www.
+brookes.ac.uk/students
+Health and Safety Guide for Students
+The Faculty of Technology, Design and Environment is committed to en-
+suring the health, safety and welfare of the Faculty’s staff, students and
+visitors. This is achieved through the co-operation of all personnel within
+51
+
+--- Page 52 ---
+5. Student support and guidance
+the Faculty in implementing the University’s Health and Safety Policy.
+This is detailed in the Oxford Brookes University Safety Manual.
+Information on Health and Safety for students can be found on the fol-
+lowing website: http://www.brookes.ac.uk/services/hr/health_safety/
+docs/obuhsn12.html
+Introduction
+1. This Health and Safety Notice should be read and understood by all
+relevant employees of Oxford Brookes University and by all mem-
+bers of the student body.
+2. The Health and Safety at Work etc. Act 1974 in general, and the
+University’s Statement of Health & Safety Policy (OBUHSN-01) specif-
+ically provide the management structure and framework indicating
+the health and safety responsibilities for all students. The intention
+of this document is to provide all the health and safety information
+and advice required by students during the course of their stud-
+ies. Where appropriate, reference will be made to other associated
+Health and Safety notices.
+3. Students must always comply with relevant statutory requirements
+and codes of practice and they are responsible for following safe
+working practices and local procedures for the area in which they
+are studying. Students should take a personal interest in promoting
+the health and safety of themselves and others at work.
+4. All students must familiarise themselves with, and abide by, the
+University’s Health and Safety Policy (OBUHSN-01) and the Health
+and Safety Policy of any Faculty/Directorate of the University where
+they work or study. If a student believes that they have identified
+a deficiency in a policy, or procedure, they should raise their con-
+cern with Faculty/Directorate Staff, Student representatives or the
+Students’ Union.
+Emergency procedures (OBUHSN-11)
+1. When the alarm bell rings you must:
+• Evacuate the building.
+• Fire Notices posted in rooms detail safe routes and assembly
+points.
+52
+
+--- Page 53 ---
+5.14. Student health and wellbeing
+• DO NOT USE LIFTS.
+• WALK, DO NOT RUN
+• GET WELL CLEAR OF BUILDINGS AND ACCESS ROUTES.
+2. On hearing a fire alarm ringing continuously,everybody must evac-
+uate the building(s) using the shortest safe route of escape. Under
+normal circumstances this should take no longer than 2.5 minutes.
+No one should enter a building,or area in which the alarm is sound-
+ing, until such time as the alarms are silenced and until a member
+of Campus Services, the Fire Brigade or other senior members of
+staff indicate that it is safe to do so. Failure to evacuate during a
+fire alarm is a disciplinary offence for staff and students.
+3. On discovering a fire, sound the alarm by breaking the glass on the
+nearest call point and evacuate the building(s) as above.
+4. All students must familiarise themselves with the procedures for
+calling the emergency services to all areas of the University.
+5. On the Headington Campus, call the emergency services (Police,
+Ambulance, or Fire) from internal University telephones, by dialling
+222. Callers should state clearly which emergency service is re-
+quired, where the service is required and a telephone number on
+which the emergency service operator can contact the caller. When
+dialling 222 on any internal University telephone, the emergency
+services will be alerted via the University exchange or the 24hr Se-
+curity Office. The person alerting the emergency services must en-
+sure that clear directions are given to the University telephonist or
+to the emergency service concerned.
+The caller should also make the necessary arrangements for meet-
+ing the emergency vehicle(s) at the main entrance to the campus
+and guiding them to the scene of the accident. All emergency call-
+outs must be reported promptly to the Campus Services Manager’s
+Office when there is a need for emergency vehicles to access the
+Gipsy Lane Campus by either of the London Road entrances [Gate
+1 or Gate 2] or other restricted route.
+6. On any other University site, call the emergency services directly
+by dialling 999 or 112 on any internal telephone. The person alert-
+ing the emergency services must ensure that clear directions are
+given to the service concerned. The caller should also make the
+necessary arrangements for meeting the emergency vehicle(s) at
+53
+
+--- Page 54 ---
+5. Student support and guidance
+the main entrance to the site and guiding them to the scene of the
+accident.
+First aid procedures
+All students must familiarise themselves with the location of qualified
+first aiders. Students must know what action to take on discovering a
+first aid incident (OBUHSN-10). Qualified first aiders work within every
+Faculty/Directorate. The number of first aiders, and their location, will
+depend on the risks within their place of work.
+To identify your nearest first aider:
+• Click on “first aiders” in the electronic internal telephone directory.
+• Look on the white and green first aid lists located on the walls
+around the University.
+• Telephone the University switchboard by dialling zero on any inter-
+nal telephone.
+If no first aider is available, and the injury is serious, either call emer-
+gency services, or take the person to the Casualty Department at the JR
+Hospital.
+Accident/incident reporting
+1. Students must know the University procedures for reporting acci-
+dents, incidents or any kind of dangerous occurrence (OBUHSN-
+09).
+2. As soon as any necessary immediate action has been taken, us-
+ing the Oxford Brookes University Accident Report form, the acci-
+dent/incident must be reported by a member of staff present at the
+scene,or the individual involved in the accident/incident. Copies of
+the form are available from Faculty/Directorate offices and supplied
+by the Safety Officer.
+3. The completed form must be forwarded to the Safety Officer within
+3 days of the event.
+4. Students must conduct themselves responsibly and safely while
+carrying out any university related activity. They must ensure that
+their actions or omissions do not endanger the health and safety of
+themselves, staff, other students, visitors or the general public.
+54
+
+--- Page 55 ---
+5.14. Student health and wellbeing
+5. Students shall not intentionally or recklessly interfere with, or mis-
+use anything provided by the University in the interests of Health,
+Safety or Welfare. Such damage or interference constitutes a crim-
+inal offence and at least will result in disciplinary action.
+6. Students must not use any apparatus or equipment until they have
+received instruction from a properly qualified and responsible mem-
+ber of staff as to how to use it safely.
+7. Students must report any apparent, or potentially dangerous sit-
+uation, apparatus, equipment or building immediately, to the lec-
+turer/supervisor in charge. In the event of the appropriate lecturer
+or supervisor not being immediately available, students must take
+any reasonable steps to minimise the hazard and report the incident
+to Site Services, Hall Manager or the Safety Officer as appropriate.
+8. A risk assessment of any student project must be carried out prior
+to its commencement to identify the potential hazards, level of su-
+pervision required and the implications of the project to the build-
+ings and grounds of the University. Where necessary, supervision
+must be carried out by the lecturer or their authorised nominee.
+This nominee can be a suitably qualified member of academic or
+technical staff.
+9. It is the responsibility of the supervisor to ensure that the project is
+properly risk assessed and managed (OBUHSN-36):-
+• for compliance with existing Faculty/Directorate procedures.
+• for general risks to health and safety under the Health and
+Safety at Work, etc. Act 1974, or other associated legislation.
+• for compliance with any University Safety Notices, Codes of
+Practice or Guidance Notes.
+• alterations to the project must be reassessed and recorded.
+• if, after a risk assessment, it is decided that the risks are min-
+imal, this fact still needs to be recorded.
+10. Any necessary precautions identified by the risk assessment must
+be agreed between the supervisor and student(s). In all, but the
+most elementary circumstances, they must be recorded in writing.
+The supervisor must carry out regular checks of the project to iden-
+tify whether the student(s) are following the agreed procedures.
+55
+
+--- Page 56 ---
+5. Student support and guidance
+11. Students must seek and follow advice, where appropriate, from
+the University Safety Officer, Senior Occupational Health Advisor
+and/or Departmental or Specialist Health and Safety Advisors.
+Personal protective equipment
+1. Students must, at all times, wear such protective equipment as is
+appropriate for any work or activity that they undertake (OBUHSN-
+21). Any local policies or procedures for the Faculty/Directorate will
+outline the specific personal protective equipment required.
+2. COSHH – is the Control of Substances Hazardous to Health. The
+University is required, under the H&SWA 1974, to carry out an as-
+sessment for both substance and activity where the substance is
+deemed to be hazardous.
+If you want to use hazardous substances, or embark on a pro-
+cess using a hazardous substance, you first need to complete a
+COSHH Assessment. Please contact the Faculty Safety Advisor,
+Andy Glass for assistance.
+NOTE: Most hazardous substances are labelled as such and de-
+tailed handling and user information is available. If in doubt ASK.
+Do not expose yourself, or others, to hazards. This includes activ-
+ities such as spray painting, activities which create dust, etc.
+Activities off site
+Students who, as part of their coursework are undertaking activities off
+site, must read and comply with the relevant Health and Safety No-
+tices, Fieldwork and Outdoor Education (OBUHSN-24) and Travelling
+and Working Overseas (OBUHSN-38) notices.
+Alcohol and drugs policy
+This document forms part of the Academic and Student Affairs Direc-
+torate on student policies and outlines the University’s procedures re-
+garding student use and misuse of alcohol and drugs including the sup-
+port and help available and the disciplinary procedures that will be taken
+if misuse occurs. The policy must be read by all students. Copies of
+the document are available from Student Services or are available on
+line at: http://www.brookes.ac.uk/documents/regulations/current/
+other/e16-drugs_policy
+56
+
+--- Page 57 ---
+5.14. Student health and wellbeing
+Contacts for Health and Safety
+Name Position Contact Room
+Tim McGill University Safety Officer Ex. 5744 A1.06
+Gordon Health and Safety Ex. 3125 JP1.04
+Langford Officer
+Christie Senior Occupational Ex. 5531 A1.03
+Rainbird Health Nurse
+Alison Porat Occupational Health Ex. 5772 A1.01
+Administrator
+Security Staffed 24 hrs every day Ex. 5853 Wheatley
+Control
+Office
+Ex. 3060 Gipsy Lane
+57
+
+--- Page 58 ---
+
+
+--- Page 59 ---
+6
+Feedback on the quality of the
+learning experience
+The content of this programme is identified in the programme structures
+and module syllabi, but within these, a degree of flexibility is applied to
+ensure that programmes reflect state-of-art processes and technology.
+Academic staff constantly seek to improve the quality and relevance of
+the programme content and delivery.
+The Department operates a range of quality control and assurance
+procedures to ensure that the student’s learning experience matches that
+expected from such a reputable university.
+The primary indicators of quality come through regular student feed-
+back, module reviews, external examiners’ reports (which are available
+on PIP), annual and periodic programme reviews and student surveys.
+Student feedback, on a module, is gathered using the standard univer-
+sity feedback form and is summarised by the administration team within
+the faculty. This summary is incorporated into the module report docu-
+mentation, used to inform the module review at the Subject Committee
+Meeting, which is attended by the student representative for the sub-
+ject. The minutes of the Subject Committee Meeting, which summarise
+the discussion of the module reviews, are then presented at the Sub-
+ject Examination Committee meeting where comments are invited from
+the External Examiners. Any changes to module delivery and/or content,
+which arise out of this review process, are communicated to the Subject
+Committee Chair who has the responsibility of ensuring that they are im-
+plemented.
+Each module is assigned an Internal Moderator who has the respon-
+sibility of checking the quality of the examination papers and the course-
+work specifications before they are sent to the External Examiner for
+59
+
+--- Page 60 ---
+6. Feedback on the quality of the learning experience
+comments. Examination papers and coursework specification may be
+modified in the light of the External Examiner’s comments before sub-
+mission to the University’s Examination Office. The Internal Moderator
+also checks the quality of the marking of the assessments on the module
+based on a randomly selected sample.
+The programme as a whole is reviewed annually through the Univer-
+sity Annual Review procedure. This review assesses the quality of teach-
+ing, learning and assessment as well as the overall academic standards
+of the programme. It takes into account student progression and com-
+pares the overall performance of students against the University bench-
+mark. The Annual Review considers and responds to the comments from
+the External Examiners.
+Programmes are reviewed, normally on a six year periodic cycle, in
+accordance with the provisions of the quality framework set by the Uni-
+versity.
+Regular Student Forum meetings are held during the semester to give
+the student representatives a forum to present and discuss the concerns
+of the student body. The forums are attended by senior members of the
+department.
+The Industrial Advisory Board is valuable in involving employers, and
+other stakeholders,in the development of all our programmes. The Board
+meets on a regular basis to discuss the research and the teaching which
+is done in the department. Comments are invited from Board members
+on the portfolio of programmes and on any new programme develop-
+ments.
+60
+
+--- Page 61 ---
+7
+Programme Specification
+61
+
+--- Page 62 ---
+
+
+--- Page 63 ---
+Programme Specification
+BSc (Hons) Computing for Robotic Sys-
+tems
+Valid from September 2016
+Department of Computing
+and Communication Technologies
+Faculty of Technology, Design and Environment
+Oxford Brookes University
+
+--- Page 64 ---
+Contents
+Contents 2
+1 General Information 5
+2 Overview and Programme Aims 7
+2.1 Rationale, aims and distinctiveness of the programme . . . 7
+2.2 Aims of the programme . . . . . . . . . . . . . . . . . . . . 8
+3 Programme Learning Outcomes 9
+3.1 Academic literacy . . . . . . . . . . . . . . . . . . . . . . . . 9
+3.2 Research literacy . . . . . . . . . . . . . . . . . . . . . . . . 10
+3.3 Critical self-awareness and personal literacy . . . . . . . . 10
+3.4 Digital and information literacy . . . . . . . . . . . . . . . . 11
+3.5 Active citizenship . . . . . . . . . . . . . . . . . . . . . . . . 11
+4 Programme Structure and Curriculum 13
+4.1 Programme structure and requirements . . . . . . . . . . . 13
+4.2 Professional requirements . . . . . . . . . . . . . . . . . . . 17
+5 Programme Delivery 19
+5.1 Teaching, Learning and Assessment . . . . . . . . . . . . . 19
+5.2 Assessment regulations . . . . . . . . . . . . . . . . . . . . 21
+6 Admissions 23
+6.1 Entry criteria . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+6.2 DBS checks . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+7 Student Support and Guidance 25
+2
+
+--- Page 65 ---
+Contents
+8 Graduate Employability 27
+9 Links with Employers 29
+10 Quality Management 31
+3
+
+--- Page 66 ---
+
+
+--- Page 67 ---
+1
+General Information
+Awarding body: Oxford Brookes University
+Teaching institution Oxford Brookes University
+and location:
+Final award: Bachelors of Science
+Programme title: Computing for Robotic Systems
+Interim exit awards CertHE, DipHE, BSc
+and award titles:
+Brookes course code: RO
+UCAS/UKPASS code: 7M23 BSc/CRobot
+JACS code: G400
+Mode of delivery: Face-to-Face
+Mode/s and duration Full-time , Part-time
+of study:
+Language of study: English
+Relevant QAA subject Computing (2007)
+benchmark
+statement/s:
+External accredita- N/A
+tion/recognition:
+Faculty managing the Technology, Design and Environment (TDE)
+programme:
+Date of production of September 2014
+specification:
+Date of production of February 2016
+latest revision:
+5
+
+--- Page 68 ---
+
+
+--- Page 69 ---
+2
+Overview and Programme Aims
+2.1 Rationale, aims and distinctiveness of the
+programme
+Robotics is an exciting, and rapidly developing area driven by innova-
+tion that is radically changing the world we live in. This Computing for
+Robotic Systems course provides a unique opportunity to develop highly
+marketable skills in the key areas that define modern robotics.
+Modern robotic systems strongly depend on the effective integra-
+tion of computer science and robotic engineering. This course involves
+studying almost the entire robotic system; from the low-level hardware,
+through the middleware control systems, all the way up to cognitive
+robotics at the highest level. The integration of robotic systems engineer-
+ing and computing will allow you to become a skilled computer scientist
+capable of developing advanced integrated robotic systems.
+Our approach to teaching combines technical expertise with creativ-
+ity and imagination. On this course you will make use of our modern
+well equipped workshops, laboratories, computer facilities, media stu-
+dios, and of course, our state-of-the-art robotic systems that you will
+study and develop. These include the Baxter research robot1, the Nao
+humanoid robot2, and Robothespian3. This course has been developed
+to meet the requirements of the emerging robotics market, and is under-
+pinned by world leading robotics research in the department.
+1http://www.rethinkrobotics.com/products/baxter
+2http://www.aldebaran.com/en
+3https://www.engineeredarts.co.uk/
+7
+
+--- Page 70 ---
+2. Overview and Programme Aims
+We are known for having a friendly, and inclusive community of staff
+and students on the Wheatley Campus.
+2.2 Aims of the programme
+Students completing the programme will initially learn the fundamental
+principles of computer science and robotic engineering. The theoreti-
+cal components will be examined and the coursework will give students
+the opportunity to demonstrate competence in the practical application
+of the theoretical principles taught. Through project based learning and
+small scale robotic system development students will develop the prob-
+lem solving skills needed to develop and integrate software and hardware
+components in a functioning robot. The final year project will provide an
+opportunity to put into practice the range of theory and practical skills
+that have been acquired by the creation of a robotics system to solve a
+significant problem.
+8
+
+--- Page 71 ---
+3
+Programme Learning Outcomes
+On completion of this programme, students will be able to:
+3.1 Academic literacy
+Attribute Learning Outcome
+A1 Contribute to the creation of new software artefacts
+by applying the key concepts and ways of working
+derived from a deep understanding of the
+fundamental principles of computer science as
+informed by robotics engineering concepts and
+practices.
+A2 Incorporate risk management and an understanding
+of security issues in the design, development,
+maintenance and use of information and robotic
+engineering systems.
+A3 Apply principles and theoretical aspects of computer
+science, electronics, and mathematics to the
+analysis, construction and evaluation of software
+artefacts and robotic systems.
+A4 Create integrated robotic systems from software,
+electronic and mechanical components.
+9
+
+--- Page 72 ---
+3. Programme Learning Outcomes
+3.2 Research literacy
+Attribute Learning Outcome
+R1 Apply the scientific method and report findings using
+accepted formalisms.
+R2 Identify and utilise trustworthy information sources,
+such as the IEEE Digital Library to develop a coherent
+understanding of issues in computing and robotics.
+R3 Apply active research skills to a small scale research
+project in the context of an existing research theme.
+3.3 Critical self-awareness and personal
+literacy
+Attribute Learning Outcome
+C1 Evaluate and reflect on the evolution of their
+strengths and weaknesses across the range of
+subject based competences involved in computing
+and robotic systems.
+C2 Apply self-awareness in evaluating their impact in
+team based work and utilise appropriate
+communication and problem resolution strategies.
+10
+
+--- Page 73 ---
+3.4. Digital and information literacy
+3.4 Digital and information literacy
+Attribute Learning Outcome
+D1 Use appropriate technologies such as online libraries
+and databases to find, critically evaluate and utilise
+both non specialist (e.g. reports) and technical (e.g.
+APIs and Electronic and Mechanical Component
+Data sheets) information.
+D2 Demonstrate proficiency in a range of formal and
+informal modes of communication such as giving
+presentations to groups, writing reports and writing
+appropriate documentation.
+3.5 Active citizenship
+Attribute Learning Outcome
+G1 Demonstrate an awareness of, and work in a manner
+guided by, the legal, professional, ethical and social
+issues relevant to the IT and Robotics industry.
+G2 Evaluate the impact of the development, use and
+maintenance of integrated robotic engineering
+systems in commercial, economic and social
+contexts in both national and international settings.
+11
+
+--- Page 74 ---
+
+
+--- Page 75 ---
+4
+Programme Structure and
+Curriculum
+4.1 Programme structure and requirements
+The following level 4 modules are compulsory for the BSc (Hons) Com-
+puting for Robotic Systems,BSc Computing for Robotic Systems,DipHE
+Computing for Robotic Systems, and CertHE Computing for Robotic
+Systems.
+Level 4
+Module Module title Credits Status Semester Pre-
+of delivery requisites
+U08007 Professional 30 Compulsory 1 and 2 -
+Software System
+Design
+U08008 Understanding 30 Compulsory 1 -
+Programming
+U08009 Introduction to 15 Compulsory 2 U08008
+Object Oriented
+Programming
+U08606 Discrete 15 Compulsory 2 -
+Mathematics
+U08500 Introductory 30 Compulsory 1 and 2 -
+Robotics
+13
+
+--- Page 76 ---
+4. Programme Structure and Curriculum
+The following level 5 modules are compulsory or optional, as indicated,
+for the BSc (Hons) Computing for Robotic Systems,and BSc Computing
+for Robotic Systems. A DipHE Computing for Robotic Systems requires
+120 credits from the compulsory level 5 modules on this list.
+Level 5
+Module Module title Credits Status Semester Pre-
+of delivery requisites
+U08055 Professional 15 Compulsory 1 U08007,
+Issues and for BSc U08008
+Computer Risks (Hons) and
+BSc
+U08025 Foundations of 15 Compulsory 1 U08009,
+Computation U08606
+U08026 Further Object 15 Compulsory 1 U08009
+Oriented
+Programming
+U08027 Current 15 Compulsory 2 U08007,
+Research U08008
+U08226 Foundations of 15 Compulsory 2 U08009
+Security
+U08520 Advanced 30 Compulsory 1 and 2 U08500
+Robotics
+U08521 Robotic Systems 15 Compulsory 2 U08009
+Engineering
+U08223 Data Structures 15 Compulsory 2 U08026
+U08048 Requirement 15 Optional 2 U08007
+Specification
+and Software
+Design
+U08028 Software 15 Optional 1 U08009
+Development
+with Cand C++
+U08038 The Human 15 Optional 2 U08009
+Computer
+Interface
+U08868 Independent 15 Optional 1 or 2
+study Level 5
+14
+
+--- Page 77 ---
+4.1. Programme structure and requirements
+The following level 6 modules are compulsory or optional, as indi-
+cated, for the BSc (Hons) Computing for Robotic Systems. These mod-
+ules are similarly compulsory or optional for BSc Computing for Robotic
+Systems, apart from U08599 Robotics Project, which is not compulsory.
+Level 6
+Module Module title Credits Status Semester Pre-
+of delivery requisites
+U08599 Robotics Project 30 Compulsory 1 and 2 U08055
+U08570 Cognitive 15 Compulsory 1 U08027
+Robotics
+U08089 Machine 15 Compulsory 1 U08025
+Learning
+U08781 Machine Vision 15 Compulsory 2 U08223
+U08571 Real-time 15 Optional 2 U08521
+Embedded
+Robotic Systems
+U08186 Advanced 15 Optional 1 U08223
+Object Oriented
+Programming
+U08074 Reasoning about 15 Optional 2 U08025
+Functional
+Programs
+U08282 Algorithms and 15 Optional 1 U08223
+Advanced Data
+Structures
+U08079 Optimised 15 Optional 2 U08223,
+Programming U08028
+U08085 Communicating 15 Optional 1 or 2 U08055,
+and Teaching U08009
+Computer
+Science
+U08088 Independent 15 Optional 1 or 2
+study Level 6
+15
+
+--- Page 78 ---
+4. Programme Structure and Curriculum
+The following diagram shows a typical programme of study,with optional
+modules indicated with a light gray background.
+Year 1 U08008 U08007
+Semester 1 Understanding Programming Professional U08500
+Software Introductory
+U08009 U08606 System Robotics
+Year 1 Introduction Discrete Design
+Semester 2 to OOP Mathematics
+Year 2
+Semester 1 U08055 U08025 U08026
+Professional Foundations Further
+Issues and of Object
+Risks Computation Oriented
+Program-
+ming U08520
+Advanced
+Year 2 Robotics
+Semester 2 U08027 U08521 U08223 Data
+Current Robotic Structures
+Research Systems
+Engineering
+U08065
+Industrial Work Experience Placement
+Placement
+Year
+Final year
+Semester 1 U08570 U08089 U08028
+Cognitive Machine Software
+Robotics Learning Development
+with C and
+U08599
+C++
+Robotics
+Final year Project
+Semester 2 U08226 U08781 U08571
+Foundations Machine Real-time
+of Security Vision Embedded
+Robotic
+Systems
+16
+
+--- Page 79 ---
+4.2. Professional requirements
+4.2 Professional requirements
+The intention is to submit the programme for accreditation by both the
+IET (the Institute of Engineering and Technology) and the BCS (British
+Computer Society) after the first cohort have completed, according to
+IET and BCS requirements. IET and BCS criteria have been taken into
+account when designing the programme.
+17
+
+--- Page 80 ---
+
+
+--- Page 81 ---
+5
+Programme Delivery
+5.1 Teaching, Learning and Assessment
+Students will attend lectures to acquire the knowledge and understand-
+ing of the key concepts in both computing and robotics.
+Practical elements of the course will enable students to practice es-
+sential skills in a variety of contexts, and build a wide set of experi-
+ences on which to reflect and develop professional expertise. For more
+technical skills, including programming, the practical elements will be
+based around laboratory classes, allowing students to experiment with
+the technology in a controlled environment. Essential skills of robotic
+system design and construction will be taught in a project based learn-
+ing environment. A problem based learning approach is taken at both
+levels 4 and 5, as preparation for the final year robotics project. This
+project involves working in an independent manner to solve a significant
+practical problem applying robotic systems engineering.
+Several modules will include an element of team working, enabling
+students to collaborate with their peers,developing an awareness of their
+own abilities as reflected by feedback from others. Team work will also be
+used to assess the students’ acquisition of personal and inter-personal
+skills,so important for this degree,and equally important for most career
+paths in the industry.
+Academic Literacy will be assessed through a mixture of examina-
+tion,coursework,and project outcome assessment,testing the students’
+ability to explain key concepts, and to apply them to practical problem
+solving. This academic knowledge will be developed through all three
+years of the degree programme, with foundation material assumed and
+assessed through the prerequisite structure.
+19
+
+--- Page 82 ---
+5. Programme Delivery
+Research Literacy is primarily assessed in the compulsory final year
+project module, but students will have learned and practised these skills
+throughout the course in both theoretical,and robot problem based learn-
+ing modules.
+Critical Self-awareness and Personal Literacy will be supported through
+the ongoing use of a Professional Development Plan (PDP). This will form
+a part of the students’ induction to the degree, and will be maintained
+throughout their time at Oxford Brookes, culminating in a pre-career re-
+flection, assessed as part of their final year project.
+Digital and Information Literacy is fundamental to the academic con-
+tent of this degree, and will be a distinguishing feature of graduates from
+the programme. For example, the use of component based system de-
+velopment methodologies will be taught and assessed throughout many
+of the modules. Part of the assessment for these modules will be based
+on the student’s ability to locate, read, and evaluate appropriate docu-
+mentation for software and hardware components,as well as their ability
+to document their own software and robotic systems.
+Active Citizenship in modern society is increasingly mediated by tech-
+nology, where digital communication and social media forms the basis
+of agile citizenship,enabling disparate communities to integrate and col-
+laborate. Graduates from this programme will be developing new tech-
+nologies that will have a major impact in healthcare, education, and the
+wider society. This has wide ranging legal, ethical, social, and profes-
+sional implications, which are assessed at each level of the programme.
+The department hosts an increasingly rich array of leading edge robotics
+systems in purpose built laboratories. Development environments are
+available for these systems that enable students to use them in a safe
+and flexible manner. Problem based learning modules and the final year
+project module will take full advantage of these facilities. The students
+also have controlled access to manufacturing facilities to construct spe-
+cialist robot components. These activities are supported by specialist
+Technical Instructors.
+Compulsory modules provide a balance of assessments,appropriate
+to the learning outcomes of the programme. In particular, early modules
+are assessed on the basis of key technical, professional and learning
+skills, chosen to enable and enhance a student’s aptitude for life-long
+learning. As students master key skills,the issues associated with quality
+products and processes will play an increasingly important part of the
+module content.
+The assessment strategy on this programme implements the Oxford
+Brookes University Assessment Compact. The assessments on this pro-
+20
+
+--- Page 83 ---
+5.2. Assessment regulations
+gramme have been designed to ensure that graduates possess the nec-
+essary technical skills,shaped by the underlying theory,that are required
+by the robotic engineering industry. Feedback on the assessment tasks
+will emphasise the achievements of the learning outcomes of the mod-
+ules and the programme. In addition,continuous formative feedback will
+be given to students through the problem based learning modules,either
+through laboratory sessions or individual tutorial guidance. Students will
+be encouraged to relate the assessment tasks with professional activi-
+ties, and to relate their achievements with professional standards.
+The department is committed to inclusivity and diversity in its teach-
+ing. By the very nature of the discipline, virtually all of our teaching
+material is available in an accessible format, for which we follow best
+practice guidelines, and make our electronic material available before
+the lectures. We also use electronic references and ebooks to further
+enhance accessibility. Inclusivity and diversity is also embedded in what
+we teach. As such all new students have a lecture on inclusivity and
+diversity as part of their induction and important inclusivity and diver-
+sity topics such as the need for accessibility and internationalisation and
+how to achieve them are taught on a variety of modules throughout the
+degree.
+5.2 Assessment regulations
+The programme conforms to the Regulations of the University’s Under-
+graduate Framework: http://www.brookes.ac.uk/regulations.
+21
+
+--- Page 84 ---
+
+
+--- Page 85 ---
+6
+Admissions
+6.1 Entry criteria
+Typical offers are:
+• A-level: BBC or equivalent, preferably including science subjects
+• IB Diploma: 30 points, preferably including science
+• Advanced Diploma: grade B including A-level grade C, preferably
+in a science subject and excluding General Studies
+• BTEC National Diploma with a DDM profile, preferably in a science
+subject.
+Specific entry requirements
+• GCSE: Mathematics at grade C minimum, and English Language
+at grade C minimum.
+6.2 DBS checks
+Not normally required.
+23
+
+--- Page 86 ---
+
+
+--- Page 87 ---
+7
+Student Support and Guidance
+Support and guidance is available to students throughout the programme,
+starting from when they first arrive before the course begins.
+During induction week,students are given handbooks and other doc-
+umentation explaining the choices available to them on the programme,
+and how the systems at Oxford Brookes work. Each student is supported
+throughout the course by one of the tutors, who will be their Academic
+Advisor. The Programme Lead, Subject Coordinators and Student Sup-
+port Coordinators (SSCs) are also available for consultation.
+Throughout the programme,module descriptions and programme hand-
+books, alongside online resources available through the virtual learning
+environment, provide a great deal of guidance for students. In addition,
+they can get help and guidance from their Programme Lead, Subject
+Coordinator, Academic Adviser, and the department’s Student Support
+Coordinators. They can also get module specific advice from the Module
+Leader and any of the staff teaching on the relevant module, and from
+the specialist Technical Instructors.
+At the University level, there are dedicated support services both for
+specific groups of students such as Oxford Brookes International and the
+Disability Advisory Service and for all students such as Upgrade - our
+study skills development/support service. A full range of support ser-
+vices is offered to students seeking graduate roles, and to those looking
+for placements. Support includes placement officers, career advisers
+and counsellors, and all students are strongly encouraged to take ad-
+vantage of these opportunities.
+Each programme has at least one student representative. These are
+voted into position by the students on the programme and provide a
+mechanism for issues and concerns to be fed back through the depart-
+25
+
+--- Page 88 ---
+7. Student Support and Guidance
+ment’s committee structure. Student representatives sit on departmental
+committees concerned with programme management and course de-
+velopment and also attend monthly student forums which are meetings
+specifically for the representatives to bring forward student concerns.
+26
+
+--- Page 89 ---
+8
+Graduate Employability
+Graduates from this programme will develop a career in a dynamic and
+emerging market for advanced robot systems across a broad spectrum
+of application areas. The programme gives students a thorough ground-
+ing in the practice of computer science and integrates this with the theory
+and practice of robotic systems. Graduates will be well positioned to take
+up careers in industry such as Robotics Engineer, Control Engineer, and
+Software Engineer, with the ability to specialise in Systems Integration.
+There are very strong international trends in the field of robotics, ma-
+jor corporations such as Apple, Amazon and Google are investing heav-
+ily in the field beyond the already existing interest of manufacturers and
+defence industries. The European Research Council has opened two
+new calls for research in robotics next to the existing research targets
+for ICT. Growth of the robotics field, both in terms of employment and
+expenditure, has been significant even through the current recession. It
+is also recognised as a UK essential growth market by the British gov-
+ernment.1,2,3
+The external technological factors are based on the industrial tech-
+nology and governmental forecasts. The growth of the robotics market
+is continuing in the industrial sectors but has seen significant growth in
+precision manufacturing and service sectors. A recent study of the In-
+ternational Federation of Robotics has shown that the robotics industry
+itself is responsible for the creation of close to three million jobs world-
+1http://spectrum.ieee.org/automaton/robotics/industrial-robots/apple-amazon-
+and-now-google-an-exciting-time-for-robotics
+2http://horizon-magazine.eu/article/robotics-2020-challenge-and-target-
+europe_en.html
+3http://roboticsnews.co.uk/permalink/5986.html
+27
+
+--- Page 90 ---
+8. Graduate Employability
+wide with an expected growth of another million by 2016.4
+4www.ifr.org/robots-create-jobs
+28
+
+--- Page 91 ---
+9
+Links with Employers
+Many modules use guest speakers from industry to illustrate the practi-
+cal application of the module material. The Current Research module in
+the second year (level 5) is delivered by research active staff and guest
+speakers from industry and from research and development labs. Po-
+tential employers are keen to talk to a wider spectrum of students, but
+will want to discuss the exact nature of their industry, as well as how
+the students might contribute. The department is host to at least 12
+‘Guru’ lectures, delivered as part of the BSc in Information Technology
+Management for Business (ITMB) programme, but open to all students.
+These are broadcast live at one ITMB university and over the internet by
+the others, and include Q&A sessions. Topics complement a variety of
+technical and professional learning outcomes.
+All students may take a year out in industry. Employers are keen to
+promote their companies and the opportunities offered. Even for stu-
+dents who do not take a placement year, this can provide a good insight
+into the type of jobs available, and the skills employers are looking for.
+Students who do take a work placement may bring ideas for final year
+projects back with them, and are noticeably more able to contribute in-
+sights into industrial applications to the modules they take in their final
+year.
+The department maintains close links with the university Careers Of-
+fice. Themed ‘mini’ careers fairs are organised by this office – with tech-
+nology being a common theme. Students are encouraged to use the
+facilities offered, including CV workshops, and practice interviews and
+assessment-centre activities.
+An Industrial Advisory Board is run within the department, with se-
+nior employees of regional and representative organisations (including
+29
+
+--- Page 92 ---
+9. Links with Employers
+robotics companies) as members. These are Rutherford Appleton Lab-
+oratory, Webmart, OBIS, NAG, Oxfam, Oxford County Council, Omn-
+ima, Vicon, OMG, and BT. The board is consulted on major initiatives
+within the department, including programme revalidation, possible re-
+search partnerships, future trends and directions, and the feasibility of
+new course offerings.
+An alumni organisation has recently been formed in the department.
+The aim is to invite ex-students who are now in a variety of technical
+and managerial roles, to network with each other, and with our current
+students. It is anticipated that this organisation will be of great benefit to
+students starting out on their careers, as well as for more senior alumni
+looking to exploit the skills and expertise of the staff and students in the
+department.
+Research centres within the department are actively involved with
+Knowledge Transfer Partnerships, and other links with employer organ-
+isations. For example, we have formed research links with Engineered
+Arts Ltd, who make Robothespian, Sony, Clearview Traffic, UKP World-
+wide, Nominet, WildKnowledge, and Omnima. One of the spin-offs from
+these activities is the on-campus presence of industrial-based experts
+in fields closely related to our degree offerings.
+The department has strong links with the leading manufacturers of
+robotics systems in the United Kingdom, and work closely with them on
+robotic system research and development.
+30
+
+--- Page 93 ---
+10
+Quality Management
+The primary indicators of quality come through regular student feedback,
+module reviews, external examiners’ reports, annual and periodic pro-
+gramme reviews and student surveys. Student feedback on a module
+is gathered using the standard university feedback form and is sum-
+marised by the administration team within the faculty. This summary
+is incorporated into the module report documentation used to inform the
+module review at the Subject Committee which is attended by the stu-
+dent representative for the subject. Responses to the student feedback
+for each module are agreed at this meeting. These responses are acted
+upon and included in the following year’s module handbook. The min-
+utes of the subject committee that summarise the discussion of mod-
+ule reviews are then presented at the Subject Examination Committee
+meeting where comments are invited from the External Examiners. Any
+changes to module delivery and/or content which arise out of this review
+process are communicated to the Subject Committee chair who has the
+responsibility of ensuring that they are implemented.
+Each module is assigned an Internal Moderator who has the respon-
+sibility for checking the quality of the examination papers and the course-
+work specifications before they are sent to the External Examiner for
+comments. Examination papers and coursework specification may be
+modified in the light of the External’s comments before submission to
+the University Examination Office. The Internal Moderator also verifies
+the quality of marking of the assessments on a module, based on a ran-
+domly selected sample.
+The programme as a whole is reviewed annually through the Univer-
+sity Annual Review procedure. This review assesses the quality of teach-
+ing, learning and assessment and the overall academic standards of the
+31
+
+--- Page 94 ---
+10. Quality Management
+programme. It takes into account student progression and compares
+the overall performance of students against the University benchmark.
+The Annual Review considers and responds to the comments from the
+External Examiners.
+Programmes are reviewed normally on a six year periodic cycle in
+accordance with the provisions of the quality framework set by the Uni-
+versity.
+The National Student Survey of final year students provides valuable
+annual feedback on the student experience. The results of the NSS are
+evaluated at both Department and Faculty level and an action plan is
+drawn up to ensure that the necessary changes are made to improve the
+student experience.
+Regular Student Forum meetings are held during semester to give the
+student representatives a forum to present and discuss the concerns of
+the student body. The forums are attended by senior members of the
+department.
+The Industrial Advisory Board is valuable in involving employers and
+other stakeholders in the development of all Computing programmes in-
+cluding Computing for Robotic Systems. The Board meets on a regular
+basis to discuss the research and the teaching that is done in the de-
+partment. Comments are invited from Board members on the portfolio
+of programmes and on any new programme developments.
+32

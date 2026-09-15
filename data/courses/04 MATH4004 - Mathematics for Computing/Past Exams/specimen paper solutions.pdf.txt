@@ -1,0 +1,426 @@
+--- Page 1 ---
+Semester 2 — specimen paper, MATH4004
+MATH4004 Mathematics for Computing
+Examination Rubric
+Examination length: 2 hours.
+Answer all questions.
+The maximum mark available for the paper is 50.
+A copy of the Mathematics for Computing Formula Booklet is provided.
+A calculator is provided.
+Page 1 of 16
+©OxfordBrookesUniversity
+
+--- Page 2 ---
+Semester 2 — specimen paper, MATH4004
+Examination Questions
+1. (a) Factorise the following expressions.
+2
+i. x +6x+9
+ii. x(2x+1)−1
+4 marks
+2 2
+i. x +6x+9 = (x+3)
+2
+ii. x(2x+1)−1 = 2x +x−1 = (2x−1)(x+1)
+[4 marks]
+(b) Hence, or otherwise, find all values x that satisfy both
+2
+x +6x+9 = 0 and x(2x+1)−1 = 0.
+1 mark
+The first equation has a single solution −3. The second equation has two
+1
+solutions ,−1. Therefore, there is no x value that solves both equations.
+2
+[1 mark]
+Total: 5 marks
+Page 2 of 16
+©OxfordBrookesUniversity
+
+--- Page 3 ---
+Semester 2 — specimen paper, MATH4004
+2. Consider the sets
+A = {p,q,s},
+B = {p,r,s,t},
+C = {p,r,u}.
+Find the following sets.
+(a) A∩B 1 mark
+A∩B = {p,s}
+[1 mark]
+(b) A∪C 1 mark
+A∪C = {p,q,r,s,u}
+[1 mark]
+(c) (A∪C)∩B 1 mark
+(A∪C)∩B = {p,r,s}
+[1 mark]
+(d) A×C 1 mark
+A×C = {(p,p),(p,r),(p,u),(q,p),(q,r),(q,u),(s,p),(s,r),(s,u)}
+[1 mark]
+(e) B∆C 1 mark
+B∆C = {s,t,u}
+[1 mark]
+Total: 5 marks
+Page 3 of 16
+©OxfordBrookesUniversity
+
+--- Page 4 ---
+Semester 2 — specimen paper, MATH4004
+3. Consider flipping a fair coin three times in succession. Let A be the event that
+exactly two of the results are heads and B be the event that at least one of the
+results is a tails.
+(a) Sketch the events A and B on a Venn diagram.
+2 marks
+A B
+HTT,
+HHT,
+THT,
+HTH,
+TTH,
+THH
+TTT
+HHH
+[2 marks]
+(b) Hence, or otherwise, determine the probability of the following events:
+i. The outcome of the three coin flips has either exactly two heads or at
+least one tail, but not both.
+1 mark
+4 1
+We have P(A∆B) = = .
+8 2
+[1 mark]
+ii. The outcome of the three coin flips does not have exactly two heads or
+at least one tail.
+1 mark
+1
+We have P(∼ (A∪B)) = .
+8
+[1 mark]
+(c) Using the Venn diagram, or otherwise, explain why P(B|A) = 1.
+Page 4 of 16
+©OxfordBrookesUniversity
+
+--- Page 5 ---
+Semester 2 — specimen paper, MATH4004
+1 mark
+The event A is a subset of the event B. So, if A occurs, then B must occur.
+P(B∩A)
+We could also argue that P(B|A) = and P(B∩A) = P(A). So,
+P(A)
+P(B|A) = 1.
+[1 mark]
+Total: 5 marks
+Page 5 of 16
+©OxfordBrookesUniversity
+
+--- Page 6 ---
+Semester 2 — specimen paper, MATH4004
+4. Consider a standard deck of 52 playing cards containing 4 kings. Suppose that
+three cards are drawn at random from the deck without replacement.
+(a) Using a probability tree, determine the probability that at least two kings are
+drawn. Make sure to note all of the branching probabilities in your tree.
+5 marks
+In the tree, we will use N to denote a draw different from a king and K to
+denote a king has been drawn.
+2 {KKK}
+50
+{KK}
+3
+51 48
+{KKN}
+50
+{K}
+3 {KNK}
+48 50
+4
+51
+52
+{KN}
+47
+{KNN}
+50
+{}
+3 {NKK}
+50
+{NK}
+48
+4
+52
+51 47
+{NKN}
+50
+{N}
+4 {NNK}
+47 50
+51
+{NN}
+46
+{NNN}
+50
+[3 marks]
+Page 6 of 16
+©OxfordBrookesUniversity
+
+--- Page 7 ---
+Semester 2 — specimen paper, MATH4004
+At least two kings are draw in the cases:
+4 3 2 1
+• KKK, which has probability × × =
+52 51 50 5525
+4 3 48 24
+• KKN, which has probability × × =
+52 51 50 5525
+4 48 4 24
+• KNK, which has probability × × =
+52 51 50 5525
+48 4 3 24
+• NKK, which has probability × × =
+52 51 50 5525
+So, the probability of drawing exactly one red being drawn is
+1 24 24 24 73
++ + + = .
+5525 5525 5525 5525 5525
+[2 marks]
+Total: 5 marks
+Page 7 of 16
+©OxfordBrookesUniversity
+
+--- Page 8 ---
+Semester 2 — specimen paper, MATH4004
+5. Consider the relation R on the set {a,b,c,d} represented by the digraph:
+d• •c
+a• •b
+(a) Give the matrix representing the relation R.
+2 marks
+The matrix is
+a b c d
+ 
+a F T F T
+ 
+b F T T F
+ 
+ .
+c  F F F T 
+ 
+d T F F F
+[2 marks]
+(b) Is the relation R reflexive? Justify your answer.
+1 mark
+No, the relation is not reflexive as not all elements are related to
+themselves. (Only b is R-related to itself.)
+[1 mark]
+(c) Is the relation R symmetric? Justify your answer.
+1 mark
+No, the relation is not symmetric as the matrix representing the relation is
+not symmetric. Explicitly, we can see that the relation is not symmetric as
+bRc, but c is not R-related to b.
+[1 mark]
+Page 8 of 16
+©OxfordBrookesUniversity
+
+--- Page 9 ---
+Semester 2 — specimen paper, MATH4004
+(d) Is the relation transitive? Justify your answer.
+1 mark
+No, the relation is not transitive, because aRb and bRc, but a and c are not
+R-related.
+[1 marks]
+(NOTE: ANY VALID COUNTER EXAMPLE IS SUFFICIENT JUSTIFICATION.)
+Total: 5 marks
+Page 9 of 16
+©OxfordBrookesUniversity
+
+--- Page 10 ---
+Semester 2 — specimen paper, MATH4004
+6. Consider the problem of arranging six objects labelled A, B,C, D, E, and F on
+a shelf.
+(a) Determine the number of different arrangments of the six objects on the
+shelf.
+2 marks
+In an arrangement the order matters and we are not allowed repetition. So,
+we have a permutation. Therefore, there are 6! = 720 different
+arrangements.
+[2 marks]
+(b) How many different arrangements are there if objects A and B are not to be
+placed next to each other?
+3 marks
+The number of arrangements with A and B not next to each other can be
+found by subtracting the number of arrangements with A and B next to
+each other from the total number of arrangements (720).
+In an arrangement with A and B next to each other, we will either have AB
+or BA, and in both cases we will have five objects to place. So, there are
+5!×2 = 240 arrangements with A and B next to each other.
+Hence, there are 720−240 = 480 arrangements with A and B not next to
+each other.
+[3 marks]
+Total: 5 marks
+Page 10 of 16
+©OxfordBrookesUniversity
+
+--- Page 11 ---
+Semester 2 — specimen paper, MATH4004
+7. Suppose that a group of people comprises 5 adults and 6 children. Moreover,
+suppose that the group has 8 cinema tickets.
+(a) Determine the number of ways the 8 cinema tickets can be given to
+members of the group (assuming that each person gets at most one ticket).
+2 marks
+Since the order does not matter a single person cannot be given more than
+one ticket, we have a combination. Thus, the number of different ways is
+11!
+= 165.
+3!8!
+[2 marks]
+(b) Suppose that the cinema has a rule that each child must be accompanied
+by an adult. So, the group decides to split the 8 tickets evenly between
+adults and children. In this case, determine the number of ways the 8
+cinema tickets can be given to members of the group (assuming that each
+person gets at most one ticket).
+3 marks
+We haveC(5,4) = 5 possible combinations for the adults and
+C(6,4) = 15 possible combinations for the children. Hence, by the
+multiplication principle, the total number of ways to distribute the tickets is
+5×15 = 75.
+[3 marks]
+Total: 5 marks
+Page 11 of 16
+©OxfordBrookesUniversity
+
+--- Page 12 ---
+Semester 2 — specimen paper, MATH4004
+8. Consider the graph G below.
+c b
+• •
+d• •a
+• •
+e
+f
+(a) Determine whether or not G has an Eulerian cycle. Justify your answer.
+2 marks
+There is an Eulerian cycle, because all of vertices have even degree. An
+explicit Eulerian cycle is given by abcadefa.
+[2 marks]
+(b) For each of the graphs below, decide whether or not it is a subgraph of G.
+Justify your answer.
+i. ii.
+• •
+•
+• • •
+•
+•
+•
+3 marks
+i. This graph is a subgraph and can be realised in multiple different ways.
+For example:
+Page 12 of 16
+©OxfordBrookesUniversity
+
+--- Page 13 ---
+Semester 2 — specimen paper, MATH4004
+a
+•
+e• •f
+•
+d
+ii. This graph is not a subgraph, because the possible subgraph has three
+vertices of degree 3 and G has only one vertex of degree more than 2.
+[3 marks]
+Total: 5 marks
+Page 13 of 16
+©OxfordBrookesUniversity
+
+--- Page 14 ---
+Semester 2 — specimen paper, MATH4004
+9. Consider the digraph G with the adjacency matrix
+a b c d e
+ 
+a F F F F F
+ 
+b  T F T F T 
+ 
+M = c  F F F F T .
+ 
+ 
+d  F T T F F 
+ 
+e F F F F F
+(a) Find the antecedent sets for each vertex of G.
+1 mark
+We have
+A(a) = {b}, A(b) = {d}, A(c) = {b,d}, A(d) = 0/, A(e) = {b,c}.
+[1 mark]
+(b) Apply the topological sort algorithm to G.
+3 marks
+From the previous part, we see that we label d as 1. The vertex d and
+associated edges are removed. The antecedent sets then become
+A(a) = {b}, A(b) = 0/, A(c) = {b}, A(e) = {b,c}.
+So, we label b as 2. The vertex b and associated edges are then removed.
+The antecedent sets then become
+A(a) = 0/, A(c) = 0/, A(e) = {c}.
+At this point we can either label a as 3 or label c as 3 (and both choices are
+correct). We will choose to label a as 3. The vertex a and associated edges
+are then removed. The antecedent sets then become
+A(c) = 0/, A(e) = {c}.
+We then label c as 4 and finally then e as 5.
+So, the consistent labelling produced is
+d (cid:55)→ 1, b (cid:55)→ 2, a (cid:55)→ 3, c (cid:55)→ 4, e (cid:55)→ 5.
+Page 14 of 16
+©OxfordBrookesUniversity
+
+--- Page 15 ---
+Semester 2 — specimen paper, MATH4004
+[3 marks]
+(c) Rewrite the adjacency matrix using the your consistent labelling.
+1 mark
+d b a c e
+ 
+d F T F T F
+ 
+b  F F T T T 
+ 
+a  F F F F F .
+ 
+ 
+c  F F F F T 
+ 
+e F F F F F
+[1 mark]
+Total: 5 marks
+Page 15 of 16
+©OxfordBrookesUniversity
+
+--- Page 16 ---
+Semester 2 — specimen paper, MATH4004
+10. Simplify the following matrix expressions.
+(cid:34) (cid:35) (cid:34) (cid:35)
+2 2 1 −1
+(a) +
+−3 1 0 1
+1 mark
+(cid:34) (cid:35) (cid:34) (cid:35) (cid:34) (cid:35)
+2 2 1 −1 3 1
++ =
+−3 1 0 1 −3 2
+[1 mark]
+(cid:34) (cid:35)(cid:34) (cid:35)
+2 1 −1 −1
+(b)
+−1 1 0 3
+2 marks
+(cid:34) (cid:35)(cid:34) (cid:35) (cid:34) (cid:35) (cid:34) (cid:35)
+2 1 −1 −1 −2 −2+3 −2 1
+= =
+−1 1 0 3 1 1+3 1 4
+[2 marks]
+(cid:34) (cid:35)
+−1 0
+(c) Find the inverse of the matrix .
+4 −2
+2 marks
+The determinant of the matrix is 2 and so the inverse is
+(cid:34) (cid:35)
+1 −2 0
+.
+2 −4 −1
+[2 marks]
+Total: 5 marks
+End of Examination Paper
+Page 16 of 16
+©OxfordBrookesUniversity

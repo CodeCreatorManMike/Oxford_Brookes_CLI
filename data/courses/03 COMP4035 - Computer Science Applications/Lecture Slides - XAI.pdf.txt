@@ -1,0 +1,304 @@
+--- Page 1 ---
+COMP4035 Computer Science Applications
+Semester 2 - Artificial Intelligence
+Week 6 – Explainable AI
+Inna Skarga-Bandurova
+
+--- Page 2 ---
+Outline
+• Key takeaways
+• Explainable Artificial Intelligence (XAI)
+• Machine learning roadmap
+
+--- Page 3 ---
+Key takeaways: AI and ML
+# Machine learning Artificial Intelligence
+1 Subset of AI Overarching field
+2 The goal to learn from data The goal is to simulate human
+and predict results when new intelligence to solve the complex
+data is presented problems
+3 Lead to knowledge Lead to intelligence or wisdom
+4 Tries to find only solution Tries to find the optimal solution
+whether it is optimal or not
+To “teach” machine we need three key components:
+1) data (labelled or unlabelled depending on the learning
+type)
+2) a model (the algorithm that learns from the data)
+3) a loss function (a way to measure how well the model is
+performing against the desired outcome
+@smrvl
+
+--- Page 4 ---
+1. Data alone is not enough
+• Consider learning a Boolean function of 100 variables from a million
+examples. There are 2100 − 106 examples whose classes you don’t know.
+• How do you figure out what those classes are?
+• In the absence of further information, there is just no way to do this that
+beats flipping a coin.
+• Every learner must embody some knowledge or assumptions beyond the
+data it’s given in order to generalize beyond it.
+• No learner can beat random guessing over all possible functions to be
+learned.
+Source: Pedro Domingos
+
+--- Page 5 ---
+42 Most commonly used Machine Learning Algorithms
+
+--- Page 6 ---
+2. Before you start to build models
+• Take the time to understand your data
+• Make sure you have enough data (cross-validation, augmentation)
+• Talk to domain experts (understand which problems are useful to solve,
+choose the most appropriate feature set and ML model to use, publish to
+the most appropriate audience)
+• Survey the literature (what has and what has not being done previously)
+• Think about how your model will be deployed (resource-limited
+environment (sensor, robot) may place limitations on the complexity of the
+model, or there are time constraints, e.g. a classification of a signal is
+required within milliseconds)
+
+--- Page 7 ---
+3. Overfitting that has many faces
+• When your learner outputs a classifier that
+is 100% accurate on the training data but
+only 50% accurate on test data, when in
+fact it could have output one that is 75%
+accurate on both, it has overfit.
+• One way to understand overfitting is by
+decomposing generalization error into bias
+and variance.
+• Bias is a learner’s tendency to consistently
+learn the same wrong thing.
+• Variance is the tendency to learn random
+things irrespective of the real signal.
+Source: Pedro Domingos
+
+--- Page 8 ---
+4. How to reliably build models
+• Don't allow test data to leak into the training process
+• Try out a range of different models
+• Consider combinations of models
+• Don't use inappropriate models
+• Optimise your model's hyperparameters
+• Evaluate model multiple times
+• Don't use accuracy with imbalanced data sets
+• Consider using Cohen's kappa coefficient or Matthews Correlation Coefficient (MCC)
+for imbalance data sets
+
+--- Page 9 ---
+5. Do you need more improvement?
+Consider ensemble learners
+PCA
+KNN Lin Reg SVM Decision Tree
+Train
+Train
+Train Train Train
+model model model
+model
+x x x
+x
+Test
+Y
+mean
+Data
+Machine Learning for Trading : ensemble learners, bagging and boosting
+
+--- Page 10 ---
+6. Once we produce the model or report
+• Do we just use it and go on?
+• No, it’s not the end.
+• How do we refine it over time?
+• What if something isn’t quite right – can we debug it? justify it in an audit?
+• What if we want to repeat the steps to build the model, over new training data?
+• In terms of GDPR, someone might opt out of consenting for their data to
+be used – how do we guarantee we aren’t using their data?
+• Can we reuse the model or the report to evaluate another hypothesis?
+
+--- Page 11 ---
+X-ray exam: Bone age study
+Bone age can be used to predict:
+• how much time a child will be growing
+• when a child will enter puberty
+• what the child's ultimate height will be
+Screening the developmental disorders: if a child is growing faster or less fast compared to their
+cohort
+
+--- Page 12 ---
+Self driving cars
+From perception to control
+• Semantic segmentation
+• Object detection
+• Monocular depth estimation
+• The output the road layout,
+• Static infrastructure
+• 3D objects
+• A full build of Autopilot neural networks involves 48
+networks that take 70,000 GPU hours to train.
+• Together, they output 1,000 distinct tensors
+(predictions) at each time-step.
+Like human-driven cars, autonomous vehicles will also be subject to a large set of rules. These
+rules impose constraints on the motion planner, which should always be satisfied. However,
+under some circumstances (e.g., overtaking an illegally parked vehicle), they need to be
+violated. https://www.tesla.com/autopilotAI
+
+--- Page 13 ---
+From perception to control
+Object recognition is a much simpler problem than general decision making required for self driving cars.
+control algorithm
+planning algorithm
+D
+Image Cars Plan route Steering
+L
+D
+Traffic light
+L
+D
+Pedestrians
+L
+Visual Perception, Reasoning, Decision making Control
+Recognition
+DL
+Image Steering
+Perception-Recognition-Situation Awareness-Reasoning-Decision
+making-Control
+
+--- Page 14 ---
+From Visual Perception to Making Decisions
+• Self driving cars can deal with 95% of situations they might encounter on the road
+but getting them to deal with the last 5% of scenarios where something unexpected
+happens is literally orders of magnitude harder than dealing with the first 95%.
+• From a CS perspective: those systems don’t really know when they’re wrong.
+Xu et al. (2020) Explainable Object-induced Action Decision for Autonomous Vehicles. https://arxiv.org/pdf/2003.09405.pdf
+
+--- Page 15 ---
+Explainable AI
+• Increasing use of autonomous weapons
+• Autonomous systems have exhibited novel unwanted behaviours
+• By design, such systems will navigate situations that the operators cannot anticipate.
+• Some of them provide information for human to make decisions. One thing is that self
+
+--- Page 16 ---
+What do you see?
+Colour features,
+triangle features,
+correlation-based
+features, nuclei
+features, light area
+features, and
+combined features.
+Ideal features should
+be relevant to object
+discrimination.
+But the best
+discriminating
+features may vary
+across datasets.
+
+--- Page 17 ---
+What do you see?
+• If you are not an expert on the microbiota of the human gut, you probably cannot make much sense of the graph.
+• When faced with non-visual high dimensional data it can be very difficult for humans to identify patterns - even when it can be visualised in some way, for
+example in a graph.
+• To determine if a patient has Morbus Crohn or not, a doctor will usually instead do a physical examination including different tests to make a diagnosis.
+
+--- Page 18 ---
+Feature selection
+Species Island Culmen length Culmen depth Flipper length Body mass Sex
+(mm) (mm) (mm) (g)
+0 Adelie Torgersen 39.1 18.7 181.0 3750.0 male
+1 Adelie Torgersen 39.5 17.4 186.0 3800.0 female
+2 Adelie Torgersen 40.3 18.0 195.0 3250.0 female
+3 Adelie Torgersen NaN NaN NaN NaN NAN
+4 Adelie Torgersen 36.7 19.3 193.0 3450.0 female
+
+--- Page 19 ---
+Feature selection
+256
+0
+
+--- Page 20 ---
+
+
+--- Page 21 ---
+The goal of eXplainable Artificial Intelligence (XAI) is
+to generate human-interpretable explanations
+• Feature representation is different
+Aligning
+The redness/blueness of each pixel represents how
+much that pixel contributes to the output class; red
+means positive contribution and blue means
+negative.
+
+--- Page 22 ---
+Which model is the best while solving a
+particular problem with machine learning?
+• There are no computationally precise theories of
+how humans interpret AI generated explanations.
+• The lack of theory means that validation of XAI
+must be done empirically, on a case-by-case basis,
+which prevents systematic theory-building in XAI.
+
+--- Page 23 ---
+Illustration of the balance between accuracy and
+interpretability
+Ali et al. (2022) Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence
+
+--- Page 24 ---
+Historical Case Study: Wolf or a Husky?
+An XAI middle layer opens the black box by communicating the internal representations, processes, predictions, and
+surprises to human decision makers
+Machine Learning
+The classifier takes some input and returns a prediction of what it saw in the input data.
+Insight into the process of making this prediction is often not possible for the human observer. ‘“Why Should I Trust You?” Explaining the Predictions of Any Classifier’ (2016)
+
+--- Page 25 ---
+Classification: Wolf or a Husky?
+XAI - Creating transparency in black-box models
+They Reason in Unknown Ways
+We can only measure how good a classier
+really is by testing it on new data it has not
+seen before, and to which we know the
+correct class labels.
+The only additional information some
+classifiers can give us is how certain they
+are about their decision, for example by
+predicting a husky with 95% certainty, and
+a 3% chance of it being a wolf, and 2% for
+any other class.
+Why?
+
+--- Page 26 ---
+Deep Learning Explanations
+
+--- Page 27 ---
+Deep Learning Explanations
+We’ve built a great snow detector…
+
+--- Page 28 ---
+Chihuahua or Muffin?
+Labradoodle or Fried Chicken?
+
+--- Page 29 ---
+Most used ML models for XAI
+
+--- Page 30 ---
+The future: lots of innovation remains
+• Other types of learning
+• A bit more deeper into neural networks – our understanding, especially
+about architectures and how to improve performance, is still growing
+• Likewise: how to incorporate other ideas from AI into deep learning
+• Data and code discovery
+• Capturing and reusing models, code, etc.
+• Debugging, explanations, and “safe AI”
+
+--- Page 31 ---
+• We are on the beginning of the long way
+• AI is transforming every industry - every company is an AI company
+• The future belongs to those who understand AI
+• See some of you in
+• COMP5045 Introduction to AI
+• COMP5023 Advanced AI
+• COMP6034 Advanced machine learning
+• Stay all of you in touch & let me know how you use AI&ML
+• Looking forward to hearing your success stories.
+Thank you!

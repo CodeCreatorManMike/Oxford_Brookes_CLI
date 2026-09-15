@@ -1,0 +1,202 @@
+--- Page 1 ---
+Semester 2, 2025–2026 MATH4004
+MATH4004 Mathematics for Computing
+Examination Rubric
+Examination length: 2 hours.
+Answer all questions.
+The maximum mark available for the paper is 50.
+A copy of the Mathematics for Computing Formula Booklet is provided.
+A calculator is provided.
+Page 1 of 9
+©OxfordBrookesUniversity
+
+--- Page 2 ---
+Semester 2, 2025–2026 MATH4004
+Examination Questions
+1. a. Factorise the following expressions.
+2
+i. x −7x+12
+2
+ii. 3x(x+1)+2(3−x )−8x
+4 marks
+b. Hence, or otherwise, find all values x that satisfy both
+2 2
+x −7x+12 = 0 and 3x(x+1)+2(3−x )−8x = 0.
+2 marks
+Total: 6 marks
+Page 2 of 9
+©OxfordBrookesUniversity
+
+--- Page 3 ---
+Semester 2, 2025–2026 MATH4004
+2. Consider the sets
+A = {1,3,5,7},
+B = {3,4,5,6,7},
+C = {2,3,6,8}.
+Find the following sets.
+a. A∪B
+1 mark
+b. A∩C
+1 mark
+c. B\A
+1 mark
+d. A∆C
+1 mark
+e. A×C
+1 mark
+f. (A∩B)\C
+1 mark
+Total: 6 marks
+Page 3 of 9
+©OxfordBrookesUniversity
+
+--- Page 4 ---
+Semester 2, 2025–2026 MATH4004
+3. A bag contains 3 red balls and 2 blue balls. Two balls are drawn one after the other
+without replacement. Let R denote drawing a red ball and B denote drawing a blue
+ball.
+For the questions below, show your working out and give probabilities as simplified
+fractions.
+a. Draw a tree diagram showing all possible outcomes of the two draws and their
+probabilities.
+2 marks
+b. Hence, or otherwise, determine:
+i. The probability that both draws are red.
+1 mark
+ii. The probability that exactly one of the two balls is blue.
+1 mark
+iii. The probability that the second ball is red.
+1 mark
+iv. The probability that the first ball was blue, given that the second ball was
+red.
+1 mark
+c. If the two balls drawn are red, a fair six-sided die is rolled.
+Find the probability that you get to roll the die and obtain an even number.
+1 mark
+Total: 7 marks
+Page 4 of 9
+©OxfordBrookesUniversity
+
+--- Page 5 ---
+Semester 2, 2025–2026 MATH4004
+4. Consider the relation R on the set {a,b,c,d} represented by the graph below:
+c d
+• •
+• •
+a
+b
+a. Write down the matrix representing the relation R.
+2 marks
+b. Is the relation R reflexive? Justify your answer.
+1 mark
+c. Is the relation R symmetric? Justify your answer.
+1 mark
+d. Is the relation R transitive? Justify your answer.
+1 mark
+e. Find the relation R◦R. Give it in set form, as a set of all pairs in the relation
+R◦R.
+1 mark
+Total: 6 marks
+Page 5 of 9
+©OxfordBrookesUniversity
+
+--- Page 6 ---
+Semester 2, 2025–2026 MATH4004
+5. A sports club has 12 players, of which 3 are goalkeepers, who sign up for a re-
+gional tournament. The club must select a squad of 8 players.
+a. In how many ways can the squad of any 8 players be chosen from the 12 ath-
+letes?
+1 mark
+b. If the squad must include at least one goalkeeper, how many possible 8-player
+squads are there?
+2 marks
+c. After the squad is chosen, the captain and co-captain must be appointed. In
+how many ways can these two roles be assigned to the 8 squad members?
+1 mark
+d. Suppose the 8-player squad is required to contain all three goalkeepers, and
+the captain and co-captain cannot both be goalkeepers.
+Across all squads containing all three goalkeepers, how many valid captain–co-
+captain assignments are possible?
+2 marks
+Total: 6 marks
+Page 6 of 9
+©OxfordBrookesUniversity
+
+--- Page 7 ---
+Semester 2, 2025–2026 MATH4004
+6. a. Draw the graph G whose adjacency matrix is
+a b c d e
+ 
+a F F T T F
+ 
+b  F F F T T 
+ 
+c  T F F T T .
+ 
+ 
+d  T T T F T 
+ 
+e F T T T F
+2 marks
+b. Is the graph G connected? Explain your reasoning.
+1 mark
+c. By suitably labelling the vertices, show that the two graphs below H and K are
+both subgraphs of G.
+•
+• •
+• •
+• • • •
+H K
+2 marks
+d. Determine whether or not graph G from part a has an Eulerian cycle. Justify
+your answer.
+1 mark
+Total: 6 marks
+Page 7 of 9
+©OxfordBrookesUniversity
+
+--- Page 8 ---
+Semester 2, 2025–2026 MATH4004
+7. Consider the following digraph.
+c d
+• •
+• •
+b a
+a. Find the adjacency matrix of this digraph.
+1 mark
+b. Find the reachability matrix of this digraph. Justify your answer.
+3 marks
+c. Determine whether there are sinks and sources in the graph above, and iden-
+tify them if they exist. Justify your answer.
+2 marks
+Total: 6 marks
+Page 8 of 9
+©OxfordBrookesUniversity
+
+--- Page 9 ---
+Semester 2, 2025–2026 MATH4004
+8. Simplify the following matrix expressions.
+(cid:34) (cid:35) (cid:34) (cid:35)
+7 −3 −4 6
+a. +
+2 5 1 −8
+1 mark
+(cid:34) (cid:35)(cid:34) (cid:35)
+3 2 5 1
+b.
+−1 4 −2 3
+2 marks
+(cid:34) (cid:35)
+4 −2
+c. Find the inverse of .
+1 3
+2 marks
+(cid:34) (cid:35)
+2 −4 6
+d. Find the reduced row-echelon form of .
+1 3 −5
+2 marks
+Total: 7 marks
+End of Examination Paper
+Page 9 of 9
+©OxfordBrookesUniversity

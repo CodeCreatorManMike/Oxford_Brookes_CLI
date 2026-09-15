@@ -1,0 +1,603 @@
+--- Page 1 ---
+Introductory Subject Talks
+BSc Information Technology for Business (direct entry) - ITB
+BSc Computing (direct entry) - CMP
+
+--- Page 2 ---
+Welcome to Oxford Brookes!
+Lucia Sagredo
+Third Year Tutor for Computing
+lucia.sagredo@brookes.ac.uk
+
+--- Page 3 ---
+Do you already know the people around you?
+Say hi and introduce yourself
+
+--- Page 4 ---
+Useful Abbreviations
+ML
+AA
+YT
+SSC
+Do you already know any?
+ISAT
+CAD
+ECM
+HST
+
+--- Page 5 ---
+Useful Abbreviations
+ML = Module Leader (not necessarily the same as a Lecturer or a Supervisor)
+AA = Academic Advisor / Academic Advising
+YT = Year Tutor
+SSC = Student Support Coordinator
+ISAT = International Student Advice Team
+CAD = Centre for Academic Development
+ECM = (School of) Engineering, Computing and Mathematics
+HST = (Faculty of) Health, Science and Technology
+
+--- Page 6 ---
+What is an Academic Adviser?
+Your Dedicated Academic Mentor Academic Development & Progress
+A designated member of academic staff Meets with you to review feedback on
+within your department who supports your coursework, discuss academic performance,
+academic journey from enrollment to and guide module choices.
+graduation.
+Goal Setting & Future Planning Policy & Regulation Guidance
+Helps align your current studies with Assists you in navigating academic
+long-term aspirations, such as postgraduate regulations, course requirements, and
+study, placements, or career pathways. university processes.
+
+--- Page 7 ---
+Academic Advising sessions
+Group sessions with your Academic Adviser
+on weeks 4, 8 and 12, each semester
+(They’ll appear in your calendar)
+For 1:1 use their calendar drop-ins or email them
+
+--- Page 8 ---
+Year 3 Academic Advisers
+Artificial Intelligence
+Alexander Rast
+Information Technology for Business
+David Lightfoot (Exchange Students)
+Lucia Sagredo Computer Science (Also Third-Year Tutor)
+Mark Green Computer Science
+Mudassar Aslam Computer Science for Cyber Security
+Peter Marshall (Final Year Entry Programmes) (Also Programme Lead)
+Tjeerd Olde Scheper Computer Science
+Tereza Wolf-Jackson (Final Year Entry Programmes)
+
+--- Page 9 ---
+Staff at ECM
+This link contains contact information (and photos) of staff at ECM
+
+--- Page 10 ---
+New students
+This link has lots of information, including:
+❏ Complete your online
+enrolment
+❏ Complete your Right to Study
+checks
+❏ Find your course induction
+schedule
+❏ Access our online platforms
+❏ Register your modules
+❏ Collect your student card
+Events calendar New student checklist
+
+--- Page 11 ---
+Tips if you are new to the UK
+
+--- Page 12 ---
+New to the UK?
+(clickable links)
+
+Support & Guidance
+MANDATORY
+International Student Advice
+Right to Study Checks
+Team ISAT
+Ensure you complete checks for personal
+documents and ongoing attendance.
+Your dedicated support network providing
+comprehensive pre-arrival resources and
+transition guidance:
+● Welcome activities & university life 
+OPTIONAL ACTIVITIES
+● Opening a bank account
+Trips & Social Events
+● Registering for healthcare & SIM cards
+Explore the UK and build your community with
+a variety of exciting organized excursions.
+
+--- Page 13 ---
+The "70% First-Class"
+Benchmark
+70%+
+First-Class Honours 1st
+In many global systems, 70% is considered a
+average mark. In the UK university system, 70% or
+above represents excellence and is the threshold
+for the highest degree classification.
+Marks above 80% are rare and denote publishable
+quality or outstanding mastery.
+
+--- Page 14 ---
+UK Degree Classification Breakdown
+Classification Mark Range Descriptor Global Equivalent (Approx.)
+First-Class 1st 70%  100% Exceptional analysis, novel code, critical thinking GPA 3.7  4.0 / Grade A
+Upper Second
+60%  69% Strong work, comprehensive, minor flaws GPA 3.3  3.6 / Grade B
+21
+Lower Second
+50%  59% Sound core knowledge, missing depth GPA 2.7  3.2 / Grade B
+22
+Third-Class
+40%  49% Basic pass, limited analysis/features GPA 2.0  2.6 / Grade C
+3rd
+Fail Below 40% Insufficient mastery or non-submission Fail / Grade F
+
+--- Page 15 ---
+Keys to Achieving 1st & 2:1 Marks
+Critical Engineering Academic Literature Decode Rubrics
+Don't just write code that works. Back up technical decisions with Read the module assessment
+Explain why you selected specific academic references and matrix carefully. Tutors grade
+algorithms, data structures, or benchmark studies. Cite research directly against learning outcomes
+frameworks over alternatives. papers, documentation, and and published rubric criteria.
+industry standards.
+
+--- Page 16 ---
+Keys to Achieving 1st & 2:1 Marks
+Reach out early if you need assessment guidance!
+Critical Engineering Academic Literature Decode Rubrics
+Don't just write code that works. Back up technical decisions with Read the module assessment
+Explain why you selected specific academic references and matrix carefully. Tutors grade
+algorithms, data structures, or benchmark studies. Cite research directly against learning outcomes
+frameworks over alternatives. papers, documentation, and and published rubric criteria.
+industry standards.
+
+--- Page 17 ---
+English as an Additional Language?
+Don’t rely too heavily on translators, as assessments are not limited to written
+
+coursework.
+Communicate with module leaders and lecturers in advance if you need extra time
+
+for 1:1 sessions; making the effort to speak, even slowly at first, is encouraged.
+Actively engaging with English both inside and outside of class will improve your
+language skills and your academic grades.
+Utilize the automatic subtitles on lecture recordings to aid your understanding.
+
+Do not hesitate to ask for help.
+Take advantage of the Centre for Academic Development (CAD) resources, 1:1
+
+tutorials, and available support for academic english writing and language
+development
+
+--- Page 18 ---
+About your programme
+
+--- Page 19 ---
+BSc Computing (direct entry)
+COMP6033
+COMP6038
+Applications and Ethics of
+Advanced Interfaces
+AI COMP6037
+COMP6013
+Foundations of Data
+Computing Project
+COMP6031 Analytics COMP6018
+Cloud Computing & Internet Advanced Object Oriented
+of Things Programming
+Information Technology for Business (direct entry)
+COMP6033 BMGT6012
+Applications and Ethics of Social Enterprise and
+AI COMP6037 Social Innovation
+COMP6013
+Foundations of Data
+Computing Project
+COMP6031 Analytics
+BMGT6024
+Cloud Computing & Internet
+Business Ethics
+of Things
+
+--- Page 20 ---
+It’s not too late to move from CMP to ITB
+How strong are your programming skills? We don’t want you to struggle.
+
+--- Page 21 ---
+Timetable - Time Edit
+The place to find your timetable and rooms.
+More on this during the computer practical this afternoon.
+
+--- Page 22 ---
+More on our systems during the practical computer session
+   
+Academic Student Record Learning Google Suite
+Advisor Resources
+Access and manage Connect to your student
+your official student email, calendar, drive,
+Find out who your Locate essential
+details, registration, and and other productivity
+Academic Advisor (AA) materials, slides, and
+personal information. tools.
+is and how they support coursework instructions
+your studies. for your lectures.
+
+--- Page 23 ---
+Module Introductions
+
+--- Page 24 ---
+COMP6033
+Applications and Ethics of AI
+BSc/MSci Artificial Intelligence
+BSc Information Technology for Business (incl. Final Year Entry)
+BSc Computing (Final Year Entry)
+Matthias Rolf
+mrolf@brookes.ac.uk
+
+--- Page 25 ---
+Module aim and scope
+● Learn about the risks and benefits of scientific and business
+applications of Artificial Intelligence such as Natural Language
+Processing, face recognition and autonomous moral machines
+https://www.technologyreview.com/2023/03/22/1070167/these-news-tool-let-you-see-for-yourself-how-biased-ai-image-models-are/
+
+--- Page 26 ---
+Learning outcomes
+1. Critically evaluate the ethical and societal risks and
+opportunities in the application of AI technologies in a
+given context
+2. Create an AI software solution
+3. Experimentally evaluate an AI software solution
+4. Demonstrate ability to effectively function collaboratively in
+small groups to analyse an AI software application
+
+--- Page 27 ---
+Assessment
+● Coursework 1 (30%):
+○ Risks and benefits of
+autonomous driving
+○ Group-work
+● Coursework 2 (70%):
+○ Real-world example of bias and
+discrimination in criminal justice
+○ Investigate and address the
+bias with a new AI solution
+
+--- Page 28 ---
+Schedule
+Week Topic Assessment
+1 Introduction to Ethics in AI
+2 AI for Autonomous Driving
+3 Professional Ethics & Risk Analysis
+4 Autonomous moral decision making
+5 Consolidation
+6 AI for estimating risk Coursework 1 (30%, group)
+7 Bias and Fairness
+8 Face Recognition
+9 Explainable AI
+10 Consolidation
+11 Natural Language Processing
+12 Case Study - AI in heritage Coursework 2 (70%)
+
+--- Page 29 ---
+COMP6038
+Advanced Interfaces
+BSc (Hons) Computer Science
+BSc (Hons) Computing (Final Year Entry)
+BSc (Hons) Artificial Intelligence
+Tjeerd olde Scheper
+tvolde-scheper@brookes.ac.uk
+
+--- Page 30 ---
+Module aim and scope
+● The module Advanced Interfaces aims to introduce the student to the
+current level of active work and research in the field of Robotics,
+eXtended Reality, Virtual Reality and Augmented Reality.
+● The module will be taught in a project active manner, where different
+types of devices will be evaluated, compared and developed.
+● This module is also intended to help you understand the potential and
+limitations of these interface devices, and study the implications of
+their use in a wider context.
+● Students have also found the explicit presentation of many of the
+topics to be useful in practical applications on other modules, during
+their project work and after graduation.
+
+--- Page 31 ---
+Learning outcomes
+After successful completion of this module, you will have acquired several useful skills and
+extended your knowledge of virtual reality, augmented reality, and robotics, significantly. In
+particular, you will have learned about:
+1. Design and develop solutions to complex problems that demonstrate a deep
+understanding of the technologies deployed and utilises them effectively to meet
+societal, user, customer and business needs.
+2. Research, design, develop and evaluate a suitable application using AR/VR/HRI
+technologies that pays due regard to relevant Human Computer Interface Design
+Principles.
+3. Employ project and quality management techniques to allow a team to work through the
+full development process from analysing criteria to deployment and maintenance of a
+system
+4. Evaluate and assess ethical, societal, professional and legal impacts of virtual and
+physical spaces and use this knowledge to develop systems that meet this criteria.
+
+--- Page 32 ---
+Assessment
+Coursework Word count Learning Learning Weighting
+hours outcomes
+assessed
+Design Report: Written assignment 1000 18 1, 3 30%
+(Group)
+Final Report: Written assignment 2000 36 1,2,3,4 60%
+(Group)
+Set Exercise: Presentation (Must Pass) 0.5 hours 6 1,2,3,4 10%
+
+--- Page 33 ---
+Tentative Schedule
+Week Topic Staff Outline Practical
+1 Introduction FW Introduction to Advanced Intro to Unity
+Interfaces and Technologies
+2 Augmented Reality 1 FW Hardware & devices and toolkits Intro to the devices
+3 Virtual Reality 1 MG Introduction to Meta and VR Meta Quest 3
+4 Foundations Robotics SE Introduction to Robotics, the devices and toolkits Using RoboStudio
+5 Consolidation Guest Team developing mini-project Submission De-
+Speaker sign report
+6 Virtual Reality 2 MG Requirements and coding VR Unity
+7 Augmented Reality 2 FW Volumetric AR AR coding
+8 Robotics 2 SE Inverse Kinematics Kinematics & Map-
+9 Usability FW Measuring and assessing ping
+usability of technology Case Studies
+10 Advanced XR Guest TBD Work on Project
+Speaker
+11 Consolidation Team development and revision
+12 Demonstration Final report submission
+
+--- Page 34 ---
+COMP6037
+DATA ANALYTICS
+BSc. Information Technology for Business
+BSc. Information Technology for Business (Final Year Entry)
+BSc. Computing (Final Year Entry)
+TEREZA WOLF-JACKSON
+t.wolf-jackson@brookes.ac.uk
+
+--- Page 35 ---
+Module aim and scope
+This module will cover two important aspects of Data
+Science: data analysis and data visualisation.
+In semester 1, you will study the basics of the R programming
+language, hypothesis testing and regression analysis. In
+semester 2, you will deepen your R skills and learn how to
+plan and create visualisations of large and complex data sets.
+You will work to develop your critical and analytical thinking
+as well as design skills.
+
+--- Page 36 ---
+Learning outcomes
+1. Identify and integrate data of various types from a variety
+of sources, and make informed judgements about their
+use in data science research.
+2. Demonstrate understanding of the different methodologies
+for data gathering; data processing; data exploration, data
+analysis, and data visualisation.
+3. Apply different data science tools to create appropriate
+visualisations of high dimensionality data.
+
+--- Page 37 ---
+Assessment
+Word Count / Time Limit Weighting %
+Semester 1
+Class test: A computer-based class test and a structured written 3.5 hours 40%
+report completed during the test. Students are expected to
+prepare and submit a notes booklet which will be printed for them
+and available to them during the class test.
+Semester 2
+Written Assignment: A written report that identifies suitable 2000 words 50%
+datasets, explores and processes them, and details the plan and
+execution of an appropriate visualisation
+Oral presentation: A presentation of the visualisation created for 5 minutes + 3 minutes Q&A 10%
+the written assignment and the process behind it.
+
+--- Page 38 ---
+Semester 1 Schedule
+Week Topic Assessment
+1 Introduction to Module, Introduction to Data Science
+2 Introduction to R Programming
+3 Data Sources and Functions in R
+4 Mathematical Foundations for Data Analysis
+5 Consolidation: R Practice and Maths Problems
+6 Exploratory Data Analysis
+7 Correlation and Causation, Hypothesis Testing
+8 Data Research
+9 Regression Analysis
+10 Regression Analysis, Reporting Results
+11 Consolidation: Class Test Revision and Notes Preparation
+12 Class Test Class Test
+
+--- Page 39 ---
+Semester 2 Schedule
+Week Topic Assessment
+1 Introduction to Data Visualisation, dplyr and ggplot2
+2 Importing Data, Working with Dates
+3 Data Manipulation and Pre-Processing
+4 Visualising Discrete and Continuous Variables
+5 Consolidation: Feedback, Presentation Practice
+6 Cuts and Window Functions
+7 Data Joins, Visualising to Compare
+8 Colours and Labels
+9 Interactive Visualisations with Plotly
+10 Faceting, Coursework Feedback
+11 Visualising Geospatial Data, Coursework Feedback
+12 Presentations Coursework
+
+--- Page 40 ---
+COMP6018
+Advanced Object Oriented Programming
+BSc (Hons) Computer Science
+BSc (Hons) Computing (Final Year Entry)
+Shujaat Hussain Kausar
+s.kausar@brookes.ac.uk
+
+--- Page 41 ---
+Module aim and scope
+Aim: To equip students with advanced software engineering
+techniques for designing, testing, and maintaining complex
+applications using design patterns and robust architecture.
+Module Scope: Covers OO principles, MVC, design patterns,
+Design by Contract, JUnit testing, modern Java evolution,
+and frameworks like .NET.
+
+--- Page 42 ---
+Learning outcomes
+1. Describe, use and critically evaluate advanced language
+features of object-oriented programming languages
+2. Create a software artefact by applying the methodologies
+of advanced object-oriented programming to a
+requirements specification
+3. Select and apply a design pattern from one of the major
+design patterns to solve a given problem
+4. Create appropriate documentation that clearly
+communicates the intended behaviour of a program.
+
+--- Page 43 ---
+Assessments
+1. Coursework: A coursework assignment which you will
+need to submit at the end of week 12. (50%)
+2. Exam: An time exam at the end of the semester in Week
+13/14. (50%)
+
+--- Page 44 ---
+Schedule
+Week Topic Assessment
+1 Review of Object-Orientation
+2 Model View Controller
+3 Introduction to Design Patterns
+4 More Design Patterns
+5 Coursework Design Coursework Design due
+6 Remaining Design Patterns Feedback on Design
+7 Design By Contract and JUnit testing
+8 Evolution of Java
+9 Security, .NET, Contracts
+10 Exam preparation
+11 Coursework Q&A
+12 Exam preparation/Coursework Q&A Coursework due
+13 Exam
+
+--- Page 45 ---
+COMP6031
+Cloud Computing and Internet of Things
+BSc (Hons), MSci Artificial Intelligence
+BSc (Hons) Computer Science
+BSc (Hons) Computer Science for Cyber Security
+BSc (Hons) Computing (Final Year Entry)
+BSc (Hons) Information Technology for Business (including Final Year Entry)
+Shadi Eltanani
+seltanani@brookes.ac.uk
+
+--- Page 46 ---
+Module aim and scope
+● This module will look at two key technologies:
+I. For Cloud Computing, the aim is to explore the key issues and
+concepts of Cloud Computing and gain an understanding of the
+applicability of cloud-based approaches.
+II. For the Internet of Things (IoT) the aim is to provide knowledge and
+information about the latest trends and developments in the IoT.
+● Recent advances in the enabling technologies and programming
+frameworks suitable for an IoT environment will be introduced and
+consideration will also be given to the management of large volumes
+of distributed data and to the privacy and security of the data.
+
+--- Page 47 ---
+Learning outcomes
+1. Critically analyse recent developments and trends in cloud computing and Internet of Things
+technologies.
+2. Design, construct and evaluate Internet of Things and Cloud Computing solutions.
+3. Design an integrated cloud and IoT system specifying appropriate technologies to address a
+real-world requirement.
+4. Analyse the commercial implications, sustainability and risks associated with deploying IoT
+and Cloud based systems.
+5. Work in a group to apply the knowledge and skills developed in this module.
+
+--- Page 48 ---
+Assessment
+
+--- Page 49 ---
+Tentative
+Schedule
+
+--- Page 50 ---
+COMP6013
+Computing Project
+BSc (Hons), MSci Artificial Intelligence
+BSc (Hons) Computer Science
+BSc (Hons) Computer Science for Cyber Security
+BSc (Hons) Computing (Final Year Entry)
+BSc (Hons) Information Technology for Business (including Final Year Entry)
+James Maunder
+jmaunder@brookes.ac.uk
+
+--- Page 51 ---
+Module aim and scope
+Aim: to enable you to produce a substantial piece of work on a topic of
+special interest related to your programme of study.
+You will consolidate knowledge and strengthen skills acquired through
+your study, as well as develop new knowledge and skills.
+You should have received emails linking to a list of possible projects,
+staff areas of expertise, and a Google form to provide your
+preferences. If not, let me know!
+Lectures in Semester 1 will assist you with various aspects.
+
+--- Page 52 ---
+Learning outcomes
+1. Create, design, manage, plan, carry out, and evaluate a project involving the solution of
+a practical problem set in an appropriate social and economic context, taking into
+account other relevant factors such as risk.
+2. Apply practical and analytical skills acquired in the programme to the investigation of a
+substantial topic.
+3. Apply the scientific method and report findings using accepted formalisms.
+4. Demonstrate the ability to carry out a substantial piece of work independently and
+critically evaluate the student’s achievements and their own personal development.
+5. Use appropriate technologies and trustworthy information sources, such as the ACM
+Digital Library to find, critically evaluate and utilise both non specialist and technical
+information pertinent to the project.
+6. Demonstrate an awareness of and work in a manner guided by the legal, professional,
+ethical, security and social issues relevant to the IT and telecommunications industry.
+
+--- Page 53 ---
+Assessment
+More details will be provided in the first lecture next week, but
+as part of this module you will submit:
+● A proposal
+● A progress report
+● A mock presentation
+● The final report (or dissertation)
+● A final presentation
+
+--- Page 54 ---
+Schedule (Semester 1)
+Week Topic Assessment
+1 Introduction
+2 Literature reviews
+3 Proposal, using the library, and referencing
+4 Using LaTeX, project management, and ethics Proposal
+5 Consolidation Q&A
+6 Source management and version control (Git)
+7 Testing and evaluation
+8 Progress report, academic writing, and professional issues
+9 Academic presentations
+10 Employability
+11 Consolidation Q&A
+12 No lecture Progress report (Week 13)
+
+--- Page 55 ---
+Questions?
+
+--- Page 56 ---
+Lunch break!
+Keep making new friends
+(see you at 1:30 in NHHB - our new building on the other
+side of the road - for a Practical computer session)
+Go to NHHB 1.17 first - they’ll send you to NHHB 2.13

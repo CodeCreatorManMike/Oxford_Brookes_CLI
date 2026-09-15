@@ -1,0 +1,167 @@
+--- Slide 1 ---
+COMP4035 Computer Science Applications
+David Lightfoot
+Notes by Peter Marshall
+--- Slide 2 ---
+Lecture 1: Why am I here?
+--- Slide 3 ---
+Today’s lecture
+Introduction to the module
+Coursework
+What is a computing professional?
+Computing and Business
+Requirements Elicitation
+--- Slide 4 ---
+The structure of the module
+The module has four parts:
+Semester 1
+Information Systems
+Computer Networking
+Semester 2
+Artificial Intelligence
+Cyber Security
+Each part runs for half a semester (6 weeks).
+Each part has an associated coursework (each worth 25%)
+You must submit Part 1 in Week 6
+You must submit Part 2 in Week 12
+--- Slide 5 ---
+Part 1: Information Systems
+How does a computer professional work in an organisation?
+Working in a professional manner
+Organisation of the programming process
+Process standards
+Computer scientists (of whatever flavour) are applied problem solvers
+We generally express our solutions to problems in computer code
+But there is far more to being a programmer than writing code!
+In this part of the module we will look at the context for coding
+--- Slide 6 ---
+Coursework
+Each tutor will introduce their coursework, but here is brief introduction
+Information Systems: Carry out an activity as a group and reflect on how you worked
+Networking: build a small network in a simulator package.
+Artificial Intelligence: build decision trees to solve a problem.
+Cyber Security: Carry out a Pentest and write a report on it.
+--- Slide 7 ---
+Coursework 1
+In this coursework, you will be working in a group to develop an initial specification for a computer system.
+You will submit an individual report and a group report on the part of the work that you carried out and you will reflect on how well the team worked and on your role in the team.  
+--- Slide 8 ---
+What is a computing professional?
+Possible ways to define it:
+Creator versus consumer?
+Someone who works in a particular subject area?
+Someone who writes code?
+Perhaps a skill-based analysis would be more effective
+--- Slide 9 ---
+What skillset does a professional programmer need?
+Analytical thinking
+Logical thought
+Understanding of process
+Knowledge of programming languages
+Capability in using programming tools.
+Communication and presentation skills
+Planning skills
+Collaboration skills
+Programming is not just designing, writing and testing code. 
+We are going to look at the bits beyond the core code-development cycle.
+--- Slide 10 ---
+The development process
+Requirements
+Analysis
+Design
+Coding/Implementation
+Testing
+Operation/Deployment
+Maintenance
+If we don’t get these first three right, it doesn’t matter how good the code is – we’re building the wrong system.
+--- Slide 11 ---
+The context for coding: the Business Organisation
+Here is an example of where an Information and Communications Technology (ICT) system fits in an organisation
+It exists in a larger environment
+It is just one of the company’s information systems
+The information systems underpin the activities that take place
+The activities define the business
+Building this system without an understanding of the larger context would not work.
+Ref: Business Information Systems 3rd Ed, Paul Benyon-Davis, Macmillan 2019
+--- Slide 12 ---
+The Business Organisation – Stakeholders
+Developers build systems
+Users use them
+But there is much more to it than that…
+Ref: Business Information Systems and Technology: A primer, Lehaney, Lovett & Shah, Routledge 2011
+--- Slide 13 ---
+The starting point: Requirements
+We need to know what the system needs to do
+We elicit a set of requirements to understand the activities that will take place
+The functionality of the system will support these activities
+We need to speak to both users and other stakeholders
+We consider the current system and what can be learned from it
+We thus consider the activity system as well as the technical system
+--- Slide 14 ---
+Methods for Requirements Elicitation
+Interviews
+Questionnaires
+Observation
+--- Slide 15 ---
+Scenarios 
+A scenario is a story or narrative that describes some part of the operations.
+It will use actual characters and tasks:
+A scenario:
+Mary asks the salesperson for a ticket for that night’s performance
+The salesperson asks Mary where she would like to sit
+Mary picks a seat
+The salesperson confirms the availability and price 
+Mary offers payment
+The salesperson marks the seat as booked and generates a ticket that they give to Mary
+--- Slide 16 ---
+Generating Requirements
+Identify domain properties and hypotheses from the scenarios
+Identify any problems in the current system
+Set objectives or goals for the system to be built
+Properties:  tickets, seats
+Hypotheses: seat pricing varies depending on seat position
+Problem: Current paper-based system doesn’t allow for showing prices on the seat map, as prices vary for different shows
+Goal: the new system will allow customers to see seat location, availability and cost
+--- Slide 17 ---
+Objective/Goal Decomposition
+Goals can be broken down into sub-goals
+Requirements can be identified
+Expectation can be identified
+Sub-goal: Seat map shows currently available seating
+Sub-goal: Seat map shows pricing for each seating block
+Seats can be selected on the seat map
+Seat availability is updated as soon as a sale is made
+Seat map should accurately reflect the physical position of seats in the auditorium
+Goal: the new system will allow customers to see seat location, availability and cost
+--- Slide 18 ---
+Functional Requirements
+Functional requirements:
+describe the intended functions that the new software will provide
+can be given priorities related to their perceived importance or risk
+Priorities should be assessed in terms of the goals/objectives that they help to meet
+--- Slide 19 ---
+Non-functional Requirements
+These are requirements that describe how the software will operate
+Can include things such as:
+Performance
+Reliability
+Usability
+Security 
+…
+--- Slide 20 ---
+Where do we go from here?
+Functional and non-functional requirements are a starting point
+If we consider the actors involved in carrying out the functions we can generate use cases.
+Use-case diagrams show how each actor is involved in carrying out a function
+Once we know what the system needs to do, we can design a solution in the form of data structures and functionality
+Once we have a design we can write code to meet it.
+Use-case diagrams are a starting point for modelling systems using Unified Modeling Language (UML)
+Code is the definition of data structures and the actions to be carried out on the data
+--- Slide 21 ---
+Summary
+A computing professional applies their skills in a professional manner
+Their skillset goes beyond the technical
+Computer systems exist in a context
+Understanding this context is vital to developing
+ effective systems
+Requirements elicitation allows the specification of what a system needs to do by considering system functionality in the larger context of the tasks that users are carrying out and the environment in which they do so.

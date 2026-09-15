@@ -1,0 +1,156 @@
+--- Page 1 ---
+Subject Introductions
+Dr Matthias Rolf
+First Year Tutor - mrolf@brookes.ac.uk
+Appointments bookable on Google Calendar (more on this on in the computer session).
+
+--- Page 2 ---
+First year for Computer Science, Cyber, and AI
+COMP4009
+COMP4004
+Foundations of
+Problem Solving and Programming
+Computer Systems COMP4035
+Year 1 Computer Science
+COMP4005 MATH4004 COMP4006 Applications
+Object Oriented Mathematics for Professional
+Programming e Computing e Programming Practice
+
+--- Page 3 ---
+BSc (Hons) Computer Science
+COMP4009
+COMP4004
+Foundations of
+Problem Solving and Programming
+Computer Systems COMP4035
+Year 1 Computer Science
+COMP4005 MATH4004 COMP4006 Applications
+Object Oriented Mathematics for Professional
+Programming e Computing e Programming Practice
+COMP5004 COMP5020 COMP5013 COMP5047
+Software Dev. with Foundations of Web Applications Applied Software
+C/C++ e Security e Development Engineering
+Year 2
+COMP5001 COMP5046
+COMP5017 COMP5011
+Foundations of Enterprise
+Data Structures Databases
+Computation e e Engineering
+Placement Year COMP5015 Work Experience Placement
+COMP6014 COMP6032 COMP6038
+Secure Programming Artificial Intelligence Advanced Interfaces
+COMP6013
+Year 3
+Computing Project
+COMP6031 COMP6015 COMP6018
+Cloud Computing & Principles of Secure Advanced Object
+Internet of Things Operating Systems e Oriented Programming e
+
+--- Page 4 ---
+BSc (Hons) Computer Science for Cyber Security
+COMP4009
+COMP4004
+Foundations of
+Problem Solving and Programming
+Computer Systems COMP4035
+Year 1 Computer Science
+COMP4005 MATH4004 COMP4006 Applications
+Object Oriented Mathematics for Professional
+Programming e Computing e Programming Practice
+COMP5004 COMP5020 COMP5043 COMP5047
+Software Dev. with Foundations of Switching & Routing Applied Software
+C/C++ e Security e Principles e Engineering
+Year 2
+COMP5001 COMP5012 COMP5046
+COMP5044
+Foundations of Systems Enterprise
+LAN Techniques
+Computation e Programming e Engineering
+Placement Year COMP5015 Work Experience Placement
+COMP6039
+COMP6014 COMP6016
+Routing Techniques
+Secure Programming Malware Analysis
+and WANs e
+COMP6013
+Year 3
+Computing Project
+COMP6031 COMP6015 COMP6036
+Cloud Computing & Principles of Secure Enterprise Networks &
+Internet of Things Operating Systems e Security Techniques
+
+--- Page 5 ---
+BSc/MSci (Hons) Artificial Intelligence
+Year 1 Problem SoClvOinMg Pan4d0 0P4rogramming FoundationsC oOfM CPo4m0p0u9ter Systems
+ComputerC SOcMienPc4e0 3A5pplications
+Object OrCieOnMtePd 4P0r0o5gramming MathemMatAicTsH fo4r0 C04omputing COMP4006 Professional Development Practice
+COMP5004 COMP5020 COMP5045 COMP5047
+Software Dev. with Foundations of Introduction to Applied Software
+C/C++ e Security e Artificial Intelligence Engineering
+Year 2
+COMP5001 COMP5023 COMP5046
+COMP5017
+Foundations of Advanced Artificial Enterprise
+Data Structures
+Computation e Intelligence e Engineering
+Placement Year COMP5015 Work Experience Placement
+COMP6033
+COMP6011 COMP6038
+Applications and
+Machine Learning Advanced Interfaces
+Ethics of AI
+COMP6013
+Year 3
+Computing Project
+COMP6031 COMP6034
+COMP6025
+Cloud Computing & Advanced ML & Deep
+Machine Vision
+Internet of Things e Learning
+COMP7040
+Autonomous Intelligent
+Systems
+COMP7016 COMP7017
+MSci / Year 4
+Artificial General Intelligence Advanced AI Project
+COMP7035
+Principles of Data Science
+
+--- Page 6 ---
+BSc (Hons) Information Technology for Business
+COMP4004 BMGT4008
+Problem Solving and Programming The Entrepreneur
+COMP4035
+Year 1 Computer Science
+AISO4002 Applications
+BMGT4004
+Digital Literacy
+Exploring International Business & Management
+for Business
+COMP5013 COMP5020 ACFI5011 COMP5047
+Web Applications Foundations of Management Applied Software
+Development e Security e Information Systems Engineering
+Year 2
+COMP5005 COMP5049 COMP5046
+COMP5011
+Intro Object Oriented Software Project Enterprise
+Databases
+e Programming e Management Engineering
+Placement Year COMP5015 Work Experience Placement
+COMP6033 BMGT6012
+Applications and Social Enterprise and
+Ethics of AI COMP6037 Social Innovation
+COMP6013
+Year 3 Foundations of Data
+Computing Project
+COMP6031 Analytics
+BMGT6024
+Cloud Computing &
+Business Ethics
+Internet of Things
+
+--- Page 7 ---
+Any questions?
+Dr Matthias Rolf
+First Year Tutor - mrolf@brookes.ac.uk
+Appointments bookable on Google Calendar (more on this on in the computer session).

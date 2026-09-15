@@ -1,0 +1,61 @@
+--- Page 1 ---
+n
+g
+is
+g t n e
+n e D
+Computer Science (SQ) g n it u p m o C s s e n is u B y g o lo n h c e T g n it u p m o C n r e d o M
+im
+m a r g o r P d e t n e ir O t c e jb O o t n o it c u d o r t n I s c it a m e h t a M e t e r c s iD s k s iR r e t u p m o C d n a s e u s s I la n o is s e f o r P n o it a t u p m o C f o s n o it a d n u o F g n im m a r g o r P d e t n e ir O t c e jb O r e h t r u F h c r a e s e R t n e r r u C y tir u c e S f o s n o it a d n u o F t c e jo r P 4 l e v e L s t n e m n o r iv n E t n e m p o le v e D e r a w t f o S a id e m itlu m d n a g n ik r o w t e N 5 l e v e L s e r u t c u r tS a t a D y g o lo n h c e T b e W a t a D d e u t c u r tS d n a x e lp m o C + + C d n a C h tiw t n e m p o le v e D e r a w t f o S
+m
+p o le v e D e r a w t f o S e lib o M o t s e h c a o r p p A s m e t s y S g n it a r e p O f o s n o it a d n u o F e c a f r e t n I r e t u p m o C n a m u H e h T n o it a r t s in im d A s m e t s y S y g o lo n h c e T s c ih p a r G s e m a G r o f e c n e g ille t n I la ic ifit r A e r a w t f o S d n a n o it a c ific e p S s t n e m e r iu q e R y r o e h T h p a r G s c it a m e h t a M e t e r c s iD r e h t r u F g n im m a r g o r P e c n e g ille t n I s s e n is u B t n e m e c a lP e c n e ir e p x E k r o W 6 le v e L g n it s e T & s is y la n A e r a w t f o S t n e m e g a n a M t c e jo r P e r a w t f o S
+s
+e r u t c u r tS a t a D d e c n a v d A d n a s m h tir o g lA y g o lo n h c e T b e W d e c n a v d A g n im m a r g o r P d e t n e ir O t c e jb O d e c n a v d A s m a r g o r P la n o it c n u F t u o b a g n in o s a e R t n e m p o le v e D e r a w t f o S e lib o M d e c n a v d A t n e m e g a n a M s m e t s y S k r o w t e N n o is iV e n ih c a M g n im m a r g o r P d e s im it p O a r b e g lA d e ilp p A y d u t S t n e d n e p e d n I 1 y d u tS t n e d n e p e d n I 2 y d u tS t n e d n e p e d n I
+No. Description Where x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+Academic Literacy x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+Contribute to the creation of new software artifacts by applying the
+key concepts and ways of working derived from a deep
+A1 ALL x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+understanding of the fundamental principles of the discipline as
+informed by an operational context.
+Incorporate risk management and an understanding of information
+A2 security issues in the design, development, maintenance and use of ALL x x x x x x x x x x x
+information systems.
+Apply formal methods, finite state machines and other theoretical
+A11 aspects of computer science to the analysis, construction and SQ x x x x x x x x x x
+evaluation of software artifacts
+Create abstractions from observed patterns encountered across the
+A12 whole spectrum of real world problem domains to facilitate the SQ x x x x x x x x x
+analysis and synthesis of relevant solutions
+Research Literacy
+Apply the scientific method and report findings using accepted
+B1 ALL x x x x x x x
+formalisms.
+identify and utilise trustworthy information sources, such as the
+B2 ACM Digital Library to develop a coherent understanding of issues in ALL x x x x x x x x x x x x x x x x x x x
+the domain
+Critical Self-awareness and Personal Literacy
+evaluate and reflect on the evolution of their strengths and
+weaknesses across the range of subject based competences
+C1 ALL x x x x x x x x x x
+involved in their chosen domain through the creation and
+implementation of a discipline based personal development plan.
+apply self-awareness in evaluating their impact in team based work
+C2 and utlise appropriate communication and problem resolution ALL x x x x x x x x x x x
+strategies.
+Digital and Information Literacy
+use appropriate technologies such as online libraries and databases
+to find, critically evaluate and utilise both non domain specific (e.g.
+D1 ALL x x x x x x x x x x x x x x x x x x x
+reports) and domain specific (e.g. APIs and RFCs) types of
+information source
+demonstrate proficiency in a range of modes of communication
+D2 such as giving presentations to groups, writing reports and writing ALL x x x x x x x x x x
+software documentation.
+Global Citizenship
+demonstrate an awareness of, and work in a manner guided by, the
+E1 legal, professional, ethical and social issues relevant to the IT and ALL x x x x x x x x x x x x x x x x x
+telecommunications industry.
+evaluate the impact of the development, use and maintenance of
+E2 information systems in commercial, economic and social contexts in ALL x x x x x x x x x
+both national and international settings.

@@ -1,0 +1,254 @@
+--- Page 1 ---
+Module Guide
+Mathematics for Computing
+MATH4004
+Level 4 15 Credits
+Module Leader: Lucia Sagredo
+2026-27
+
+--- Page 2 ---
+Purpose of this guide
+The purpose of this Module Guide is to provide you with specific information that
+underpins the design, delivery and management of this module. It is your
+responsibility to familiarise yourself with the contents of this Module Guide and to talk
+to your seminar tutor if you have any questions.
+This isn’t the only guide available to you. Alongside this guide you will also have
+access to the University Handbook which will provide you with information that is
+central to your studies, including policies and regulations, student support and
+wellbeing and all the services available to you through Student Support.
+You will also be given a Programme Handbook which will detail the design, delivery
+principles and management of your programme. It will also provide you with an
+overview of your key contacts for your programme of study and list all the modules
+you will be / might be studying throughout the duration of your award.
+Module Guide 2026-27 1
+
+--- Page 3 ---
+Contents
+Module Guide 0
+Purpose of this guide 1
+Contents 2
+Module introduction 3
+Module leader contact details 3
+Library Support 3
+Changes made to the module (if any) in response to student and other feedback 3
+Module Study Plan 4
+Module syllabus 5
+Recommended reading list 5
+Assessment information 6
+Coursework 6
+Presenting coursework for assessment 6
+Submission date and instructions 6
+ISP Extensions 7
+Artificial Intelligence and its use in this assessment 7
+Backing Up Work 7
+Marking and moderation of your work 8
+Feedback 8
+Examinations 9
+Learning outcomes assessed 9
+Format 9
+Specimen examination paper 9
+Module Guide 2026-27 2
+
+--- Page 4 ---
+Module introduction
+Module leader contact details
+Name: Lucia Sagredo
+Room: NHBB 1.01, Headington Campus
+Telephone: +44 (0)1865 534856
+Email: lucia.sagredo@brookes.ac.uk
+Office hours: two per week, in Lucia’s calendar
+Library Support
+Contact the library for help and support with resources and referencing for your programme.
+You can find more in-depth library information on the Course Resource Help page for your
+subject.
+Changes made to the module (if any) in response to student and
+other feedback
+Students enjoy this module, and module evaluations have not highlighted any areas
+for change. Of course, we are always open to your feedback and welcome
+comments at any time.
+Module Guide 2026-27 3
+
+--- Page 5 ---
+Module Study Plan
+Week Topic Reading/Activity Deadlines
+1 Chapter 1: Arithmetic Lectures and seminars
+and Algebra
+2 Chapter 2: Sets Lectures and seminars
+3 Chapter 3: Probability Lectures and seminars
+4 Chapter 4: Relations Lectures and seminars
+5 Consolidation Seminars
+6 Chapter 5: Lectures and seminars
+Combinatorics
+7 Chapter 6: Graphs Lectures and seminars Assignment 1 due
+(part 1)
+8 Chapter 6: Graphs Lectures and seminars
+(part 2)
+9 Chapter 7: Digraphs Lectures and seminars
+10 Chapter 8: Matrices Lectures and seminars
+(part 1)
+11 Chapter 8: Matrices Lectures and seminars
+(part 2)
+12 Revision and exam Lectures and seminars Assignment 2 due
+preparation
+13-14 Exam
+Module Guide 2026-27 4
+
+--- Page 6 ---
+Module syllabus
+Module Aims
+The main aim of the module is to introduce students to those key mathematical
+concepts that underpin computer science with applications to computing. This
+module is intended to equip students with knowledge of the language and structures
+of discrete mathematics and its relevance to a wide range of computing applications.
+The concepts discussed in the module underpin many of the computing topics
+developed in advanced modules.
+Learning outcomes
+On successful completion of this module, students will be able to:
+1. Understand and solve problems in a broad range of mathematical topics,
+demonstrating skills in logical thinking and abstract reasoning
+2. Demonstrate knowledge and application of mathematical tools and techniques
+applicable to computing
+3. Understand and demonstrate knowledge of a variety of applications of
+mathematics in computing
+4. Demonstrate enhanced transferable skills in self-management,
+communication and information technology
+Outline Syllabus
+1. Arithmetic and Algebra
+2. Sets
+3. Probability
+4. Relations
+5. Combinatorics
+6. Graphs
+7. Digraphs
+8. Matrices
+Recommended reading list
+Follow this link to obtain the reading list from the Library for recommended books.
+Module Guide 2026-27 5
+
+--- Page 7 ---
+Assessment information
+This module follows the principles of the University’s Assessment and feedback
+policy developed in conjunction with the Student Union, to ensure good practice and
+transparency in assessment and feedback processes. The Assessment and
+feedback policy can be found in your Programme Handbook or on your Programme’s
+Brookes Virtual site.
+Please note: the Institutional University Handbook which will provide you with
+information that is central to your studies, including policies and regulations, student
+support and wellbeing and all the services available to you through Student Support.
+The core information is also available on Moodle via the drop-down menu under
+‘Student Help’.
+Coursework
+The coursework for this module consists of two sets of take-home assignments with
+set exercises. Each take-home assignment is worth 25%. So, in total, the
+coursework is worth 50% of the module grade. The briefs can be found in Moodle.
+Presenting coursework for assessment
+You may choose to typeset your work for submission. However, handwritten work,
+whether on paper, scanned, or created digitally on a tablet or similar device, is
+acceptable. Present your work in a clear, legible format.
+If scanning your work on paper, please use the scanners on campus (it’s free and
+recommended – they can scan multiple pages as a single PDF); alternatively, you
+may use a good-quality camera, provided there are no shadows and the image is
+well-focused.
+Submitted work should omit names to ensure anonymity.
+A cover sheet (provided in Moodle) should be at the front of your submission.
+Submission date and instructions
+Your work must be uploaded in PDF format to the submission box on Moodle by the
+time and date specified on the assignment briefs on Moodle. It should contain the
+relevant cover sheet and follow the presentation guidelines mentioned above.
+Give the file(s) which you intend to upload a name which begins with your student
+number. For example:
+‘12345678_CW1_MATH4004’
+University policy is that the default is that all assessment submissions will be online.
+Any cases for exception to this policy need to have appropriate approval at Faculty
+level. Exceptions to this rule are published on the Faculty Google site
+Please ensure you submit your assignment no later than the deadline set above
+(these are fixed deadlines, but students may exceptionally secure an extension if last
+minute untoward circumstances affect your ability to submit on time). Please see
+your Programme Handbook for more details. Please note the use of this extension
+is monitored and restrictions in place for overuse.
+Module Guide 2026-27 6
+
+--- Page 8 ---
+The Blue Marking Card adjustment is only available to students who have an
+Inclusive Support Plan (ISP) specifying this adjustment and will usually be added
+automatically
+Recommendations for Reasonable Adjustments are made in accordance with the
+provisions of the Equality Act 2010. These are detailed in Inclusive Support Plans
+(ISPs) and need to be implemented unless there is a clear rationale for this not being
+possible, in which case we are accountable as an HEI for this decision. Alternatives
+should be considered, and further advice sought from the Inclusive Support Service
+to ensure we are compliant, consistent, and following best practice.
+ISP Extensions
+If you have an Inclusive Support Plan you can check whether you have coursework
+extensions and how many weeks on your Student Information page. Contact your
+module leader if you are unclear about your deadlines.
+Do not confuse coursework extensions agreed as part of an Inclusive Support Plan
+(ISP) with Exceptional Circumstances. There are no limits to how often you can use
+the extensions agreed as part of your ISP.
+There are final submission dates which no extensions can go beyond. These
+are the same for extensions agreed through the Exceptional Circumstances
+Procedure or an ISP. You can find this on the Exceptional Circumstances website. If
+you are not sure whether your ISP coursework extension would go past the final
+hand-in date, always contact your Module Leader to confirm your deadline.
+Coursework extensions included as part of your Inclusive Support Plan (ISP) can be
+used for the two coursework assignments.
+Artificial Intelligence and its use in this assessment
+This link will take you to guidance about writing an acknowledgement of AI in your
+assignments. This link will take you to the Moodle course Use of Artificial
+Intelligence.
+For all the assessments of this module,
+● You must not use AI tools.
+Backing Up Work
+Generally, IT-related problems are not considered valid grounds for exceptional
+circumstances. This is because students are expected to back up their work
+regularly via their Google Drive, so that they can continue accessing their files on
+other devices. If you experience IT issues, you are expected to take prompt action to
+remedy these, for example, by raising a ticket with the IT Service Desk; taking your
+technology for repair or contacting your faculty if you need support with faculty-
+provided software.
+If your own device is faulty, over 1,000 open access PCs are available for use on
+campus, or you may borrow a laptop for up to four hours from one of the self-service
+cabinets on campus.
+Module Guide 2026-27 7
+
+--- Page 9 ---
+Marking and moderation of your work
+Following internal moderation, a sample of work is reviewed by the External
+Examiner for the programme to ensure that the standards applied are comparable to
+those at other institutions. To read how your work is moderated please go to your
+Programme Handbook for details.
+Feedback
+Feedback on your work will be provided in a range of ways at various times
+throughout this module, and different feedback will serve slightly different purposes.
+Feedback is designed to support your learning and help you to improve subsequent
+work, so you need to engage and get the most out of the feedback provided.
+Please note that feedback is provided throughout the module, not just on formal
+tasks. It will be provided on your work and contribution in class, on the formal
+assessment tasks and, in some circumstances, during staff office hours.
+If you would like further information about feedback, or how to use it, please talk to
+your academic tutor on this module or your Academic Adviser or Programme Lead.
+Assessment feedback will normally be provided within three weeks of submission.
+Please note that all marks are provisional until they are ratified by an Examination
+Committee.
+Module Guide 2026-27 8
+
+--- Page 10 ---
+Examinations
+This module will have a final examination at the end of Semester 2. The final
+examination will count for 50% of your final grade.
+Learning outcomes assessed
+1. Understand and solve problems in a broad range of mathematical topics,
+demonstrating skills in logical thinking and abstract reasoning
+2. Demonstrate knowledge and application of mathematical tools and techniques
+applicable to computing
+3. Understand and demonstrate knowledge of a variety of applications of
+mathematics in computing
+4. Demonstrate enhanced transferable skills in self-management,
+communication and information technology
+Format
+The examination will be a traditional closed-book examination with a formula booklet
+and a calculator. The duration is 2 hours.
+Specimen examination paper
+To help you prepare and understand what you will be given in the examination, the
+formula booklet and past papers will be available via Moodle.
+Module Guide 2026-27 9

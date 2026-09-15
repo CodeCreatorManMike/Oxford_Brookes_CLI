@@ -1,0 +1,311 @@
+--- Page 1 ---
+Module Guide
+Computer Science
+Applications
+COMP4035
+Level 4 Double Module 30 Credits
+Module Leader: Kashinath Basu
+2026-27
+
+--- Page 2 ---
+Purpose of this guide
+The purpose of this Module Guide is to provide you with specific information that
+under-pins the design, delivery and management of this module. It is your
+responsibility to familiarise yourself with the contents of this Module Guide and to talk
+to your seminar tutor if you have any questions.
+This isn’t the only guide available to you. Alongside this guide you will also have
+access to the University Handbook which will provide you with information that is
+central to your studies, including policies and regulations, student support and
+wellbeing and all the services available to you through Student Support.
+You will also be given a Programme Handbook which will detail the design, delivery
+principles and management of your programme. It will also provide you with an
+overview of your key contacts for your programme of study and list all the modules
+you will be / might be studying throughout the duration of your award.
+Module Guide 2026-27 1
+
+--- Page 3 ---
+Contents
+Module Guide ............................................................................................................. 0
+Purpose of this guide .............................................................................................. 1
+Contents ................................................................................................................. 2
+Module introduction ................................................................................................ 3
+Module leader contact details ............................................................................. 3
+Library Support.................................................................................................... 3
+Changes made to the module (if any) in response to student and other feedback . 3
+Module Study Plan .................................................................................................. 4
+Module syllabus ...................................................................................................... 6
+Recommended reading list ..................................................................................... 6
+Assessment information ......................................................................................... 7
+Coursework ......................................................................................................... 7
+Artificial Intelligence and its use in this assessment ............................................ 7
+Backing Up Work ................................................................................................ 7
+Presenting coursework for assessment .............................................................. 7
+Assignment length ............................................................................................... 8
+Turnitin ................................................................................................................ 8
+Submission date and instructions........................................................................ 8
+ISP Extensions .................................................................................................... 9
+Marking and moderation of your work ............................................................... 10
+Feedback .......................................................................................................... 10
+Module Guide 2026-27 2
+
+--- Page 4 ---
+Module introduction
+Module leader contact details
+Name: Kashinath Basu
+email: kbasu@brookes.ac.uk
+Lecturer 1 semester 1 contact details
+Name: David Lightfoot
+email: dlightfoot@brookes.ac.uk
+Lecturer 2 semester 1 contact details
+Name: Kashinath Basu
+email: kbasu@brookes.ac.uk
+Lecturer 1 semester 2 contact details
+Name: Inna Skarga-Bandurova
+email: iskarga-bandurova@brookes.ac.uk
+Lecturer 2 semester 2 contact details
+Name: Manny Niri
+email: mniri@brookes.ac.uk
+Library Support
+Contact the Library for support with resources and referencing for this module:
+email libraryenquiries@brookes.ac.uk, use our Live Chat service (yellow button on
+any Library Web page) or go to the Course Resource Help page for your subject.
+Changes made to the module (if any) in response to student and
+other feedback
+The module will continue to focus on introductory topics on the four key areas of
+computing: software project management, networking, artificial intelligence and
+cyber security.
+Module Guide 2026-27 3
+
+--- Page 5 ---
+Module Study Plan
+Semester 1
+Unit/ Topic Reading/Activity Deadlines
+Week
+1 Why are you here?
+2 Organisation of the
+Programming Process
+3 Groupwork
+4 Process Standards
+5 Consolidation
+6 Assessment – Group Assignment hand in
+assignment
+7 An introduction to data
+transmission, packets
+and protocols
+8 Layered architectures
+9 IPv4 and IPv6
+addressing
+10 An introduction to
+routing and switching
+11 Consolidation
+12 Assessment - Build a Assignment hand in
+small network in
+simulator
+Module Guide 2026-27 4
+
+--- Page 6 ---
+Semester 2
+Unit/ Topic Reading/Activity Deadlines
+Week
+1 Intro to AI
+2 Search and Trees
+3 Learning Trees
+4 Applications
+5 Consolidation
+6 Assessment – Assignment hand in
+Learning Decision
+Trees
+7 Intro to Cyber
+8 Pentesting
+9 Secure Design 1
+10 Secure Design 2
+11 Consolidation
+12 Assessment – Pentest Assignment hand in
+Report
+Module Guide 2026-27 5
+
+--- Page 7 ---
+Module syllabus
+The module is made up of 4 half semester sections and this is the outline syllabus
+for these sections.
+1. Information Systems
+a. The objectives and structures of organisations. The nature of systems
+and information in organisations and the role of computers to support
+business functions, goals, and information needs, including security.
+b. The generic life cycle of software production, including the role of
+software professionals.
+c. Techniques and tools for acquiring, modelling and reasoning about
+system properties.
+d. Professional issues, including time management, and teamwork.
+2. Networking Introduction
+a. Basic network principles, models and protocols
+b. Architectures of network and networking systems
+c. Information layers and network devices
+d. Communication requirements of data
+3. Cyber Security Introduction
+a. Principles of secure design
+b. System services and operating systems concepts
+c. Coding considerations
+d. Penetration Testing
+4. Artificial Intelligence Introduction
+a. Principles of Search and Planning
+b. Algorithmic Problem Solving
+c. Automated Problem Solving
+d. Trees and data representations
+Recommended reading list
+https://moodle.brookes.ac.uk/mod/lti/view.php?id=2752075
+Module Guide 2026-27 6
+
+--- Page 8 ---
+Assessment information
+This module follows the principles of the University’s Assessment and feedback
+policy developed in conjunction with the Student Union, to ensure good practice and
+transparency in assessment and feedback processes. The Assessment and
+feedback policy can be found in your Programme Handbook or on your Programme’s
+Brookes Virtual site.
+Please note: the Institutional University Handbook which will provide you with
+information that is central to your studies, including policies and regulations, student
+support and wellbeing and all the services available to you through Student Support.
+The core information is also available on Moodle via the drop-down menu under
+‘Student Help’.
+Coursework
+There are four components of assessment in this module. Please refer to Moodle for
+the assessment details.
+Artificial Intelligence and its use in this assessment
+All students should complete the ‘Use of Artificial Intelligence’ course available on
+Moodle. After taking it, please upload your Certificate of Completion to the
+submission link on moodle.
+This link will take you to further guidance on the use of AI tools at Brookes. This link
+will take you to the Moodle course Use of Artificial Intelligence.
+For this assessment specifically, the extent you can use AI tools is detailed below,
+• You must not use AI tools for this assessment.
+The use of AI is becoming increasingly common. However, to use it effectively, you
+need to understand what a correct answer should look like so that you can critically
+evaluate AI responses and decide how best to apply them. In this module, we will
+focus on teaching you the essential skills you must develop independently in order to
+use AI effectively in the future. For this reason, the use of AI is not permitted in this
+module.
+Backing Up Work
+Generally, IT-related problems are not considered valid grounds for exceptional
+circumstances. This is because students are expected to back up their work
+regularly via their Google Drive, so that they can continue accessing their files on
+other devices. If you experience IT issues, you are expected to take prompt action to
+remedy these, for example, by raising a ticket with the IT Service Desk; taking your
+technology for repair or contacting your faculty if you need support with faculty-
+provided software.
+If your own device is faulty, over 1,000 open access PCs are available for use on
+campus, or you may borrow a laptop for up to four hours from one of the self-service
+cabinets on campus.
+Presenting coursework for assessment
+Your assignment must be presented in the following format:
+● It must be word-processed in 12 point Arial font and double-spaced
+Module Guide 2026-27 7
+
+--- Page 9 ---
+● All pages must be numbered.
+● Margins must be as follows: Top: 1 inch, Bottom: 1 inch (2.5 cm), Left: 1.25
+inches, Right: 1.25 inches (3.2 cm)
+● It should not contain your name(s)
+Assignment length
+The length of an assignment is limited by a set number of words to contribute
+towards the development of writing skills and to ensure all work is assessed
+equitably. We therefore require you to complete your assignments within the number
+of words specified in the assignment brief. This may be expressed as either a word
+range (e.g. 2000-2500 words) or as an indicative limit (e.g. 2000 words).
+The word count refers to the main body of the assignment and does not include front
+cover, title page, contents page, executive summary, reference list, bibliography or
+appendices. The word count does include headings, tables and in-text citations, but
+not equations or diagrams. Appendices themselves will not be marked. However,
+inappropriate use of appendices will be taken into consideration when awarding the
+final mark.
+The final word count should be clearly indicated at the end of your assignment.
+Where an indicative limit is expressed in the assignment brief (e.g. 2000 words), a
+10% leeway, over or under the specified word limit, is in place. For example, if an
+assessment asks for 2000 words then any submission between 1800-2200 words
+will be deemed acceptable.
+Where a word range is expressed, there is no leeway above the maximum wordage
+allowed.
+Words that exceed the maximum allowed in an assignment brief that contains either
+a word range or an indicative limit will not be marked. If in doubt, you should discuss
+this with the Module Leader before submission.
+Turnitin
+Assignment(s) on this module will be submitted through Turnitin. Turnitin is a web-
+based tool that supports the development of good academic practice when preparing
+written work for assessment. This text-matching tool allows academic staff to check
+assignments for improper use of sources or potential plagiarism by comparing it
+against continuously up-dated databases (including web-pages and other student
+work).
+Submission date and instructions
+Your work must be uploaded to the dropbox in Moodle. Please refer to Moodle for
+the assessment deadlines.
+For electronic submission: Give the file(s) which you intend to upload a name which
+begins with your student number. For example ‘12345678 annotated bibliography
+module XXXX1234’
+Module Guide 2026-27 8
+
+--- Page 10 ---
+University policy is that the default is that all assessment submissions will be online.
+Any cases for exception to this policy need to have appropriate approval at Faculty
+level. Exceptions to this rule are published on the Faculty Google site
+Please ensure you submit your assignment no later than the deadline set above
+(these are fixed deadlines, but students may exceptionally secure an extension if last
+minute untoward circumstances affect your ability to submit on time). Please see
+your Programme Handbook for more details. Please note the use of this extension
+is monitored and restrictions in place for overuse.
+https://www.brookes.ac.uk/students/your-studies/exceptional-
+circumstances/application/how-to-apply
+The Blue Marking Card adjustment is only available to students who have an
+Inclusive Support Plan (ISP) specifying this adjustment. Eligible students who wish to
+use this adjustment must add a blue card:
+https://www.brookes.ac.uk/students/inclusive-support-service/exams-and-
+assessments/blue-marking-cards
+Recommendations for Reasonable Adjustments are made in accordance with the
+provisions of the Equality Act 2010. These are detailed in Inclusive Support Plans
+(ISPs) and need to be implemented unless there is a clear rationale for this not being
+possible, in which case we are accountable as an HEI for this decision. Alternatives
+should be considered, and further advice sought from the Inclusive Support Service
+to ensure we are compliant, consistent, and following best practice.
+ISP Extensions
+If you have an Inclusive Support Plan you can check whether you have coursework
+extensions and how many weeks on your Student Information page. Contact your
+module leader if you are unclear about your deadlines.
+Do not confuse coursework extensions agreed as part of an Inclusive Support Plan
+(ISP) with Exceptional Circumstances. There are no limits to how often you can use
+the extensions agreed as part of your ISP.
+There are final submission dates which no extensions can go beyond. These
+are the same for extensions agreed through the Exceptional Circumstances
+Procedure or an ISP. You can find this on the Exceptional Circumstances website. If
+you are not sure whether your ISP coursework extension would go past the final
+hand-in date, always contact your Module Leader to confirm your deadline.
+Coursework 1 is reporting on groupwork but is an individual submission. As such,
+coursework extensions included as part of your Inclusive Support Plan (ISP) can be
+used for this assignment and for assignments 2 and 3.
+Coursework extensions included as part of your Inclusive Support Plan (ISP) are not
+applicable to group work assignment 4. Please contact the Module Leader to discuss
+what may be available to you.
+Module Guide 2026-27 9
+
+--- Page 11 ---
+Marking and moderation of your work
+Following internal moderation, a sample of work is reviewed by the External
+Examiner for the programme to ensure that the standards applied are comparable to
+those at other institutions. To read how your work is moderated please go to your
+Programme Handbook for details.
+Feedback
+Feedback on your work will be provided in a range of ways at various times
+throughout this module, and different feedback will serve slightly different purposes.
+Feedback is designed to support your learning and help you to improve subsequent
+work, so you need to engage and get the most out of the feedback provided.
+Please note that feedback is provided throughout the module, not just on formal
+tasks. It will be provided on your work and contribution in class, on the formal
+assessment tasks and, in some circumstances, during staff office hours.
+If you would like further information about feedback, or how to use it, please talk to
+your academic tutor on this module or your Academic Adviser or Programme Lead.
+Feedback will be provided on Moodle. For each assignment, please read through
+your feedback and if there is anything you do not understand, please contact the
+lecturer for that part of the module.
+Assessment feedback will normally be provided within 15 working days of
+submission.
+Please note that all marks are provisional until they are ratified by an Examination
+Committee.
+Module Guide 2026-27 10

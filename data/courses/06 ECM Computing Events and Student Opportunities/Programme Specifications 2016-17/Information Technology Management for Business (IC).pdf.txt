@@ -1,0 +1,374 @@
+--- Page 1 ---
+Programmme Sppecificcation
+BBSc (Hoons) Infformattion Teechnoloogy Maanagemment foor
+BBusinesss
+VValid froom: Sepptember 2015
+Faculty of Tecchnologgy, Dessign annd Envvironmeent
+
+--- Page 2 ---
+SECTION 1: GENERAL INFORMATION
+Awarding body: Oxford Brookes University
+Teaching institution and location: Oxford Brookes University
+Final award: BSc (Hons)
+Programme title: Information Technology Management for
+Business
+Interim exit awards and award titles: CertHE, DipHE, BSc
+Brookes course code: IC
+UCAS/UKPASS code: GN52
+JACS code: G490, N190
+Mode of delivery: Face to Face
+Mode/s of study: Full-time and Part-time
+Language of study: English
+Relevant QAA subject benchmark Computing (2007), General Business and
+statement/s: Management (2007)
+External accreditation/recognition:
+(applicable to programmes with
+professional body approval)
+Faculty managing the programme: Technology, Design and Environment (TDE)
+Date of production (or most recent April 2015
+revision) of specification:
+SECTION 2: OVERVIEW AND PROGRAMME AIMS
+2.1 Rationale for/distinctiveness of the programme
+Information Technology Management for Business (ITMB) is a national brand. The degree has been built
+around the requirements of over 60 major employers, including IBM, Proctor & Gamble, KPMG and
+Deloitte. The degree is endorsed by e-skills UK, the National Sector Skills Council for the IT and
+Telecommunications industry, and is run at more than 12 universities in the UK. While there are many
+degrees which combine computing technology with business, ITMB is unique in that it has the ongoing
+support of these employers, who are specifically targeting graduates from the programme as future
+employees. To be an effective practitioner in this area requires the ability to stay up to date with rapidly
+changing technologies and the competance to apply these technologies effectively in a business context.
+Graduates from the programme will have exactly the right mix of technical, business and project-based
+skills to play key roles in the application of computing technology to tomorrow’s businesses.
+
+--- Page 3 ---
+The design of our programmes is informed by state of the art research being undertaken in the
+department. For example, Prof. David Duce, an internationally renowned academic involved in the
+development of the world wide web through the web standards body (W3C), teaches students about
+advanced web technologies on our undergraduate programme. Students on our programmes have
+access to highly specialised computer laboratories where they learn the practical application of cutting
+edge theoretical skills and techniques. Students will study business modules with experts from Oxford
+Brookes Business School.
+2.2 Aim/s of the programme
+The course aims to provide students with a balanced set of knowledge and skills, encompassing
+business and computing, whilst emphasizing the personal, inter-personal and project skills necessary to
+make these skills applicable to the modern workplace. By the time you graduate, you will understand the
+huge impact that information technology can have on industry and commerce and be able to
+communicate your ideas effectively with business leaders.
+Page 2 of 10
+
+--- Page 4 ---
+SECTION 3: PROGRAMME LEARNING OUTCOMES
+On successful completion of the programme, graduates will be able to demonstrate the following
+Brookes attributes:
+3.1 Academic literacy
+Contribute to the creation of new software artefacts by applying the key concepts and ways of
+A1 working derived from a deep understanding of the fundamental principles of Information
+Technology Management for Business as informed by an operational context.
+Incorporate risk management and an understanding of information security issues in the
+A2
+design, development, maintenance and use of information systems.
+Create and document innovative business processes and evaluate the contribution of IT to
+A5
+their successful implementation.
+Apply appropriate methodologies to develop infrastructure that will address the information
+A6
+requirements of organisations in order to meet business goals.
+3.2 Research literacy
+Apply the scientific method and report findings using accepted formalisms.
+B1
+Identify and utilise trustworthy information sources, such as the ACM Digital Library to
+B2
+develop a coherent understanding of issues in the domain.
+Analyse a non-obvious business problem, structure it, collect relevant information, consider
+B4
+options and recommend a course of action.
+3.3 Critical self-awareness and personal literacy
+Evaluate and reflect on the evolution of their strengths and weaknesses across the range of
+C1 subject based competences involved in their chosen domain through the creation and
+implementation of a discipline based personal development plan.
+Apply self-awareness in evaluating their impact in team based work and utilise appropriate
+C2 communication and problem resolution strategies.
+3.4 Digital and information literacy
+Use appropriate technologies such as online libraries and databases to find, critically
+D1 evaluate and utilise both non specialist (e.g. reports) and technical (e.g. APIs and RFCs)
+information
+Demonstrate proficiency in a range of formal and informal modes of communication such as
+D2 giving presentations to groups, writing reports and writing software documentation.
+3.5 Global citizenship
+Demonstrate an awareness of, and work in a manner guided by, the legal, professional,
+E1
+ethical and social issues relevant to the IT and telecommunications industry.
+Evaluate the impact of the development, use and maintenance of information systems in
+E2
+commercial, economic and social contexts in both national and international settings.
+Page 3 of 10
+
+--- Page 5 ---
+SECTION 4: PROGRAMME STRUCTURE AND CURRICULUM
+4.1 Programme structure and requirements:
+The following modules are acceptable for the subject. Students must pass all modules marked
+‘Compulsory’, as well as meeting the usual university rules for undergraduate programmes.
+LEVEL: 4
+Module Semester of
+Module Title Credits Status Pre-requisites
+code delivery
+U08007 Business Computing 30 Compulsory 1 and 2
+U08008 Modern Computer Technology 30 Compulsory 1
+Introduction to Object Oriented
+U08009 15 Compulsory 2 U08008
+Programming
+Professional Applications of
+U080XX 15 Compulsory 1
+Communication Theories
+Exploring International Business &
+U58001 30 Compulsory 2
+Management
+U55002 Foundations of Marketing 15 Optional 2
+LEVEL: 5
+Module Semester of
+Module Title Credits Status Pre-requisites
+code delivery
+Professional Issues and Computer
+U08055 15 Compulsory 1 U08007 or U08008
+Risks
+U08027 Current Research 15 Compulsory 2 U08007 and U08008
+Requirement Specification and
+U08048 15 Compulsory 2 U08007
+Software Design
+U08049 Complex and Structured Data 15 Compulsory 2 U08009
+U08054 Web Technology 15 Compulsory 1 U08008
+U08226 Foundations of Security 15 Compulsory 2 U08009
+U50037 Management Information Systems 15 Compulsory 1 U08007
+U08868 Independent Study level 5 15 Optional 1 or 2 U08007 and U08009
+U08037 Business Intelligence Programming 15 Optional 1 U08009
+U08038 The Human Computer Interface 15 Optional 2 U08009
+U08065 Work Experience Placement 15 Optional 1 and 2 U08055
+U50034 eBusiness 15 Optional 1 or 2 U08007
+U50036 Information Systems in Practice 15 Optional 2 U50037
+Page 4 of 10
+
+--- Page 6 ---
+LEVEL: 6
+Semester
+Module
+Module Title Credits Status of Pre-requisites
+code
+delivery
+U08096 Project 30 Compulsory 1 and 2 U08055
+U08784 Software Project Management 15 Compulsory 2 U08048
+Business Intelligence and Decision
+U50070 15 Compulsory 1 U50037
+Making
+U50071 Information Systems Strategy 15 Compulsory 1 U50037
+U08072 Software Analysis and Testing 15 Optional 1 U08048
+U08073 Advanced Web Technology 15 Optional 2 U08054
+U08088 Independent Study level 6 15 Optional 1 or 2 U08055 and U08009
+Communicating and Teaching
+U08085 15 Optional 1 or 2 U08055,U08009
+Computer Science
+4.2 Professional requirements
+Currently none.
+SECTION 5: PROGRAMME DELIVERY
+5.1 Teaching, Learning and Assessment
+Students will attend lectures to acquire the knowledge and understanding of the key concepts in both
+business and computing modules.
+Practical elements of the course will enable students to practice essential skills in a variety of contexts,
+and build a wide set of experiences on which to reflect and develop professional expertise. For more
+technical skills, including programming, the practical elements will be based around laboratory classes,
+allowing students to experiment with the technology in a controlled environment. Dependent on the
+choice of modules, it is likely that a larger proportion of the assessment for these types of modules will
+be coursework.
+Several modules will include an element of team working, enabling students to collaborate with their
+peers, developing an awareness of their own abilities as reflected by feedback from others. Team work
+will also be used to assess the students’ acquisition of personal and inter-personal skills, so important for
+this degree, and equally important for most career paths in the industry. Students will be introduced to
+key communication skills in their first semester, allowing them to contribute to employer-hosted
+competitions and events more effectively.
+Academic literacy will be assessed through a mixture of examination and coursework, testing the
+students’ ability to explain key concepts, and to apply them to practical problem solving. This academic
+knowledge will be developed through all three years of the degree programme, with foundation material
+assumed and assessed through the prerequisite structure.
+Research literacy is primarily assessed in the compulsory dissertation module, but students will have
+learned and practised these skills in a number of earlier, core modules.
+Self-awareness and personal literacy will be supported through the ongoing use of a Professional
+Development Plan (PDP). This will form a part of the students’ induction to the degree, and will be
+Page 5 of 10
+
+--- Page 7 ---
+maintained throughout their time at Oxford Brookes, culminating in a pre-career reflection, assessed as
+part of their dissertation.
+Digital and information literacy is fundamental to the academic content of this degree, and will be a
+distinguishing feature of graduates from the programme. In particular, the use of software tools for
+system development will be taught and assessed throughout many of the modules, and part of the
+assessment for these modules will be based on the student’s ability to locate, read, and evaluate
+appropriate documentation for software tools, as well as their ability to document their own software and
+system artefacts.
+Effective and innovative use of ICT is also a key part of the department’s strategy. The department uses
+a variety of VLE’s (tailored to what is being taught) and makes extensive use of ebooks, online videos,
+podcasts and other electronic resources. The department has also developed ICT systems to help
+delivery of teaching (e.g. web accessible virtual machines, XML & SVG based teaching documentation
+that can be easily transformed for a variety of accessible media), learning (e.g. twitter to encourage
+group working, survey monkey feedback by students at the end of each lecture on the module to gauge
+student comprehension) and assessment (e.g. systems for automating feedback).
+Graduates from this programme will develop a career in a world that is increasingly dependent on
+information technology, and in which major social, political and economic endeavours are enabled by the
+technology. Students will develop an awareness of their global citizenship through the core modules of
+the programme, especially those emphasizing the evolution of modern computing technology, and
+current research directions.
+Core modules provide a balance of assessments, appropriate to the learning outcomes of the
+programme. In particular, early core modules are assessed on the basis of key technical, professional
+and learning skills, most likely to enable and enhance a student’s aptitude for life-long learning. As
+students master core skills, the issues associated with quality products and processes will play an
+increasingly important part of the module content. Assessment tasks will be specified in the context of
+the importance of quality assurance in the IT and telecommunications industry, and criteria for success
+in assessments will mirror those needed in the work place.
+By paying due regard to the Oxford Brookes University Assessment Compact, the assessments on this
+programme have been designed to develop learning of technical skills, shaped by the underlying theory,
+and requirements of the industry. Assessment does not present students with a set of hurdles, but rather
+guides them through the staged acquisition of a complex set of professional skills, so that, by the time
+they graduate, they are ready to play an effective role in their chosen career. Feedback on the
+assessment tasks will be provided in a timely manner, emphasizing achievement of the learning
+outcomes of the modules and the programme. Students will be encouraged to relate the assessment
+tasks with professional activities, and to relate their achievements with professional standards. Where
+appropriate, self- and peer- assessment will be used to encourage students to involve themselves in
+their own professional development.
+The department is committed to inclusivity and diversity in its teaching. By the very nature of the
+discipline, virtually all of our teaching material is available in an accessible format and where possible we
+follow best practice guidelines and make our electronic material available before the lectures. We also
+use electronic references and ebooks to further enhance accessibility. Inclusivity and diversity is also
+embedded in what we teach. As such all new students have a lecture on inclusivity and diversity as part
+of their induction and important inclusivity and diversity topics such as the need for accessibility and
+internationalization and how to achieve them are taught on a variety of modules throughout the degree.
+5.2 Assessment regulations
+The programme conforms to the University Regulations of the University's Undergraduate Framework.
+Page 6 of 10
+
+--- Page 8 ---
+Page 7 of 10
+
+--- Page 9 ---
+SECTION 6: ADMISSIONS
+6.1 Entry criteria
+Typical offers
+ A-level: BBC or equivalent, preferably including science subjects
+ IB Diploma: 30 points, preferably including science
+ Advanced Diploma: grade B including A-level grade C, preferably in a science subject and
+excluding General Studies
+ BTEC Extended Diploma with a DDM profile, preferably in a science subject.
+Specific entry requirements
+ GCSE: Mathematics at grade B minimum, and English Language at grade C minimum.
+Students for whom English is not their main language also need to show that their English is at a high
+enough level to succeed in their studies. The standard English language requirements are specified at:
+http://www.brookes.ac.uk/international/how-to-apply/english-language-requirements/
+6.2 DBS checks
+Not normally required
+SECTION 7: STUDENT SUPPORT AND GUIDANCE
+Support and guidance is available to students throughout the programme, starting from when they first
+arrive before the course begins.
+During induction week, students are given handbooks and other documentation explaining the choices
+available to them on the programme, and how the systems at Oxford Brookes work. The Programme
+Lead, Subject Coordinators and Academic Advisors are available for consultation as are the Student
+Support Coordinators (SSCs).
+Throughout the programme, module and dissertation handbooks alongside online resources available
+through the virtual learning environment provide a great deal of guidance for students. In addition, they
+can get help and guidance from their Programme Lead, Subject Coordinator, Academic Adviser (for first
+years) and the department’s Student Support Coordinators. They can also get module specific advice
+from the Module Leader and any of the staff teaching on the relevant module.
+At the University level, there are dedicated support services both for specific groups of students such as
+Oxford Brookes International and the Disability Advisory Service and for all students such as Upgrade -
+our study skills development/support service. A full range of support services is offered to students
+seeking graduate roles, and to those looking for placements. Support includes placement officers, career
+advisers and counsellors, and all students are strongly encouraged to take advantage of these
+opportunities.
+Each programme has at least one student representative. These are voted into position by the students
+on the programme and provide a mechanism for issues and concerns to be fed back through the
+department’s committee structure. Student representatives sit on departmental committees concerned
+with programme management and course development and also attend monthly student forums which
+are meetings specifically for the representatives to bring forward student concerns.
+Page 8 of 10
+
+--- Page 10 ---
+SECTION 8: GRADUATE EMPLOYABILITY
+Graduates from the programme will be ideally equipped to contribute to the activities of IT departments
+in large, multinational corporations. This may include technical development roles, but is more likely to
+be in areas demanding sound business sense, as well as technical know-how. This will include business
+analysis, project management and support, and application and product design.
+According to research conducted by e-skills UK, the National Sector Skills Council for IT and
+Telecommunications, the IT professional workforce in the UK, has almost doubled since 1994, and is
+likely to continue growing at 5-8 times the average employment growth for the coming decade. Recent
+graduates from this programme have been employed by major consultancies including KPMG and
+Logica, large multinationals including Jaguar/Land Rover and service providers such as IBM.
+SECTION 9: LINKS WITH EMPLOYERS
+Many modules use guest speakers from industry to illustrate the practical application of the module
+material. The department is host to at least 12 ‘Guru’ lectures, delivered as part of this programme.
+These are broadcast live at one ITMB university and over the internet by the others, and include Q&A
+sessions. Topics complement a variety of technical and professional learning outcomes, and are
+delivered by senior employees of the employer consortium.
+Twice a year, the employer consortium hosts an ‘All-student Day’ at which a range of competitions (with
+prizes!) are run and judged by the employers themselves. ITMB students from all UK universities are
+invited, and the event provides a unique opportunity to network with key staff from some very large
+corporations.
+Students will be equipped with specialist communication and presentation skills in their first year, first
+semester, to encourage more effective interaction at these events.
+ITMB students at Oxford Brookes University have also taken advantage of specialist careers advice.
+Many of our students have mentors, already working in the industry, and IBM have run assessment
+centre training for our second and final years.
+All students may take a year out in industry. Employers are keen to promote their companies and the
+opportunities offered. Even for students who do not take a placement year, this can provide a good
+insight into the type of jobs available, and the skills employers are looking for. Students who do take a
+work placement may bring ideas for final year projects back with them, and are noticeably more able to
+contribute insights into industrial applications to the modules they take in their final year.
+The department maintains close links with the university Careers Office. Themed ‘mini’ careers fairs are
+organised by this office – with technology being a common theme. Students are encouraged to use the
+facilities offered, including CV workshops, and practice interviews and assessment-centre activities.
+An Industrial Advisory Board is run within the department, with senior employees of regional and
+representative organisations as members. The board is consulted on major initiatives within the
+department, including programme revalidations, possible research partnerships, future trends and
+directions, and the feasibility of new course offerings.
+An alumni organisation has recently been formed in the department. The aim is to invite ex-students who
+are now in a variety of technical and managerial roles, to network with each other, and with our current
+students. It is anticipated that this organisation will be of great benefit to students starting out on their
+careers, as well as for more senior alumni looking to exploit the skills and expertise of the staff and
+students in the department.
+Page 9 of 10
+
+--- Page 11 ---
+Research centres within the department are actively involved with Knowledge Transfer Partnerships, and
+other links with employer organisations. One of the spin-offs from these activities is the on-campus
+presence of industrial-based experts in fields closely related to our degree offerings.
+SECTION 10: QUALITY MANAGEMENT
+Indicators of quality/methods for evaluating the quality of provision
+The primary indicators of quality come through regular student feedback, module reviews, external
+examiners’ reports, annual and periodic programme reviews and student surveys. Student feedback on a
+module is gathered using the standard university feedback form and is summarised by the administration
+team within the faculty. This summary is incorporated into the module report documentation used to
+inform the module review at the Subject Committee which is attended by the student representative for
+the subject. The minutes of the subject committee that summarise the discussion of module reviews are
+then presented at the Subject Examination Committee meeting where comments are invited from the
+External Examiners. Any changes to module delivery and/or content which arise out of this review
+process are communicated to the Subject Committee chair who has the responsibility for ensuring that
+they are implemented.
+Each module is assigned an Internal Moderator who has the responsibility for checking the quality of the
+examination papers and the coursework specifications before they are sent to the External Examiner for
+comments. Examination papers and coursework specification may be modified in the light of the
+External’s comments before submission to the University Examination Office. The Internal Moderator
+also checks the quality of the marking of the assessments on the module based on a randomly selected
+sample.
+The programme as a whole is reviewed annually through the University Annual Review procedure. This
+review assesses the quality of teaching, learning and assessment and the overall academic standards of
+the programme. It takes into account student progression and compares the overall performance of
+students against the University benchmark. The Annual Review considers and responds to the
+comments from the External Examiners.
+Programmes are reviewed normally on a five year periodic cycle in accordance with the provisions of the
+quality framework set by the University.
+The National Student Survey of final year students provides valuable annual feedback on the student
+experience. The results of the NSS are evaluated at both Department and Faculty level and an action
+plan is drawn up to ensure that the necessary changes are made to improve the student experience.
+Regular Student Forum meetings are held during semester to give the student representatives a forum
+to present and discuss the concerns of the student body. The forums are attended by senior members of
+the department.
+The Industrial Advisory Board is valuable in involving employers and other stakeholders in the
+development of the Computing programmes. The Board meet on an annual basis to discuss the
+research and the teaching that is done in the department. Comments are invited from Board members
+on the portfolio of programmes and on any new programme developments.
+Page 10 of 10

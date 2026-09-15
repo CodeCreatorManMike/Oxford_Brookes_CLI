@@ -1,0 +1,195 @@
+--- Page 1 ---
+Semester 2 — specimen paper, MATH4004
+MATH4004 Mathematics for Computing
+Examination Rubric
+Examination length: 2 hours.
+Answer all questions.
+The maximum mark available for the paper is 50.
+A copy of the Mathematics for Computing Formula Booklet is provided.
+A calculator is provided.
+Page 1 of 11
+©OxfordBrookesUniversity
+
+--- Page 2 ---
+Semester 2 — specimen paper, MATH4004
+Examination Questions
+1. (a) Factorise the following expressions.
+2
+i. x +6x+9
+ii. x(2x+1)−1
+4 marks
+(b) Hence, or otherwise, find all values x that satisfy both
+2
+x +6x+9 = 0 and x(2x+1)−1 = 0.
+1 mark
+Total: 5 marks
+Page 2 of 11
+©OxfordBrookesUniversity
+
+--- Page 3 ---
+Semester 2 — specimen paper, MATH4004
+2. Consider the sets
+A = {p,q,s},
+B = {p,r,s,t},
+C = {p,r,u}.
+Find the following sets.
+(a) A∩B 1 mark
+(b) A∪C 1 mark
+(c) (A∪C)∩B 1 mark
+(d) A×C 1 mark
+(e) B∆C 1 mark
+Total: 5 marks
+Page 3 of 11
+©OxfordBrookesUniversity
+
+--- Page 4 ---
+Semester 2 — specimen paper, MATH4004
+3. Consider flipping a fair coin three times in succession. Let A be the event that
+exactly two of the results are heads and B be the event that at least one of the
+results is a tails.
+(a) Sketch the events A and B on a Venn diagram.
+2 marks
+(b) Hence, or otherwise, determine the probability of the following events:
+i. The outcome of the three coin flips has either exactly two heads or at
+least one tail, but not both.
+1 mark
+ii. The outcome of the three coin flips does not have exactly two heads or
+at least one tail.
+1 mark
+(c) Using the Venn diagram, or otherwise, explain why P(B|A) = 1.
+1 mark
+Total: 5 marks
+Page 4 of 11
+©OxfordBrookesUniversity
+
+--- Page 5 ---
+Semester 2 — specimen paper, MATH4004
+4. Consider a standard deck of 52 playing cards containing 4 kings. Suppose that
+three cards are drawn at random from the deck without replacement.
+(a) Using a probability tree, determine the probability that at least two kings are
+drawn. Make sure to note all of the branching probabilities in your tree.
+5 marks
+Total: 5 marks
+Page 5 of 11
+©OxfordBrookesUniversity
+
+--- Page 6 ---
+Semester 2 — specimen paper, MATH4004
+5. Consider the relation R on the set {a,b,c,d} represented by the digraph:
+d• •c
+a• •b
+(a) Give the matrix representing the relation R.
+2 marks
+(b) Is the relation R reflexive? Justify your answer.
+1 mark
+(c) Is the relation R symmetric? Justify your answer.
+1 mark
+(d) Is the relation transitive? Justify your answer.
+1 mark
+Total: 5 marks
+Page 6 of 11
+©OxfordBrookesUniversity
+
+--- Page 7 ---
+Semester 2 — specimen paper, MATH4004
+6. Consider the problem of arranging six objects labelled A, B,C, D, E, and F on
+a shelf.
+(a) Determine the number of different arrangments of the six objects on the
+shelf.
+2 marks
+(b) How many different arrangements are there if objects A and B are not to be
+placed next to each other?
+3 marks
+Total: 5 marks
+Page 7 of 11
+©OxfordBrookesUniversity
+
+--- Page 8 ---
+Semester 2 — specimen paper, MATH4004
+7. Suppose that a group of people comprises 5 adults and 6 children. Moreover,
+suppose that the group has 8 cinema tickets.
+(a) Determine the number of ways the 8 cinema tickets can be given to
+members of the group (assuming that each person gets at most one ticket).
+2 marks
+(b) Suppose that the cinema has a rule that each child must be accompanied
+by an adult. So, the group decides to split the 8 tickets evenly between
+adults and children. In this case, determine the number of ways the 8
+cinema tickets can be given to members of the group (assuming that each
+person gets at most one ticket).
+3 marks
+Total: 5 marks
+Page 8 of 11
+©OxfordBrookesUniversity
+
+--- Page 9 ---
+Semester 2 — specimen paper, MATH4004
+8. Consider the graph G below.
+c b
+• •
+d• •a
+• •
+e
+f
+(a) Determine whether or not G has an Eulerian cycle. Justify your answer.
+2 marks
+(b) For each of the graphs below, decide whether or not it is a subgraph of G.
+Justify your answer.
+i. ii.
+• •
+•
+• • •
+•
+•
+•
+3 marks
+Total: 5 marks
+Page 9 of 11
+©OxfordBrookesUniversity
+
+--- Page 10 ---
+Semester 2 — specimen paper, MATH4004
+9. Consider the digraph G with the adjacency matrix
+a b c d e
+ 
+a F F F F F
+ 
+b  T F T F T 
+ 
+M = c  F F F F T .
+ 
+ 
+d  F T T F F 
+ 
+e F F F F F
+(a) Find the antecedent sets for each vertex of G.
+1 mark
+(b) Apply the topological sort algorithm to G.
+3 marks
+(c) Rewrite the adjacency matrix using the your consistent labelling.
+1 mark
+Total: 5 marks
+Page 10 of 11
+©OxfordBrookesUniversity
+
+--- Page 11 ---
+Semester 2 — specimen paper, MATH4004
+10. Simplify the following matrix expressions.
+(cid:34) (cid:35) (cid:34) (cid:35)
+2 2 1 −1
+(a) +
+−3 1 0 1
+1 mark
+(cid:34) (cid:35)(cid:34) (cid:35)
+2 1 −1 −1
+(b)
+−1 1 0 3
+2 marks
+(cid:34) (cid:35)
+−1 0
+(c) Find the inverse of the matrix .
+4 −2
+2 marks
+Total: 5 marks
+End of Examination Paper
+Page 11 of 11
+©OxfordBrookesUniversity

@@ -1,0 +1,423 @@
+--- Page 1 ---
+Programme Specification
+Programme Specification
+BSc (Hons) Computing for Robotic Systems
+Valid from: September 2014
+Faculty of Technology, Design and Environment
+T2.7 updated August 2014
+
+--- Page 2 ---
+SECTION 1: GENERAL INFORMATION
+Awarding body: Oxford Brookes University
+Teaching institution and location: Oxford Brookes University
+Final award: Bachelors of Science
+Programme title: Computing for Robotic Systems
+Interim exit awards and award titles: CertHE, DipHE, BSc
+Brookes course code:
+UCAS/UKPASS code:
+JACS code:
+Mode of delivery: Face-to-Face
+Mode/s and duration of study: Full-time , Part-time
+Language of study: English
+Relevant QAA subject benchmark Computing (2007)
+statement/s:
+External accreditation/recognition: N/A
+(applicable to programmes with
+professional body approval)
+Faculty managing the programme: Technology, Design and Environment (TDE)
+Date of production (or most recent October 2014
+revision) of specification:
+
+--- Page 3 ---
+SECTION 2: OVERVIEW AND PROGRAMME AIMS
+2.1 Rationale for and/or Distinctive features of the programme
+Robotics is an exciting and rapidly developing area driven by innovation that is radically changing the
+world we live in. The Computing for Robotic Systems course provides a unique opportunity to develop
+highly marketable skills in the key areas that define modern robotics.
+Modern robotic systems strongly depend on the effective integration of computer science and robotic
+engineering. This course involves studying almost the entire robotic system; from the low-level
+hardware, through the middleware control systems, all the way up to cognitive robotics at the highest
+level. The integration of robotic systems engineering and computing will allow you to become a skilled
+computer scientist capable of developing advanced integrated robotic systems.
+Our approach to teaching combines technical expertise with creativity and imagination. On this course
+you will make use of our modern well equipped workshops, laboratories, computer facilities, media
+studios, and of course, our state-of-the-art robotic systems that you will study and develop. These
+include the Baxter research robot, the Nao humanoid robot and Robothespian. The course has been
+developed to meet the requirements of the emerging robotics market and is underpinned by world
+leading robotics research in the department.
+2.2 Aim/s of the programme
+Students completing the programme will learn the fundamental principles of computer science and
+robotic engineering. The theoretical components will be examined and the coursework will give
+students the opportunity to demonstrate competence in the practical application of the theoretical
+principles taught. Through project based learning and small scale robotic system development students
+will develop the problem solving skills needed to develop and integrate software and hardware
+components in a functioning robot. The final year project will provide an opportunity to put into practice
+the range of theory and practical skills that have been acquired by the creation of a robotics system to
+solve a significant problem.
+
+--- Page 4 ---
+SECTION 3: PROGRAMME LEARNING OUTCOMES
+On successful completion of the programme, graduates will demonstrate the following Brookes
+Attributes:
+3.1 Academic literacy
+A1 Contribute to the creation of new software artefacts by applying the key concepts and ways of
+working derived from a deep understanding of the fundamental principles of computer science
+as informed by robotics engineering concepts and practices.
+A2 Incorporate risk management and an understanding of security issues in the design,
+development, maintenance and use of information and robotic engineering systems.
+A3 Apply principles and theoretical aspects of computer science, electronics, and mathematics to the
+analysis, construction and evaluation of software artefacts and robotic systems.
+A4 Create integrated robotic systems from software, electronic and mechanical components.
+3.2 Research literacy
+R1 Apply the scientific method and report findings using accepted formalisms.
+R2 Identify and utilise trustworthy information sources, such as the IEEE Digital Library to develop a
+coherent understanding of issues in computing and robotics.
+R3 Apply active research skills to a small scale research project in the context of an existing
+research theme.
+3.3 Critical self-awareness and personal literacy
+C1 Evaluate and reflect on the evolution of their strengths and weaknesses across the range of
+subject based competences involved in computing and robotic systems.
+C2 Apply self-awareness in evaluating their impact in team based work and utilise appropriate
+communication and problem resolution strategies.
+3.4 Digital and information literacy
+D1 Use appropriate technologies such as online libraries and databases to find, critically evaluate
+and utilise both non specialist (e.g. reports) and technical (e.g. APIs and Electronic and
+Mechanical Component Data sheets) information.
+D2 Demonstrate proficiency in a range of formal and informal modes of communication such as
+giving presentations to groups, writing reports and writing appropriate documentation.
+3.5 Active citizenship
+G1 Demonstrate an awareness of, and work in a manner guided by, the legal, professional, ethical
+and social issues relevant to the IT and Robotics industry.
+G2 Evaluate the impact of the development, use and maintenance of integrated robotic engineering
+systems in commercial, economic and social contexts in both national and international settings.
+
+--- Page 5 ---
+SECTION 4: PROGRAMME STRUCTURE AND CURRICULUM
+4.1 Programme structure and requirements:
+The following level 4 modules are compulsory for the BSc (Hons) Computing for Robotic Systems, BSc
+Computing for Robotic Systems, DipHE Computing for Robotic Systems, and CertHE Computing for
+Robotic Systems
+Level 4
+Module Module title Credits Status Semester of Pre- requisites
+delivery
+U08007 Business 30 Compulsory 1 and 2 -
+Computing
+U08008 Modern Computer 30 Compulsory 1 -
+Technology
+U08009 Introduction to Object 15 Compulsory 2 U08008
+Oriented
+Programming
+U08606 Discrete 15 Compulsory 2 -
+Mathematics
+U000IR Introductory 30 Compulsory 1 and 2 -
+Robotics
+The following level 5 modules are compulsory or optional, as indicated, for the BSc (Hons) Computing
+for Robotic Systems, and BSc Computing for Robotic Systems. A DipHE Computing for Robotic
+Systems requires 120 credits from the compulsory level 5 modules on this list.
+Level 5
+Module Module title Credits Status Semester of Pre- requisites
+delivery
+U08055 Professional Issues and 15 Compulsory for 1 U08007, U08008
+Computer Risks BSc (Hons) and
+BSc
+U08025 Foundations of 15 Compulsory 1 U08009, U08606
+Computation
+U08026 Further Object Oriented 15 Compulsory 1 U08009
+Programming
+U08027 Current 15 Compulsory 2 U08007, U08008
+Research
+U08226 Foundations of 15 Compulsory 2 U08009
+Security
+U000AR Advanced 30 Compulsory 1 and 2 U000IR
+Robotics
+
+--- Page 6 ---
+U00RSE Robotic Systems 15 Compulsory 2 U08009
+Engineering
+U08223 Data Structures 15 Compulsory 2 U08026
+U08048 Requirement 15 Optional 2 U08007
+Specification and
+Software Design
+U08028 Software Development 15 Optional 1 U08009
+with C and C++
+U08038 The Human Computer 15 Optional 2 U08009
+Interface
+U08868 Independent study Level 15 Optional 1 or 2
+5
+The following level 6 modules are compulsory or optional, as indicated, for the BSc (Hons)
+Computing for Robotic Systems. These modules are similarly compulsory or optional for BSc Computing
+for Robotic Systems, apart from U000RP Robotics Project, which is not compulsory.
+Level 6
+Module Module title Credits Status Semester of Pre- requisites
+delivery
+U000RP Robotics Project 30 Compulsory 1 and 2 U08055
+U000CR Cognitive 15 Compulsory 1 U08027
+Robotics
+U000ML Machine 15 Compulsory 1 U08025
+Learning
+U08781 Machine Vision 15 Compulsory 2 U08223
+U0RERS Real-time Embedded 15 Optional 2 U00RSE
+Robotic Systems
+U08186 Advanced Object 15 Optional 1 U08223
+Oriented Programming
+U08074 Reasoning about 15 Optional 2 U08025
+Functional Programs
+U08282 Algorithms and 15 Optional 1 U08223
+Advanced Data
+Structures
+U08079 Optimised 15 Optional 2 U08223, U08028
+Programming
+
+--- Page 7 ---
+U08085 Communicating and 15 Optional 1 or 2 U08055, U08009
+Teaching Computer
+Science
+U08088 Independent study Level 15 Optional 1 or 2
+6
+The following diagram shows a typical programme of study, with slots showing where optional modules
+can be taken.
+Year 1 U08008
+Semester 1 Modern Computer Technology U08007 U000IR
+Business Introductory
+U08009 U08606
+Computing Robotics
+Year 1 Introduction to Discrete
+Semester 2 OOP Mathematics
+Year 2
+Semester 1 U08055 U08025 U08026
+Professional Foundations of Further Object
+Issues and Computation Oriented
+Risks Programming
+U000AR
+Advanced
+Robotics
+Year 2
+Semester 2 U08027 U00RSE U08223 Data
+Current Robotic Structures
+Research Systems
+Engineering
+U08065
+Industrial Work Experience Placement (OPTIONAL)
+Placement
+Year
+Final year
+Semester 1
+U000CR U000ML OPTIONAL
+Cognitive Machine MODULE ONE
+Robotics Learning
+U000RP
+Robotics
+Final year
+Project
+Semester 2
+U08226 U08781 OPTIONAL
+Foundations of Machine MODULE
+Security Vision TWO
+4.2 Professional requirements
+The programme will be submitted for accreditation by both the Institute of Engineering and Technology
+(IET) and the British Computer Society (BCS) after the first cohort have completed, according to
+
+--- Page 8 ---
+IET and BCS requirements. IET and BCS criteria have been taken into account when designing the
+programme.
+SECTION 5: PROGRAMME DELIVERY
+5.1 Teaching, Learning and Assessment
+Students will attend lectures to acquire the knowledge and understanding of the key concepts in both
+computing and robotics.
+Practical elements of the course will enable students to practice essential skills in a variety of
+contexts, and build a wide set of experiences on which to reflect and develop professional
+expertise. For more technical skills, including programming, the practical elements will be based
+around laboratory classes, allowing students to experiment with the technology in a controlled
+environment. Essential skills of robotic system design and construction will be taught in a project
+based learning environment. A problem based learning approach is taken at both levels 4 and 5,
+as preparation for the final year robotics project. This project involves working in an independent
+manner to solve a significant practical problem applying robotic systems engineering.
+Several modules will include an element of team working, enabling students to collaborate with their
+peers, developing an awareness of their own abilities as reflected by feedback from others. Team work
+will also be used to assess the students’ acquisition of personal and inter-personal skills, so important
+for this degree, and equally important for most career paths in the industry.
+Academic Literacy will be assessed through a mixture of examination, coursework, and project outcome
+assessment, testing the students’ ability to explain key concepts, and to apply them to practical problem
+solving. This academic knowledge will be developed through all three years of the degree
+programme, with foundation material assumed and assessed through the prerequisite structure.
+Research Literacy is primarily assessed in the compulsory final year project module, but students will
+have learned and practised these skills throughout the course in both theoretical, and robot problem
+based learning modules. Critical Self-awareness and Personal Literacy will be supported through the
+ongoing use of a Professional Development Plan (PDP). This will form a part of the students’ induction to
+the degree, and will be maintained throughout their time at Oxford Brookes, culminating in a pre-career
+re- flection, assessed as part of their final year project. Digital and Information Literacy is fundamental
+to the academic con- tent of this degree, and will be a distinguishing feature of graduates from the
+programme. For example, the use of component based system development methodologies will be
+taught and assessed throughout many of the modules. Part of the assessment for these modules will be
+based on the student’s ability to locate, read, and evaluate appropriate documentation for software and
+hardware components, as well as their ability to document their own software and robotic systems.
+Active Citizenship in modern society is increasingly mediated by technology, where digital
+communication and social media forms the basis of agile citizenship, enabling disparate communities
+to integrate and collaborate.
+Graduates from this programme will be developing new technologies that will have a major impact in
+healthcare, education, and the wider society. This has wide ranging legal, ethical, social, and
+professional implications, which are assessed at each level of the programme.
+The department hosts an increasingly rich array of leading edge robotics systems in purpose built
+laboratories. Development environments are available for these systems that enable students to
+use them in a safe and flexible manner. Problem based learning modules and the final year project
+module will take full advantage of these facilities. The students also have controlled access to
+manufacturing facilities to construct specialist robot components. These activities are supported by
+specialist technical Instructors.
+
+--- Page 9 ---
+Compulsory modules provide a balance of assessments, appropriate to the learning outcomes of the
+programme. In particular, early modules are assessed on the basis of key technical, professional and
+learning skills, chosen to enable and enhance a student’s aptitude for life-long learning. As students
+master key skills, the issues associated with quality products and processes will play an increasingly
+important part of the module content.
+The assessment strategy on this programme implements the Oxford Brookes University Assessment
+Compact. The assessments on this programme have been designed to ensure that graduates possess
+the necessary technical skills, shaped by the underlying theory, that are required by the robotic
+engineering industry. Feedback on the assessment tasks will emphasise the achievements of the
+learning outcomes of the modules and the programme. In addition, continuous formative feedback will
+be given to students through the problem based learning modules, either through laboratory sessions
+or individual tutorial guidance. Students will be encouraged to relate the assessment tasks with
+professional activities, and to relate their achievements with professional standards.
+The department is committed to inclusivity and diversity in its teaching. By the very nature of the
+discipline, virtually all of our teaching material is available in an accessible format, for which we follow
+best practice guidelines, and make our electronic material available before the lectures. We also
+use electronic references and ebooks to further enhance accessibility. Inclusivity and diversity is also
+embedded in what we teach. As such all new students have a lecture on inclusivity and diversity
+as part of their induction and important inclusivity and diversity topics such as the need for
+accessibility and internationalisation and how to achieve them are taught on a variety of modules
+throughout the degree.
+5.2 Assessment regulations
+The programme conforms to the University Regulations http://www.brookes.ac.uk/regulations.
+SECTION 6: ADMISSIONS
+6.1 Entry criteria
+Typical offers are:
+A-level: BBC or equivalent, preferably including science subjects
+IB Diploma: 30 points, preferably including science
+Advanced Diploma: grade B including A-level grade C, preferably in a science subject and excluding
+General Studies
+BTEC National Diploma with a DDM profile, preferably in a science subject.
+Specific entry requirements
+GCSE: Mathematics at grade C minimum, and English Language at grade C minimum.
+6.2 DBS checks
+Not normally required.
+
+--- Page 10 ---
+SECTION 7: STUDENT SUPPORT AND GUIDANCE
+Support and guidance is available to students throughout the programme, starting from when they first
+arrive before the course begins. During induction week, students are given handbooks and other
+documentation explaining the choices available to them on the programme, and how the systems at
+Oxford Brookes work. Each student is supported throughout the course by one of the tutors, who will
+be their Academic Advisor.
+Throughout the programme, module descriptions and programme hand- books, alongside online
+resources available through the virtual learning environment, provide a great deal of guidance for
+students. In addition, they can get help and guidance from their Programme Lead, Subject
+Coordinator, Academic Adviser, and the department’s Student Support Coordinators. They can also
+get module specific advice from the Module Leader and any of the staff teaching on the relevant
+module, and from the specialist technical Instructors.
+At the University level, there are dedicated support services both for specific groups of students such
+as Oxford Brookes International and the Disability Advisory Service and for all students such as
+Upgrade - our study skills development/support service. A full range of support services is offered
+to students seeking graduate roles, and to those looking for placements. Support includes placement
+officers, career advisers and counsellors, and all students are strongly encouraged to take advantage
+of these opportunities.
+Each programme has at least one student representative. These are voted into position by the students
+on the programme and provide a mechanism for issues and concerns to be fed back through the
+department’s committee structure. Student representatives sit on departmental committees concerned
+with programme management and course development and also attend monthly student forums
+which are meetings specifically for the representatives to bring forward student concerns.
+SECTION 8: GRADUATE EMPLOYABILITY
+Graduates from this programme will develop a career in a dynamic and emerging market for advanced
+robot systems across a broad spectrum of application areas. The programme gives students a thorough
+grounding in the practice of computer science and integrates this with the theory and practice of robotic
+systems. Graduates will be well positioned to take up careers in industry such as Robotics Engineer,
+Control Engineer, and Software Engineer, with the ability to specialise in Systems Integration.
+There are very strong international trends in the field of robotics, major corporations such as Apple,
+Amazon and Google are investing heavily in the field beyond the already existing interest of
+manufacturers and defence industries. The European Research Council has opened two new calls
+for research in robotics next to the existing research targets for ICT. Growth of the robotics field, both
+in terms of employment and expenditure, has been significant even through the recession. It is also
+recognised as a UK essential growth market by the British government.
+The external technological factors are based on the industrial technology and governmental forecasts.
+The growth of the robotics market is continuing in the industrial sectors but has seen significant growth
+in precision manufacturing and service sectors. A recent study of the International Federation of
+Robotics has shown that the robotics industry itself is responsible for the creation of close to three
+million jobs world- wide with an expected growth of another million in the next few years.
+
+--- Page 11 ---
+SECTION 9: LINKS WITH EMPLOYERS
+Many modules use guest speakers from industry to illustrate the practical application of the module
+material. The Current Research module in the second year (level 5) is delivered by research active
+staff and guest speakers from industry and from research and development labs. Potential employers
+are keen to talk to a wider spectrum of students, but want to discuss the exact nature of their industry,
+as well as how the students might contribute. The department is host to at least a dozen
+‘Guru’ lectures, delivered as part of the BSc in Information Technology Management for Business
+(ITMB) programme, but open to all students. These are broadcast live at one ITMB university and over
+the internet by the others and include Q&A sessions. Topics complement a variety of technical and
+professional learning outcomes.
+All students may take a year out in industry. Employers are keen to promote their companies and the
+opportunities offered. Even for students who do not take a placement year, this can provide a good
+insight into the type of jobs available and the skills employers are looking for. Students who do take a
+work placement may bring ideas for final year projects back with them, and are noticeably more able to
+contribute insights into industrial applications to the modules they take in their final year.
+The department maintains close links with the university Careers. Themed ‘mini’ careers fairs are
+organised by Careers with tech nology being a common theme. Students are encouraged to use the
+facilities offered, including CV workshops, and practice interviews and assessment-centre activities.
+An Industrial Advisory Board is run within the department, with senior employees of regional and
+representative organisations (including robotics companies) as members. These are Rutherford
+Appleton Lab- oratory, Webmart, OBIS, NAG, Oxfam, Oxford County Council, Omnima, Vicon,
+OMG, and BT. The board is consulted on major initiatives within the department, including
+programme revalidation, possible research partnerships, future trends and directions, and the
+feasibility of new course offerings.
+An alumni organisation has recently been formed in the department. The aim is to invite ex-students
+who are now in a variety of technical and managerial roles, to network with each other, and with our
+current students. It is anticipated that this organisation will be of great benefit to students starting out on
+their careers, as well as for more senior alumni looking to exploit the skills and expertise of the staff
+and students in the department.
+Research centres within the department are actively involved with Knowledge Transfer Partnerships,
+and other links with employer organisations. For example, research links with Engineered Arts Ltd,
+who make Robothespian, Sony, Clearview Traffic, UKP World- wide, Nominet, WildKnowledge, and
+Omnima. One of the spin-offs from these activities is the on-campus presence of industrial-based
+experts in fields closely related to our degree offerings.
+The department has strong links with the leading manufacturers of robotics systems in the United
+Kingdom, and work closely with them on robotic system research and development.
+SECTION 10: QUALITY MANAGEMENT
+Indicators of quality/methods for evaluating the quality of provision
+The primary indicators of quality come through regular student feedback, module reviews, external
+examiners’ reports, annual and periodic programme reviews and student surveys. Student feedback
+on a module is gathered using the standard university feedback form and is summarised by the
+administration team within the faculty. This summary is incorporated into the module report
+
+--- Page 12 ---
+documentation used to inform the module review at the Subject Committee which is attended by the
+student representative for the subject. Responses to the student feedback for each module are agreed
+at this meeting. These responses are acted upon and included in the following year’s module
+handbook. The minutes of the subject committee that summarise the discussion of mo ule reviews
+are then presented at the Subject Examination Committee meeting where comments are invited from
+the External Examiners. Any changes to module delivery and/or content which arise out of this review
+process are communicated to the Subject Committee chair who has the responsibility of ensuring that
+they are implemented.
+Each module is assigned an Internal Moderator who has the responsibility for checking the quality of
+the examination papers and the course- work specifications before they are sent to the External
+Examiner for comments. Examination papers and coursework specification may be modified in the light
+of the External’s comments before submission to the University Examination Office. The Internal
+Moderator also verifies the quality of marking of the assessments on a module, based on a randomly
+selected sample.
+The programme as a whole is reviewed annually through the University Annual Review procedure.
+This review assesses the quality of teaching, learning and assessment and the overall academic
+standards of the programme. It takes into account student progression and compares the overall
+performance of students against the University benchmark. The Annual Review considers and
+responds to the comments from the External Examiners.
+Programmes are reviewed normally on a six year periodic cycle in accordance with the provisions of the
+quality framework set by the University.
+The National Student Survey of final year students provides valuable annual feedback on the student
+experience. The results of the NSS are evaluated at both Department and Faculty level and an
+action plan is drawn up to ensure that the necessary changes are made to improve the student
+experience.
+Regular Student Forum meetings are held during semester to give the student representatives a forum
+to present and discuss the concerns of the student body. The forums are attended by senior members
+of the department.
+The Industrial Advisory Board is valuable in involving employers and other stakeholders in the
+development of all Computing programmes including Computing for Robotic Systems. The Board
+meets on a regular basis to discuss the research and the teaching that is done in the department.
+Comments are invited from Board members on the portfolio of programmes and on any new
+programme developments.

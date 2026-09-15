@@ -1,0 +1,116 @@
+Module Guide
+Programming and Problem Solving
+COMP4004
+Level 4		30 Credits
+Module Leader: Arantza Aldea
+2026-27
+Purpose of this guide
+The purpose of this Module Guide is to provide you with specific information that underpins the design, delivery and management of this module.  It is your responsibility to familiarise yourself with the contents of this Module Guide and to talk to your seminar tutor if you have any questions.  
+This isn’t the only guide available to you. Alongside this guide you will also have access to the University Handbook which will provide you with information that is central to your studies, including policies and regulations, student support and wellbeing and all the services available to you through Student Support.
+You will also be given a Programme Handbook which will detail the design, delivery principles and management of your programme. It will also provide you with an overview of your key contacts for your programme of study and list all the modules you will be / might be studying throughout the duration of your award.
+Contents
+Module introduction
+Module leader contact details
+Name: Dr Arantza Aldea
+Room:	NHHB10.1, Headington Hill Campus
+email:	aaldea@brookes.ac.uk
+Office hours:	Mondays 3:00-5:00pm
+Seminar leader contact details
+Name:	 Dr Shujaat Kausar
+Room:	NHHB1.01, Headington Hill Campus
+email:	s.kausar@brookes.ac.uk
+Office hours:	Mondays 2:00-3:00pm and Thursdays 11:00 -12:00 pm
+Library Support
+Contact the library for help and support with resources and referencing for your programme. You can find more in-depth library information on the Course Resource Help page for your subject.
+Changes made to the module (if any) in response to student and other feedback
+Additional material on introduction to Data Science has been added at the end of the semester and extra optional exercises.
+Module Study Plan
+This is a double module. You will have a two-hour lecture on Monday morning followed by 4 hours of lab sessions in Mondays or Tuesdays, and also on Thursdays. 
+Week 1
+The lecture will introduce the module and basic concept of programming. In the labs you will start writing code and solving the first exercises on Python and a weekly quiz. The lab exercises should be completed by the end of each week 
+Week 2
+Conditions and Boolean expressions will be taught in the lecture with some examples. In the practical labs you will practise the concepts by solving some problems with your practical tutor. These exercises will need to be solved by the end of Thursday lab together with the quiz. You will also have two extra exercise to solve by yourself that will need to be submitted at the end of the semester.
+Week 3
+The lecture will focus on the repetition of code and the type list. You will write solutions to problems that require the use of loops and conditional statements. Again there will be two exercises that will be part of your portfolio exercises and a quiz
+Week 4
+Functions, parameters and attributes will be explained in the lecure with several examples. You will create your own function in the lab and will learn to divide a big problem in to functions that will be used later on. Again there will be a quiz and tow portfolio exercises that will be part of your portfolio. 
+Week 5
+All the concepts seem so far will be consolidated with a case study that will be developed in the lab and you will also complete a quiz 
+Week 6
+How to store and read data from text file will be taught in the lecture and you will be introduced to the concept of processing data from files. You will do some lab work in class that will help you to complete the portfolio exercises
+Week 7
+Some more complex data set will be introduced in the lecture: Lists, sets and dictionaries. You will see their similarities  and differences and will learn how to use them. Again there will be some portfolio exercises to do at home 
+Week 8
+In week 8 I will introduce tkinter and you will learn to create GUIs using this Python library. You will  write some code in the lab with the halp of your tutors and the wto final portfolio exercises will be rleased.
+Week 9
+Introduction to Data Science libraries sucha as numpy and pandas 
+Week 10
+Consolidation week. All the concepts will be reviewed with a case study and the final coursework will be introduced. There will be a mock class test in one of the lab and you will work on the assessment in the second lab.  
+Week 11
+Introduction to OO Programming in Java and link to semester 2. In the lab we will see some Java exercises and there will be time to ask questions about the assessments. The portfolio exercises will be due at the end of the week.
+Week 12
+Time limited assessment on Thursday and submission of the end of semester coursework on Friday.Module syllabus
+This module aims to provide students with the necessary skills to develop elements of computer software. This will be taught in a comprehensive manner, including learning skills and appreciation of the essential requirements of computer programming methodology. This will illustrate the software development process as it is used in industry, science, and commerce.
+Syllabus
+A problem-based approach will be taken in which the following content will be taught in the context of a series of problem sets that address speciﬁc, small-scaled, real-world software development requirements:
+
+Studying the process of applying programming skills to problem sets, resolving solutions into functional computer programs.
+Principles of program speciﬁcation, including the use of programming contracts.
+Understanding the requirements of learning Computer Science, scientiﬁc thinking and making notes 
+Algorithm design and development in both pseudo-code and programming language.
+An introduction to data representation.
+Documentation
+Testing and evaluation
+The fundamental concepts of high level programming languages:
+constants
+variables
+expressions
+Boolean operators
+program structuring constructs (sequence, selection and iteration)
+functions, parameters, local variables, scope
+Recommended reading list
+COMP4004 Reading List 
+Assessment information
+This module follows the principles of the University’s Assessment and feedback policy developed in conjunction with the Student Union, to ensure good practice and transparency in assessment and feedback processes. The Assessment and feedback policy can be found in your Programme Handbook or on your Programme’s Brookes Virtual site.
+Please note: the Institutional University Handbook which will provide you with information that is central to your studies, including policies and regulations, student support and wellbeing and all the services available to you through Student Support. The core information is also available on Moodle via the drop-down menu under ‘Student Help’.
+Coursework 1: Portfolio Exercises 
+Your Portfolio exercises will appear every week in your Codio web page. You will be taken through each piece of coursework in a full briefing during your scheduled teaching hours
+Coursework 2: End of Semester Coursework
+The specification of the coursework will be uploaded into Moodle during the consolidation week.
+Coursework 3: Time-Limited Assessment 
+This coursework will consist of a programming problem that you will have to solve in a timely manner in the lab. 
+Artificial Intelligence and its use in this assessment
+This link will take you to guidance about writing an acknowledgement of AI in your assignments. This link will take you to the Moodle course Use of Artificial Intelligence. 
+For this assessment specifically, the extent you can use AI tools is detailed below,
+You must not use any AI tool for this module. You can however use the AI coach embedded in Codio
+If an AI tool apparat from the Codio coach has been used to write the code of any of the assessed work, that piece of assessment will not receive marks.
+Backing Up Work
+Generally, IT-related problems are not considered valid grounds for exceptional circumstances. This is because students are expected to back up their work regularly via their Google Drive, so that they can continue accessing their files on other devices. If you experience IT issues, you are expected to take prompt action to remedy these, for example, by raising a ticket with the IT Service Desk; taking your technology for repair or contacting your faculty if you need support with faculty-provided software. 
+If your own device is faulty, over 1,000 open access PCs are available for use on campus, or you may borrow a laptop for up to four hours from one of the self-service cabinets on campus. 
+Presenting coursework for assessment
+You will have to work in Codio and your solution must be copied and pasted in the word document that will be uploaded into Moodle. 
+Turnitin 
+The portfolio exercises and the final coursework  on this module will be submitted through Turnitin and codio. Turnitin is a web-based tool that supports the development of good academic practice when preparing written work for assessment. This text-matching tool allows academic staff to check assignments for improper use of sources or potential plagiarism by comparing it against continuously up-dated databases (including web-pages and other student work).
+Submission date and instructions
+Your work must be uploaded to the dropbox in Moodle by Friday of week 11 for the portfolio exercises and Friday of week 12 for the end of semester coursework.
+University policy is that the default is that all assessment submissions will be online. Any cases for exception to this policy need to have appropriate approval at Faculty level.  Exceptions to this rule are published on the Faculty Google site
+Please ensure you submit your assignment no later than the deadline set above (these are fixed deadlines, but students may exceptionally secure an extension if last minute untoward circumstances affect your ability to submit on time). Please see your Programme Handbook for more details.  Please note the use of this extension is monitored and restrictions in place for overuse. 
+The Blue Marking Card adjustment is only available to students who have an Inclusive Support Plan (ISP) specifying this adjustment and will usually be added automatically
+Recommendations for Reasonable Adjustments are made in accordance with the provisions of the Equality Act 2010. These are detailed in Inclusive Support Plans (ISPs) and need to be implemented unless there is a clear rationale for this not being possible, in which case we are accountable as an HEI for this decision. Alternatives should be considered, and further advice sought from the Inclusive Support Service to ensure we are compliant, consistent, and following best practice.
+ISP Extensions
+If you have an Inclusive Support Plan you can check whether you have coursework extensions and how many weeks on your Student Information page. Contact your module leader if you are unclear about your deadlines.
+Do not confuse coursework extensions agreed as part of an Inclusive Support Plan (ISP) with Exceptional Circumstances. There are no limits to how often you can use the extensions agreed as part of your ISP.
+There are final submission dates which no extensions can go beyond. These are the same for extensions agreed through the Exceptional Circumstances Procedure or an ISP. You can find this on the Exceptional Circumstances website. If you are not sure whether your ISP coursework extension would go past the final hand-in date, always contact your Module Leader to confirm your deadline.
+Coursework extensions included as part of your Inclusive Support Plan (ISP) can be used for assignment for the portfolio exercises and end of semester assessment. 
+The time-limited assessment is a non-examined event assessment. Any extra time, including rest breaks, agreed as part of your Inclusive Support Plan (ISP) will be given.
+Marking and moderation of your work
+Following internal moderation, a sample of work is reviewed by the External Examiner for the programme to ensure that the standards applied are comparable to those at other institutions. To read how your work is moderated please go to your Programme Handbook for details.
+Feedback
+Feedback on your work will be provided in a range of ways at various times throughout this module, and different feedback will serve slightly different purposes. Feedback is designed to support your learning and help you to improve subsequent work, so you need to engage and get the most out of the feedback provided. 
+Please note that feedback is provided throughout the module, not just on formal tasks. It will be provided on your work and contribution in class, on the formal assessment tasks and, in some circumstances, during staff office hours. 
+If you would like further information about feedback, or how to use it, please talk to your academic tutor on this module or your Academic Adviser or Programme Lead.
+Assessment feedback will normally be provided within 15 working days of submission 
+Please note that all marks are provisional until they are ratified by an Examination Committee. 
+On successful completion of this module, students will be able to: | On successful completion of this module, students will be able to: | Brookes Attribute developed* | Other Brookes Attributes developed, if applicable
+1 | Design, implement and test computer programs, derived from application based case studies, implemented using an appropriate computer programming language. | Academic Literacy | Digital and Information Literacy
+2 | Demonstrate a thorough understanding of the fundamental concepts of high level programming languages, including the syntax and semantics of constructs for input/output, control ﬂow and elementary data structuring. | Academic Literacy | 

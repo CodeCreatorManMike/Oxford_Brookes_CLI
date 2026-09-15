@@ -1,0 +1,472 @@
+--- Page 1 ---
+Semester 2, 2023–2024 MATH4004
+MATH4004 Mathematics for Computing
+Examination Rubric
+Examination length: 2 hours.
+Answer all questions.
+The maximum mark available for the paper is 50.
+A copy of the Mathematics for Computing Formula Booklet is provided.
+A calculator is provided.
+Page 1 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 2 ---
+Semester 2, 2023–2024 MATH4004
+Examination Questions
+1. (a) Factorise the following expressions.
+2
+i. x +5x+4
+ii. x(x−3)−4
+4 marks
+2
+i. x +5x+4 = (x+4)(x+1)
+2
+ii. x(x−3)−4 = x −3x−4 = (x−4)(x+1)
+[4 marks]
+(NOTE: AWARD 2 MARKS FOR EACH PART AND AWARD PARTIAL CREDIT FOR
+ATTEMPTS THAT TRY TO DO THE CORRECT THING, BUT CAN’T QUITE GET THERE.)
+(b) Hence, or otherwise, find all values x that satisfy both
+2
+x +5x+4 = 0 and x(x−3)−4 = 0.
+1 mark
+The first equation has two solutions −4,−1. The second equation has two
+solutions 4,−1. Therefore, the only x value that solves both is x = −1.
+[1 mark]
+(NOTE: ALLOW ERRORS FROM PART (A) TO CARRY FORWARD, UNLESS THEY MAKE
+THE QUESTION TRIVIAL.)
+Total: 5 marks
+Page 2 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 3 ---
+Semester 2, 2023–2024 MATH4004
+2. Consider the sets
+A = {a,d,e, f},
+B = {a,c,d, f},
+C = {b,e}.
+Find the following sets.
+(a) A∩B 1 mark
+A∩B = {a,d, f}
+[1 mark]
+(b) A∪C 1 mark
+A∪C = {a,b,d,e, f}
+[1 mark]
+(c) (A∪C)∩B 1 mark
+(A∪C)∩B = {a,d, f}
+[1 mark]
+(NOTE: ALLOW FOLLOW THROUGH MARKS FOR AN ERROR IN THE PREVIOUS PART
+AS LONG AS THE QUESTION DOES NOT BECOME TRIVIAL.)
+(d) A×C 1 mark
+A×C = {(a,b),(a,e),(d,b),(d,e),(e,b),(e,e),(f,b),(f,e)}
+[1 mark]
+(e) B∆C 1 mark
+B∆C = {a,b,c,d,e, f}
+[1 mark]
+Total: 5 marks
+Page 3 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 4 ---
+Semester 2, 2023–2024 MATH4004
+3. Consider rolling a fair six-sided die. Let A be the event that the result is odd and
+B be the event that the result is a multiple of 3.
+(a) Sketch the events A and B on a Venn diagram.
+2 marks
+A B
+1,5 3 6
+2,4
+[2 marks]
+(b) Hence, or otherwise, determine the probability of the following events:
+i. The result of rolling the die is both odd and a multiple of 3.
+1 mark
+1
+We have P(A∩B) = .
+6
+[1 mark]
+ii. The result of rolling the die is either odd or a multiple of 3, but not both.
+1 mark
+3 1
+We have P(A∆B) = = .
+6 2
+[1 mark]
+iii. The result of rolling the die is neither odd nor a multiple of 3.
+1 mark
+2 1
+We have P(∼ (A∪B)) = = .
+6 3
+[1 mark]
+Page 4 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 5 ---
+Semester 2, 2023–2024 MATH4004
+Total: 5 marks
+Page 5 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 6 ---
+Semester 2, 2023–2024 MATH4004
+4. Consider a bag containing four red balls and three white balls that are otherwise
+identical. Suppose that three balls are drawn at random from the bag without
+replacement.
+(a) Draw the probability tree for this situation. Make sure to note all of the
+branching probabilities.
+3 marks
+2 {RRR}
+5
+{RR}
+3 1
+=
+6 2 3
+5 {RRW}
+{R}
+3 {RWR}
+3 = 1 5
+4 6 2
+7
+{RW}
+2
+5 {RWW}
+{}
+3 {WRR}
+5
+{WR}
+3
+7 4 = 2
+6 3 2
+5 {WRW}
+{W}
+4 {WWR}
+2 = 1 5
+6 3
+{WW}
+1
+5 {WWW}
+Page 6 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 7 ---
+Semester 2, 2023–2024 MATH4004
+(NOTE: AWARD PARTIAL MARKS FOR A PARTIALLY CORRECT TREE, AND A STUDENT
+DOES NOT NEED TO REDUCE THE FRACTIONS TO EARN THE MARKS.)
+(b) Use your tree to find the probability that exactly one red ball is drawn.
+2 marks
+One red ball is draw in the cases:
+4 1 2 4
+• RWW, which has probability × × =
+7 2 5 35
+3 2 2 4
+• WRW, which has probability × × =
+7 3 5 35
+3 1 4 4
+• WWR, which has probability × × =
+7 3 5 35
+So, the probability of drawing exactly one red being drawn is
+4 4 4 12
++ + = .
+35 35 35 35
+[2 marks]
+(NOTE: ALLOW ERRORS IN THE TREE TO FOLLOW THROUGH, AS LONG AS THE
+QUESTION DOES NOT BECOME TRIVIAL.)
+Total: 5 marks
+Page 7 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 8 ---
+Semester 2, 2023–2024 MATH4004
+5. Consider the relation R on the set {a,b,c,d} represented by the matrix:
+a b c d
+ 
+a F T T F
+ 
+b T F T F
+ 
+ .
+c  F F F T 
+ 
+d F F F F
+(a) Draw the digraph representing the relation R.
+2 marks
+d• •c
+a• •b
+[2 marks]
+(NOTE: AWARD PARTIAL CREDIT FOR AN ALMOST CORRECT ANSWER AND THE
+STUDENT DOES NOT NEED TO LABEL THE ROWS AND COLUMNS.)
+(b) Is the relation R reflexive? Justify your answer.
+1 mark
+No, the relation is not reflexive, because no element is related to itself.
+[1 mark]
+(NOTE: THE STUDENT CAN ARGUE VIA THE GRAPH OR THE MATRIX. IT IS ALSO
+ONLY NECESSARY TO POINT OUT THAT THERE IS NO SELF-RELATION FOR ONE
+VERTEX.)
+(c) Is the relation R symmetric? Justify your answer.
+1 mark
+No, the relation is not symmetric as the matrix representing the relation is
+not symmetric.
+Page 8 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 9 ---
+Semester 2, 2023–2024 MATH4004
+[1 mark]
+(NOTE: AGAIN, THE STUDENT MAY ARGUE VIA THE GRAPH OR THE MATRIX AND
+ONLY NEEDS TO POINT OUT ONE FAILURE.)
+(d) Is the relation transitive? Justify your answer.
+1 mark
+No, the relation is not transitive, because aRc and cRd, but a and d are not
+R-related.
+[1 marks]
+(NOTE: ANY VALID COUNTER EXAMPLE IS SUFFICIENT JUSTIFICATION.)
+Total: 5 marks
+Page 9 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 10 ---
+Semester 2, 2023–2024 MATH4004
+6. (a) A palindrome is a string of digits that reads the same backwards as it reads
+forwards. For example
+123454321
+is a palindrome. How many different palindromes are there with 9 digits,
+assuming that palindromes cannot start with a zero?
+2 marks
+The first five digits can be chosen, whereas the final four are fixed (so that
+the string is a palindrome). The first digit cannot be zero and so can be any
+of the digits 1–9, i.e. there are 9 possibilities for the first digit. The
+remaining four digits can be any of the digits 0–9, i.e there are 10
+possibilities for these digits. Hence, the number of palindromes is
+4
+9×10 = 90000.
+[2 marks]
+(b) How many distinct rearrangements are there of the letters in the word
+‘LONDON’ which
+i. begin with the letter ‘D’?
+ii. have both of the ‘N’s together?
+3 marks
+i. Beginning with ‘D’, there are five letters left to arrange. Of these five
+letters, two are ‘N’ and two are ‘O’, and so the number of arrangements
+is
+5!
+= 30.
+2!2!
+ii. Grouping the two ‘N’s together, we wish to know the number of possibly
+arrangements of the four symbols ‘L’, ‘O’, ‘NN’, ‘O’, and ‘D’. We have
+five symbols of which two are the same and so the number of possibly
+arrangements is
+5!
+= 60
+2!
+[3 marks]
+Total: 5 marks
+Page 10 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 11 ---
+Semester 2, 2023–2024 MATH4004
+7. (a) Suppose an ultimate frisbee squad has 15 players. A grass on-field
+ultimate frisbee team consists of 7 players. How many different on-field
+teams are possible?
+2 marks
+Since the order does not matter a single player cannot be in the team twice,
+we have a combination. Thus, the number of different teams is
+15!
+= 6435.
+7!8!
+[2 marks]
+(NOTE: A STUDENT NEED NOT JUSTIFY WHY THEY HAVE USED A COMBINATION.
+PARTIAL CREDIT MAY BE AWARDED FOR THE STUDENT SHOWING SOME
+UNDERSTANDING EVEN IF THEY GET THE QUESTION WRONG.)
+(b) Suppose that an ultimate frisbee competition states in its rules that a team
+of 7 must comprise 4 men and 3 women. Given that the squad of 15 has 10
+men and 5 women, how many teams of 7 players are possible?
+3 marks
+We haveC(10,4) = 210 for the possible outfield players andC(5,3) = 10
+possible goalkeepers. Hence, by the multiplication principle, the total
+number of possible teams is
+210×10 = 2100.
+[3 marks]
+(NOTE: A STUDENT NEED NOT JUSTIFY WHY THEY HAVE USED COMBINATIONS AND
+THE MULTIPLICATION PRINCIPLE. PARTIAL CREDIT MAY BE AWARDED FOR THE
+STUDENT SHOWING SOME UNDERSTANDING EVEN IF THEY GET THE WRONG
+ANSWER.)
+Total: 5 marks
+Page 11 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 12 ---
+Semester 2, 2023–2024 MATH4004
+8. Consider the graph G below.
+c b
+• •
+d• •a
+• •
+e
+f
+(a) Determine whether or not G has an Eulerian cycle. Justify your answer.
+2 marks
+There is no Eulerian cycle, because there are vertices of odd degree. For
+example, a has degree 3.
+[2 marks]
+(NOTE: A STUDENT NEED TO BE EXPLICIT ABOUT WHICH VERTEX (OR VERTICES)
+HAVE ODD DEGREE.)
+(b) For each of the graphs below, decide whether or not it is a subgraph of G.
+Justify your answer.
+i. ii.
+• •
+•
+• • •
+•
+•
+•
+3 marks
+i. This graph is not a subgraph, because there are exactly four vertices of
+degree three and these vertices create a different subgraph.
+ii. This graph is a subgraph, which can be seen via the following labelling:
+Page 12 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 13 ---
+Semester 2, 2023–2024 MATH4004
+b
+•
+e•
+•a
+d•
+•
+c
+[3 marks]
+Alternatively, the second subgraph appears with the labelling:
+b
+•
+f•
+•d
+a•
+•
+c
+(NOTE: MARKS SHOULD BE DIVIDED EQUALLY BETWEEN THE TWO PARTS AND
+PARTIAL CREDIT SHOULD BE AWARDED AS APPROPRIATE.)
+Total: 5 marks
+Page 13 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 14 ---
+Semester 2, 2023–2024 MATH4004
+9. Consider the following digraph.
+a b
+• •
+• •
+c
+d
+(a) Find the reachability matrix of the digraph.
+4 marks
+The adjacency matrix is
+a b c d
+ 
+a F T F F
+ 
+b T F T T
+ 
+M =  .
+c  F F F T 
+ 
+d F F T F
+So, we have
+a b c d
+ 
+a T F T T
+ 
+b F T T T
+2  
+M =  ,
+c  F F T F 
+ 
+d F F F T
+a b c d
+ 
+a F T T T
+ 
+b T F T T
+3  
+M =  ,
+c  F F F T 
+ 
+d F F T F
+a b c d
+ 
+a T F T T
+ 
+b F T T T
+4  
+M =  .
+c  F F T F 
+ 
+d F F F T
+Page 14 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 15 ---
+Semester 2, 2023–2024 MATH4004
+Hence, the reachability matrix is
+a b c d
+ 
+a T T T T
+ 
+b T T T T
+∗  
+M =  .
+c  F F T T 
+ 
+d F F T T
+[4 marks]
+(b) What does your reachability matrix say about paths from a to d?
+1 mark
+The reachability matrix has a true in the relevant row and column, meaning
+there is a path of length four or less from a to d.
+[1 mark]
+(NOTE: AN ERROR IN THE REACHABILITY MATRIX CAN BE CARRIED FORWARD
+HERE. STUDENTS MAY START TALKING ABOUT THE POWERS OF M AND WHAT THAT
+SAYS, BUT THE QUESTION IS ABOUT M∗ SPECIFICALLY.)
+Total: 5 marks
+Page 15 of 16
+©OxfordBrookesUniversity17/5/2024
+
+--- Page 16 ---
+Semester 2, 2023–2024 MATH4004
+10. Simplify the following matrix expressions.
+(cid:34) (cid:35) (cid:34) (cid:35)
+1 2 2 −1
+(a) +
+−1 3 1 1
+1 mark
+(cid:34) (cid:35) (cid:34) (cid:35) (cid:34) (cid:35)
+1 2 2 −1 3 1
++ =
+−1 3 1 1 0 4
+[1 mark]
+(cid:34) (cid:35)(cid:34) (cid:35)
+3 1 −1 0
+(b)
+1 2 2 3
+2 marks
+(cid:34) (cid:35)(cid:34) (cid:35) (cid:34) (cid:35) (cid:34) (cid:35)
+3 1 −1 0 −3+2 3 −1 3
+= =
+1 2 2 3 −1+4 6 3 6
+[2 marks]
+(cid:34) (cid:35)
+1 2
+(c) Find the inverse of the matrix .
+0 3
+2 marks
+The determinant of the matrix is
+1×3−2×0 = 3
+and so the inverse is
+(cid:34) (cid:35)
+1 3 −2
+.
+3 0 1
+[2 marks]
+(NOTE: AWARD PARTIAL CREDIT AS APPROPRIATE.)
+Total: 5 marks
+End of Examination Paper
+Page 16 of 16
+©OxfordBrookesUniversity17/5/2024
