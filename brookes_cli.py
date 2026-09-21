@@ -14,6 +14,14 @@ Usage:
     python3 brookes_cli.py list                  List all courses/sections
     python3 brookes_cli.py show <doc-id>          Print a document in full
     python3 brookes_cli.py topics                 List general (non-course) topics
+    python3 brookes_cli.py deadlines [course]     List every deadline-shaped sentence found
+    python3 brookes_cli.py import <file> --course "01 COMP4004 - ..."
+                                                   Ingest a real .docx/.txt/.md file
+
+There is no live network access here on purpose — Moodle needs a login this
+tool never handles. To bring in fresh content: download or export it
+yourself (a Module Guide .docx, a saved page, etc) and run `import` — it's
+re-indexed on every run, so re-importing a newer version just replaces it.
 
 Run `python3 brookes_cli.py --help` for all options.
 """
@@ -26,11 +34,19 @@ import os
 import re
 import sys
 import textwrap
+import zipfile
 from collections import Counter, defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
+
+DEADLINE_KEYWORDS_RE = re.compile(
+    r"\b(deadline|due (?:date|by|on|for|in)|submission date|hand-?in|submitted by|closing date|"
+    r"uploaded?\b.{0,60}\bby\b|due at the end|due on|must be (?:uploaded|submitted)|final hand-in)\b",
+    re.IGNORECASE,
+)
+SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+")
 
 STOPWORDS = {
     "a", "an", "the", "of", "in", "on", "at", "to", "for", "and", "or", "is",
@@ -207,6 +223,88 @@ def cmd_topics(docs: list[Document]):
         print(f"  {d.doc_id:35s} — {d.title}")
 
 
+def extract_docx_text(path: Path) -> str:
+    """Pull plain text out of a .docx (it's a zip of XML) — stdlib only,
+    no python-docx dependency."""
+    with zipfile.ZipFile(path) as z:
+        xml = z.read("word/document.xml").decode("utf-8", errors="replace")
+    xml = xml.replace("</w:p>", "\n")
+    text = re.sub(r"<[^>]+>", "", xml)
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{2,}", "\n", text).strip()
+    return text
+
+
+def cmd_import(path_str: str, course: str, out_name: str | None):
+    """Ingest a real local file (currently .docx, .txt, .md) into
+    data/courses/<course>/ so it becomes searchable. This is how content
+    gets in when there's no live Moodle session available — drop the file
+    you already have (a downloaded module guide, an exported page, etc)
+    and import it once; re-run whenever you have a newer version."""
+    src = Path(path_str).expanduser()
+    if not src.is_file():
+        print(f"No such file: {src}", file=sys.stderr)
+        sys.exit(1)
+
+    suffix = src.suffix.lower()
+    if suffix == ".docx":
+        text = extract_docx_text(src)
+    elif suffix in (".txt", ".md"):
+        text = src.read_text(encoding="utf-8", errors="replace")
+    else:
+        print(f"Unsupported file type '{suffix}'. Supported: .docx, .txt, .md", file=sys.stderr)
+        sys.exit(1)
+
+    if not text.strip():
+        print("Extracted no text from that file — nothing to import.", file=sys.stderr)
+        sys.exit(1)
+
+    course_dir = DATA_DIR / "courses" / course
+    course_dir.mkdir(parents=True, exist_ok=True)
+    dest = course_dir / f"{out_name or src.stem}.txt"
+    dest.write_text(text, encoding="utf-8")
+    print(f"Imported {len(text):,} characters -> {dest.relative_to(DATA_DIR)}")
+    print(f"Query it with: python3 brookes_cli.py search \"...\" or show {dest.relative_to(DATA_DIR).with_suffix('')}")
+
+
+def subject_name(d: Document) -> str:
+    """Document.course is always the generic top-level bucket ("courses" or
+    "general") — this pulls out the actual subject/module folder name for
+    display, e.g. "01 COMP4004 - Problem Solving and Programming"."""
+    parts = Path(d.rel_path).parts
+    return parts[1] if d.course == "courses" and len(parts) > 1 else d.course
+
+
+def cmd_deadlines(docs: list[Document], course_filter: str | None):
+    """Scan every indexed document for deadline-shaped sentences and list
+    them grouped by course — the "what's outstanding" view."""
+    by_course: dict[str, list[tuple[str, str]]] = defaultdict(list)
+    for d in docs:
+        if course_filter and course_filter.lower() not in d.rel_path.lower():
+            continue
+        seen = set()
+        flat = " ".join(d.content.split("\n"))
+        for sentence in SENTENCE_SPLIT_RE.split(flat):
+            sentence = sentence.strip()
+            if len(sentence) < 15 or "PAGEREF" in sentence or not DEADLINE_KEYWORDS_RE.search(sentence):
+                continue
+            if sentence in seen:
+                continue
+            seen.add(sentence)
+            by_course[subject_name(d)].append((d.title, sentence))
+
+    if not by_course:
+        print("No deadline-shaped sentences found." + (f" (filtered to '{course_filter}')" if course_filter else ""))
+        return
+
+    for course in sorted(by_course):
+        print(f"\n== {course} ==")
+        for title, line in by_course[course]:
+            wrapped = textwrap.fill(line, width=96, initial_indent="  ", subsequent_indent="    ")
+            print(f"  [{title}]")
+            print(wrapped)
+
+
 def cmd_show(docs_by_id: dict[str, Document], doc_id: str):
     doc = docs_by_id.get(doc_id)
     if doc is None:
@@ -228,7 +326,7 @@ def cmd_show(docs_by_id: dict[str, Document], doc_id: str):
 
 def repl(index: Index, docs_by_id: dict[str, Document]):
     print("Oxford Brookes CLI — interactive mode.")
-    print("Type a question/topic to search, or a command: list, topics, show <id>, quit\n")
+    print("Type a question/topic to search, or a command: list, topics, deadlines [course], show <id>, quit\n")
     while True:
         try:
             line = input("brookes> ").strip()
@@ -245,6 +343,8 @@ def repl(index: Index, docs_by_id: dict[str, Document]):
             cmd_topics(list(docs_by_id.values()))
         elif line.startswith("show "):
             cmd_show(docs_by_id, line[len("show "):].strip())
+        elif line == "deadlines" or line.startswith("deadlines "):
+            cmd_deadlines(list(docs_by_id.values()), line[len("deadlines "):].strip() or None)
         else:
             cmd_search(index, line, top_k=6)
 
@@ -267,7 +367,19 @@ def main():
     p_show = sub.add_parser("show", help="Print a document in full")
     p_show.add_argument("doc_id", help="Document id (or partial match), from `list`")
 
+    p_import = sub.add_parser("import", help="Ingest a real local file (.docx/.txt/.md) into a course's knowledge base")
+    p_import.add_argument("file", help="Path to the file, e.g. a downloaded Module Guide .docx")
+    p_import.add_argument("--course", required=True, help='Course folder name, e.g. "01 COMP4004 - Problem Solving and Programming"')
+    p_import.add_argument("--name", help="Output filename (without extension); defaults to the source filename")
+
+    p_deadlines = sub.add_parser("deadlines", help="List every deadline-shaped sentence found across indexed documents")
+    p_deadlines.add_argument("course", nargs="?", help="Optional course name filter (substring match)")
+
     args = parser.parse_args()
+
+    if args.command == "import":
+        cmd_import(args.file, args.course, args.name)
+        return
 
     docs = load_documents()
     if not docs:
@@ -285,6 +397,8 @@ def main():
         cmd_topics(docs)
     elif args.command == "show":
         cmd_show(docs_by_id, args.doc_id)
+    elif args.command == "deadlines":
+        cmd_deadlines(docs, args.course)
     else:
         repl(index, docs_by_id)
 
